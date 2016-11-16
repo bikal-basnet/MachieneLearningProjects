@@ -20,6 +20,7 @@ jupyter notebook
 ```
 
 Step 3:  Then jupyter notebook will open in the browser. 
+
 Step 4: Traverse to the ".ipynb" file and you can then change or run the program as desired in the browser notebook itself.
 
 ## Project Structure

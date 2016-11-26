@@ -14,14 +14,20 @@ Please traverse into the specific project you want to try and follow the project
 ## Table of Contents
 The table of contents represents the structure of the directory and sub directory of various machine learning projects, as in this repository. 
 
-We have tried to structure the various projects into the proper structure and category, based on their respective machine learning project tasks.
+We have tried to structure the various projects into the proper structure and category, based on their respective machine learning project tasks. Please visit the directory, for details regarding the projects and the "Getting Started Guide"
 
 
 1. Supervised Learning Projects
- - Prediction of Boston House Prices
+ - Boston House Prices Predictor
+ - Human Activity Predictor - using Smartphone Sensor Data
+ - Loan Interest Rate Influencer Predictor
+ - Student Intervention Need Detector
 
 2. Unsupervised Learning Projects
+ - Product Delivery Time Structurer
 
 3. Reinforcement Learning Projects
-
+ - A Smart self driving Car
+ 
 4. Deep Neural Network Projects
+ - Product Sales Demand Forecaster - LSTM Deep Learning Neural Network

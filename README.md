@@ -20,6 +20,7 @@ We have tried to structure the various projects into the proper structure and ca
 1. Supervised Learning Projects
  - Boston House Prices Predictor
  - Human Activity Predictor - using Smartphone Sensor Data
+ - Digit Recogniser
  - Loan Interest Rate Influencer Predictor
  - Student Intervention Need Detector
 

@@ -1,0 +1,94 @@
+# LSTM for international airline passengers problem with regression framing
+#### Load Librarires
+import numpy
+import matplotlib.pyplot as plt
+import pandas
+import math
+from keras.models import Sequential
+from keras.layers import Dense
+from keras.layers import LSTM
+from sklearn.preprocessing import MinMaxScaler
+
+#### Create  DataSet for training : x = no. of passengers at time t, Y = no. of passengers at time t+1
+## e.g Converts  [112,118,132,129,.........] TO
+# X		Y
+# 112		118
+# 118		132
+# 132		129
+
+def create_dataset(dataset, look_back = 1 ):
+	dataX, dataY = [] , []
+	for i in range (len(dataset) - look_back - 1 ):
+		a = dataset[i: (i+ look_back), 0 ]
+		dataX.append(a)
+		dataY.append(dataset[ i+look_back , 0])
+	return numpy.array(dataX), numpy.array(dataY)
+
+
+
+#### Reproducibility : Fix random seed
+numpy.random.seed(7)
+
+#### Load Data
+
+dataframe = pandas.read_csv.('international-airline-passengers.csv', usecols = [1], engine = 'python', skipfooter = 3)
+dataset = dataframe.values
+dataset = dataset.astype('float32')
+
+#### Normalise Data
+# Becasue :LSTM are sensitive to scale, especially when sigmoid or tanh activation functyion is use.
+scaler = MinMaxScaler(feature_range = (0,1))
+dataset = scalar.fit_transform(dataset)
+
+
+#### Train-Test Data Split : 67% train , 33% test data size
+train_size = int(len(dataset) * 0.67 )
+test-size = len(dataset)- train_size
+train, test = dataset[0:train_size , : ], dataset[ train_size:len(dataset), : ]
+print('length of train and test is ', len(train), len(test))
+
+
+#### Convert to Time series expected Data format
+# reshape into X=t and Y=t+1
+look_back = 1
+trainX, trainY = create_dataset(train, look_back )
+testX, testY = create_dataset(test, look_back )
+# LSTM expects the input data in form : [samples, time steps, features]. Convert the train and test data
+trainX = numpy.reshape(trainX, (trainX.shape[0] , 1, trainx.shape[1] ))
+trainY = numpy.reshape(trainY, (trainY.shape[0] , 1, trainY.shape[1] ))
+
+#### Train LSTM network
+model = Sequential()
+model.add( LSTM( 4, input_dim = look_back ) )
+model.add( Dense(1) )
+model.compile( loss =  'mean_squared_error', optimizer = 'adam' )
+model.fit( trainX, trainY, nb_epoch, batch_size = 1, verbose = 2 )
+
+####  Performance Evaluation 
+trainScore = model.evaluate( trainX, trainY, verbose = 0 )
+trainScore = math.sqrt( trainScore )
+trainScore = scaler.inverse_transform( numpy.array( [[trainScore]] ) )
+# Test Performanace
+testScore = model.evaluate( testX, testY, verbose = 0 )
+testScore = math.sqrt( testScore )
+testScore = scalar.inverse_transform( numpy.array( [[testScore]] ) )
+print('RMSE Train Score : %.2f . RMSE Test Score : %.2f' % ( trainScore, testScore ) )
+
+
+
+# generate predictions for training
+trainPredict = model.predict(trainX)
+testPredict = model.predict(testX)
+# shift train predictions for plotting
+trainPredictPlot = numpy.empty_like(dataset)
+trainPredictPlot[:, :] = numpy.nan
+trainPredictPlot[look_back:len(trainPredict)+look_back, :] = trainPredict
+# shift test predictions for plotting
+testPredictPlot = numpy.empty_like(dataset)
+testPredictPlot[:, :] = numpy.nan
+testPredictPlot[len(trainPredict)+(look_back*2)+1:len(dataset)-1, :] = testPredict
+# plot baseline and predictions
+plt.plot(dataset)
+plt.plot(trainPredictPlot)
+plt.plot(testPredictPlot)
+plt.show()

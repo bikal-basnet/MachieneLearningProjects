@@ -1,0 +1,245 @@
+{
+    "meta": {
+        "doc_number": "08020398",
+        "invention_title": "Fluid delivery mechanism for vacuum wafer processing system"
+    },
+    "measurement and values": [
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Ion implanters"
+                }
+            ],
+            "dimension": "production of semiconductor wafers",
+            "measurement unit": "",
+            "measured value low": "",
+            "measured value high": ""
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Ion source"
+                }
+            ],
+            "dimension": "desired species",
+            "measurement unit": "",
+            "measured value low": "",
+            "measured value high": ""
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Source filter"
+                }
+            ],
+            "dimension": "ion source",
+            "measurement unit": "",
+            "measured value low": "",
+            "measured value high": ""
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Column"
+                }
+            ],
+            "dimension": "energy level",
+            "measurement unit": "",
+            "measured value low": "",
+            "measured value high": ""
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Mass analyzer magnet"
+                }
+            ],
+            "dimension": "unwanted components",
+            "measurement unit": "",
+            "measured value low": "",
+            "measured value high": ""
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Ion beam"
+                }
+            ],
+            "dimension": "desired energy and mass characteristics",
+            "measurement unit": "",
+            "measured value low": "",
+            "measured value high": ""
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Scanner"
+                }
+            ],
+            "dimension": "deflects the ion beam",
+            "measurement unit": "",
+            "measured value low": "",
+            "measured value high": ""
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Angle corrector"
+                }
+            ],
+            "dimension": "divergent ion beamlets",
+            "measurement unit": "",
+            "measured value low": "",
+            "measured value high": ""
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Workpiece"
+                }
+            ],
+            "dimension": "implant by the ion beam",
+            "measurement unit": "",
+            "measured value low": "",
+            "measured value high": ""
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "pressure",
+            "measurement unit": "mTorr",
+            "measured value low": "100",
+            "measured value high": "100"
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "length of travel of the tube",
+            "measurement unit": "",
+            "measured value low": "",
+            "measured value high": ""
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "pressure of fluid in the chamber",
+            "measurement unit": "",
+            "measured value low": "",
+            "measured value high": ""
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "pressure of external vacuum",
+            "measurement unit": "",
+            "measured value low": "",
+            "measured value high": ""
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "differential pressure across sealing elements",
+            "measurement unit": "",
+            "measured value low": "",
+            "measured value high": ""
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "pressure within each chamber",
+            "measurement unit": "",
+            "measured value low": "",
+            "measured value high": ""
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "distance of platen",
+            "measurement unit": "",
+            "measured value low": "",
+            "measured value high": ""
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Cylinder 260a"
+                },
+                {
+                    "chemical compound": "Cylinder 260b"
+                }
+            ],
+            "dimension": "length",
+            "measurement unit": "mm",
+            "measured value low": "0",
+            "measured value high": "0"
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "interior volume",
+            "measurement unit": "",
+            "measured value low": "825",
+            "measured value high": "825"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Bellows"
+                }
+            ],
+            "dimension": "interior volume",
+            "measurement unit": "fluid",
+            "measured value low": "822",
+            "measured value high": "810"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Tube"
+                }
+            ],
+            "dimension": "length",
+            "measurement unit": "",
+            "measured value low": "830",
+            "measured value high": "835"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Wall"
+                }
+            ],
+            "dimension": "thickness",
+            "measurement unit": "",
+            "measured value low": "275",
+            "measured value high": "275"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Bellows 800"
+                },
+                {
+                    "chemical compound": "Bellows 810"
+                },
+                {
+                    "chemical compound": "Bellows 900a"
+                },
+                {
+                    "chemical compound": "Bellows 900b"
+                }
+            ],
+            "dimension": "extension",
+            "measurement unit": "",
+            "measured value low": "maximally compressed",
+            "measured value high": "maximally extended"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Central Tube 830"
+                },
+                {
+                    "chemical compound": "Central Tube 835"
+                }
+            ],
+            "dimension": "extension",
+            "measurement unit": "",
+            "measured value low": "mostly within the vacuum environment",
+            "measured value high": "maximally extended out of the vacuum environment"
+        },
+        {}
+    ]
+}

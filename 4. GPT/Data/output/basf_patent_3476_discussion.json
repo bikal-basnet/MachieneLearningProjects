@@ -1,0 +1,540 @@
+{
+    "meta": {
+        "doc_number": "08023171",
+        "invention_title": "Devices containing compositions comprising cathodically coloring electrochromic polymers and binder polymers"
+    },
+    "measurement and values": [
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Cathodically coloring polymer"
+                },
+                {
+                    "chemical compound": "Non-electrically conductive binder polymer"
+                }
+            ],
+            "dimension": "color space",
+            "measurement unit": "",
+            "measured value low": "",
+            "measured value high": ""
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Cathodically coloring polymer"
+                },
+                {
+                    "chemical compound": "Non-coloring or lightly coloring electroactive polymer"
+                }
+            ],
+            "dimension": "color strength",
+            "measurement unit": "",
+            "measured value low": "",
+            "measured value high": ""
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Thiophene polymers and copolymers"
+                },
+                {
+                    "chemical compound": "Alkoxy- and dialkoxy substituted thiophenes"
+                },
+                {
+                    "chemical compound": "Alkylenedioxy substituted thiophene"
+                },
+                {
+                    "chemical compound": "Polymers and copolymer comprising repeating units derived from thiophene, carbazole, phenylene vinylene, acetylene, aniline, phenylenediamine and pyrrole monomers and the like"
+                }
+            ],
+            "dimension": "absorption of radiation",
+            "measurement unit": "",
+            "measured value low": "",
+            "measured value high": ""
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Silicon containing polymers"
+                },
+                {
+                    "chemical compound": "Fluorinated polymers"
+                },
+                {
+                    "chemical compound": "Unsaturated and saturated polyesters"
+                },
+                {
+                    "chemical compound": "Unsaturated and saturated polyamides"
+                },
+                {
+                    "chemical compound": "Polyimides"
+                },
+                {
+                    "chemical compound": "Crosslinkable acrylic resins"
+                },
+                {
+                    "chemical compound": "Epoxy acrylates"
+                },
+                {
+                    "chemical compound": "Urethane acrylates"
+                },
+                {
+                    "chemical compound": "Polyester acrylates"
+                },
+                {
+                    "chemical compound": "Polymers of vinyl acetate"
+                },
+                {
+                    "chemical compound": "Vinyl alcohol"
+                },
+                {
+                    "chemical compound": "Vinyl amine"
+                },
+                {
+                    "chemical compound": "Alkyd"
+                },
+                {
+                    "chemical compound": "Acrylic"
+                },
+                {
+                    "chemical compound": "Acrylamide"
+                },
+                {
+                    "chemical compound": "Polyester"
+                },
+                {
+                    "chemical compound": "Styrenic"
+                },
+                {
+                    "chemical compound": "Phenolic"
+                },
+                {
+                    "chemical compound": "Melamine"
+                },
+                {
+                    "chemical compound": "Epoxy"
+                },
+                {
+                    "chemical compound": "Polyurethane"
+                },
+                {
+                    "chemical compound": "Nitrocellulose"
+                },
+                {
+                    "chemical compound": "Polyvinyl acetate"
+                },
+                {
+                    "chemical compound": "Polyvinyl chloride"
+                },
+                {
+                    "chemical compound": "Polyacrylates"
+                },
+                {
+                    "chemical compound": "Melamine resins"
+                },
+                {
+                    "chemical compound": "Urea resins"
+                },
+                {
+                    "chemical compound": "Isocyanates"
+                },
+                {
+                    "chemical compound": "Isocyanurates"
+                },
+                {
+                    "chemical compound": "Polyisocyanates"
+                },
+                {
+                    "chemical compound": "Epoxy resins"
+                },
+                {
+                    "chemical compound": "Anhydrides"
+                },
+                {
+                    "chemical compound": "Maleic anhydride"
+                },
+                {
+                    "chemical compound": "Poly acids"
+                },
+                {
+                    "chemical compound": "Biuret"
+                },
+                {
+                    "chemical compound": "Siloxanes"
+                },
+                {
+                    "chemical compound": "Amines"
+                }
+            ],
+            "dimension": "amount of binder polymer",
+            "measurement unit": "%",
+            "measured value low": "0.1",
+            "measured value high": "50"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Organometallic compounds"
+                },
+                {
+                    "chemical compound": "Metal carboxylates"
+                },
+                {
+                    "chemical compound": "Metal chelates"
+                },
+                {
+                    "chemical compound": "Organotin compounds"
+                },
+                {
+                    "chemical compound": "Amines"
+                },
+                {
+                    "chemical compound": "Amino-containing resins"
+                },
+                {
+                    "chemical compound": "Phosphines"
+                },
+                {
+                    "chemical compound": "Organic acids"
+                },
+                {
+                    "chemical compound": "Inorganic acid catalysts"
+                },
+                {
+                    "chemical compound": "Monomeric or oligomeric compounds containing ethylenically unsaturated bonds"
+                },
+                {
+                    "chemical compound": "Photoinitiator"
+                },
+                {
+                    "chemical compound": "Acrylates or methacrylates"
+                },
+                {
+                    "chemical compound": "Unsaturated polyester/styrene mixtures"
+                },
+                {
+                    "chemical compound": "Solvents"
+                },
+                {
+                    "chemical compound": "Pigments"
+                },
+                {
+                    "chemical compound": "Dyes"
+                },
+                {
+                    "chemical compound": "Plasticizers"
+                },
+                {
+                    "chemical compound": "Stabilizers"
+                },
+                {
+                    "chemical compound": "Thixotropic agents"
+                },
+                {
+                    "chemical compound": "Levelling agents"
+                },
+                {
+                    "chemical compound": "Acrylate copolymers"
+                },
+                {
+                    "chemical compound": "Blocked or latent amines"
+                },
+                {
+                    "chemical compound": "Blocked or latent acids"
+                },
+                {
+                    "chemical compound": "Hydrochloric acid"
+                },
+                {
+                    "chemical compound": "Nitric acid"
+                },
+                {
+                    "chemical compound": "Sulfonic acid catalysts"
+                },
+                {
+                    "chemical compound": "Blocked sulfonic acid catalysts"
+                },
+                {
+                    "chemical compound": "Carboxylic acids"
+                },
+                {
+                    "chemical compound": "Phosphorous acid"
+                },
+                {
+                    "chemical compound": "Blocked phosphorous acid"
+                },
+                {
+                    "chemical compound": "Phosphonic acid"
+                },
+                {
+                    "chemical compound": "Acid phosphates"
+                },
+                {
+                    "chemical compound": "Triflic acid"
+                },
+                {
+                    "chemical compound": "Tertiary amines"
+                },
+                {
+                    "chemical compound": "Quaternary ammonium salts"
+                },
+                {
+                    "chemical compound": "Polyacrylamides"
+                },
+                {
+                    "chemical compound": "Polyacrylates"
+                }
+            ],
+            "dimension": "concentration",
+            "measurement unit": "%",
+            "measured value low": "0",
+            "measured value high": "0"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "electrochromic polymer"
+                },
+                {
+                    "chemical compound": "binder polymer"
+                }
+            ],
+            "dimension": "film thickness",
+            "measurement unit": "micron",
+            "measured value low": "1",
+            "measured value high": "1"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "electrochromic polymer"
+                },
+                {
+                    "chemical compound": "binder polymer"
+                }
+            ],
+            "dimension": "ratio",
+            "measurement unit": "weight:weight",
+            "measured value low": "1:99",
+            "measured value high": "99:1"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "electrochromic polymer"
+                },
+                {
+                    "chemical compound": "binder polymer"
+                }
+            ],
+            "dimension": "ratio",
+            "measurement unit": "weight:weight",
+            "measured value low": "5:95",
+            "measured value high": "95:5"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "electrochromic polymer"
+                },
+                {
+                    "chemical compound": "binder polymer"
+                }
+            ],
+            "dimension": "ratio",
+            "measurement unit": "weight:weight",
+            "measured value low": "10:90",
+            "measured value high": "90:10"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "electrochromic polymer"
+                },
+                {
+                    "chemical compound": "binder polymer"
+                }
+            ],
+            "dimension": "ratio",
+            "measurement unit": "weight:weight",
+            "measured value low": "20:80",
+            "measured value high": "80:20"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "electrochromic polymer"
+                },
+                {
+                    "chemical compound": "binder polymer"
+                }
+            ],
+            "dimension": "ratio",
+            "measurement unit": "weight:weight",
+            "measured value low": "40:60",
+            "measured value high": "60:40"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "electrochromic polymer"
+                },
+                {
+                    "chemical compound": "binder polymer"
+                }
+            ],
+            "dimension": "ratio",
+            "measurement unit": "weight:weight",
+            "measured value low": "50:50",
+            "measured value high": "50:50"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "electrochromic polymer"
+                },
+                {
+                    "chemical compound": "binder polymer"
+                }
+            ],
+            "dimension": "ratio",
+            "measurement unit": "weight:weight",
+            "measured value low": "1:99",
+            "measured value high": "50:50"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "electrochromic polymer"
+                },
+                {
+                    "chemical compound": "binder polymer"
+                }
+            ],
+            "dimension": "ratio",
+            "measurement unit": "weight:weight",
+            "measured value low": "5:95",
+            "measured value high": "50:50"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "electrochromic polymer"
+                },
+                {
+                    "chemical compound": "binder polymer"
+                }
+            ],
+            "dimension": "ratio",
+            "measurement unit": "weight:weight",
+            "measured value low": "10:90",
+            "measured value high": "50:50"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "electrochromic polymer"
+                },
+                {
+                    "chemical compound": "binder polymer"
+                }
+            ],
+            "dimension": "ratio",
+            "measurement unit": "weight:weight",
+            "measured value low": "20:80",
+            "measured value high": "50:50"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "electrochromic polymer"
+                },
+                {
+                    "chemical compound": "binder polymer"
+                }
+            ],
+            "dimension": "ratio",
+            "measurement unit": "weight:weight",
+            "measured value low": "25:75",
+            "measured value high": "50:50"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Polymer CC1"
+                },
+                {
+                    "chemical compound": "Polymer CC2"
+                }
+            ],
+            "dimension": "film thickness",
+            "measurement unit": "micron",
+            "measured value low": "0.1",
+            "measured value high": "0.5"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Polymer CC1"
+                },
+                {
+                    "chemical compound": "Polymer CC2"
+                }
+            ],
+            "dimension": "film thickness",
+            "measurement unit": "micron",
+            "measured value low": "1",
+            "measured value high": "1"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "CC1"
+                },
+                {
+                    "chemical compound": "CC2"
+                }
+            ],
+            "dimension": "polymer",
+            "measurement unit": "",
+            "measured value low": "",
+            "measured value high": ""
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "LiCLO<sub>4"
+                }
+            ],
+            "dimension": "concentration",
+            "measurement unit": "M",
+            "measured value low": "0.1",
+            "measured value high": "0.1"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "dodecyl benzene sulfonic"
+                }
+            ],
+            "dimension": "weight",
+            "measurement unit": "percent",
+            "measured value low": "10",
+            "measured value high": "10"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "acrylic copolymer"
+                },
+                {
+                    "chemical compound": "alkoxylated methyl melamine"
+                }
+            ],
+            "dimension": "weight ratio",
+            "measurement unit": "",
+            "measured value low": "5:3:2",
+            "measured value high": "5:3:2"
+        }
+    ]
+}

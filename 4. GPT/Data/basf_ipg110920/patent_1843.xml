@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+ <us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US08021624-20110920.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110906" date-publ="20110920">
+ <us-bibliographic-data-grant>
+ <publication-reference>
+ <document-id>
+ <country>US</country>
+ <doc-number>08021624</doc-number>
+ <kind>B2</kind>
+ <date>20110920</date>
+ </document-id>
+ </publication-reference>
+ <application-reference appl-type="utility">
+ <document-id>
+ <country>US</country>
+ <doc-number>12523180</doc-number>
+ <date>20080114</date>
+ </document-id>
+ </application-reference>
+ <us-application-series-code>12</us-application-series-code>
+ <priority-claims>
+ <priority-claim sequence="01" kind="regional">
+ <country>EP</country>
+ <doc-number>07100589</doc-number>
+ <date>20070116</date>
+ </priority-claim>
+ </priority-claims>
+ <classifications-ipcr>
+ <classification-ipcr>
+ <ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+ <classification-level>A</classification-level>
+ <section>B</section>
+ <class>01</class>
+ <subclass>J</subclass>
+ <main-group>8</main-group>
+ <subgroup>44</subgroup>
+ <symbol-position>F</symbol-position>
+ <classification-value>I</classification-value>
+ <action-date><date>20110920</date></action-date>
+ <generating-office><country>US</country></generating-office>
+ <classification-status>B</classification-status>
+ <classification-data-source>H</classification-data-source>
+ </classification-ipcr>
+ <classification-ipcr>
+ <ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+ <classification-level>A</classification-level>
+ <section>C</section>
+ <class>01</class>
+ <subclass>B</subclass>
+ <main-group>17</main-group>
+ <subgroup>00</subgroup>
+ <symbol-position>L</symbol-position>
+ <classification-value>I</classification-value>
+ <action-date><date>20110920</date></action-date>
+ <generating-office><country>US</country></generating-office>
+ <classification-status>B</classification-status>
+ <classification-data-source>H</classification-data-source>
+ </classification-ipcr>
+ <classification-ipcr>
+ <ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+ <classification-level>A</classification-level>
+ <section>C</section>
+ <class>01</class>
+ <subclass>B</subclass>
+ <main-group>17</main-group>
+ <subgroup>33</subgroup>
+ <symbol-position>L</symbol-position>
+ <classification-value>I</classification-value>
+ <action-date><date>20110920</date></action-date>
+ <generating-office><country>US</country></generating-office>
+ <classification-status>B</classification-status>
+ <classification-data-source>H</classification-data-source>
+ </classification-ipcr>
+ </classifications-ipcr>
+ <classification-national>
+ <country>US</country>
+ <main-classification>422312</main-classification>
+ <further-classification>422652</further-classification>
+ <further-classification>423563</further-classification>
+ <further-classification>4235731</further-classification>
+ </classification-national>
+ <invention-title id="d2e61">Reactor, and method for the production of hydrogen sulfide</invention-title>
+ <references-cited>
+ <citation>
+ <patcit num="00001">
+ <document-id>
+ <country>US</country>
+ <doc-number>1660511</doc-number>
+ <kind>A</kind>
+ <name>Jaeger</name>
+ <date>19280200</date>
+ </document-id>
+ </patcit>
+ <category>cited by examiner</category>
+ <classification-national><country>US</country><main-classification>422109</main-classification></classification-national>
+ </citation>
+ <citation>
+ <patcit num="00002">
+ <document-id>
+ <country>US</country>
+ <doc-number>1700578</doc-number>
+ <kind>A</kind>
+ <name>Bacon</name>
+ <date>19290100</date>
+ </document-id>
+ </patcit>
+ <category>cited by examiner</category>
+ <classification-national><country>US</country><main-classification>423563</main-classification></classification-national>
+ </citation>
+ <citation>
+ <patcit num="00003">
+ <document-id>
+ <country>US</country>
+ <doc-number>2474066</doc-number>
+ <kind>A</kind>
+ <name>Preisman et al.</name>
+ <date>19490600</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00004">
+ <document-id>
+ <country>US</country>
+ <doc-number>2687948</doc-number>
+ <kind>A</kind>
+ <name>Gregory et al.</name>
+ <date>19540800</date>
+ </document-id>
+ </patcit>
+ <category>cited by examiner</category>
+ <classification-national><country>US</country><main-classification>422231</main-classification></classification-national>
+ </citation>
+ <citation>
+ <patcit num="00005">
+ <document-id>
+ <country>US</country>
+ <doc-number>2863725</doc-number>
+ <kind>A</kind>
+ <name>Maude et al.</name>
+ <date>19581200</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00006">
+ <document-id>
+ <country>US</country>
+ <doc-number>2965455</doc-number>
+ <kind>A</kind>
+ <name>Maude et al.</name>
+ <date>19601200</date>
+ </document-id>
+ </patcit>
+ <category>cited by examiner</category>
+ <classification-national><country>US</country><main-classification>422160</main-classification></classification-national>
+ </citation>
+ <citation>
+ <patcit num="00007">
+ <document-id>
+ <country>US</country>
+ <doc-number>3672847</doc-number>
+ <kind>A</kind>
+ <name>Esselink</name>
+ <date>19720600</date>
+ </document-id>
+ </patcit>
+ <category>cited by examiner</category>
+ <classification-national><country>US</country><main-classification>422197</main-classification></classification-national>
+ </citation>
+ <citation>
+ <patcit num="00008">
+ <document-id>
+ <country>US</country>
+ <doc-number>3779711</doc-number>
+ <kind>A</kind>
+ <name>Gryaznov et al.</name>
+ <date>19731200</date>
+ </document-id>
+ </patcit>
+ <category>cited by examiner</category>
+ <classification-national><country>US</country><main-classification>422149</main-classification></classification-national>
+ </citation>
+ <citation>
+ <patcit num="00009">
+ <document-id>
+ <country>US</country>
+ <doc-number>4233269</doc-number>
+ <kind>A</kind>
+ <name>Kaye et al.</name>
+ <date>19801100</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00010">
+ <document-id>
+ <country>US</country>
+ <doc-number>7833509</doc-number>
+ <kind>B2</kind>
+ <name>Wolfert et al.</name>
+ <date>20101100</date>
+ </document-id>
+ </patcit>
+ <category>cited by examiner</category>
+ <classification-national><country>US</country><main-classification>423563</main-classification></classification-national>
+ </citation>
+ <citation>
+ <patcit num="00011">
+ <document-id>
+ <country>US</country>
+ <doc-number>2006/0147357</doc-number>
+ <kind>A1</kind>
+ <name>Leveson</name>
+ <date>20060700</date>
+ </document-id>
+ </patcit>
+ <category>cited by examiner</category>
+ <classification-national><country>US</country><main-classification>422224</main-classification></classification-national>
+ </citation>
+ <citation>
+ <patcit num="00012">
+ <document-id>
+ <country>US</country>
+ <doc-number>2009/0317322</doc-number>
+ <kind>A1</kind>
+ <name>Wolfert et al.</name>
+ <date>20091200</date>
+ </document-id>
+ </patcit>
+ <category>cited by examiner</category>
+ <classification-national><country>US</country><main-classification>423564</main-classification></classification-national>
+ </citation>
+ <citation>
+ <patcit num="00013">
+ <document-id>
+ <country>US</country>
+ <doc-number>2010/0008839</doc-number>
+ <kind>A1</kind>
+ <name>Wolfert et al.</name>
+ <date>20100100</date>
+ </document-id>
+ </patcit>
+ <category>cited by examiner</category>
+ <classification-national><country>US</country><main-classification>42324409</main-classification></classification-national>
+ </citation>
+ <citation>
+ <patcit num="00014">
+ <document-id>
+ <country>DE</country>
+ <doc-number>1113446</doc-number>
+ <kind>B</kind>
+ <date>19610900</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00015">
+ <document-id>
+ <country>GB</country>
+ <doc-number>598885</doc-number>
+ <kind>A</kind>
+ <date>19480300</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00016">
+ <document-id>
+ <country>JP</country>
+ <doc-number>63197534</doc-number>
+ <date>19880800</date>
+ </document-id>
+ </patcit>
+ <category>cited by examiner</category>
+ </citation>
+ <citation>
+ <patcit num="00017">
+ <document-id>
+ <country>WO</country>
+ <doc-number>WO-99/46037</doc-number>
+ <kind>A1</kind>
+ <date>19990900</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00018">
+ <document-id>
+ <country>WO</country>
+ <doc-number>WO-99/50235</doc-number>
+ <kind>A1</kind>
+ <date>19991000</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <nplcit num="00019">
+ <othercit>Zimmermann, &#x201c;Schwefelwasserstoff-Entwickler fuer das Laboratorium&#x201d;. Angew. Chem., vol. 74, 1962, No. 4, p. 151.</othercit>
+ </nplcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <nplcit num="00020">
+ <othercit>Ullmann's Encyclopedia of Industrial Chemistry, 6-th Edition, 2003, vol. 17, pp. 291-294.</othercit>
+ </nplcit>
+ <category>cited by other</category>
+ </citation>
+ </references-cited>
+ <number-of-claims>13</number-of-claims>
+ <us-exemplary-claim>1</us-exemplary-claim>
+ <us-exemplary-claim>11</us-exemplary-claim>
+ <us-field-of-classification-search>
+ <classification-national>
+ <country>US</country>
+ <main-classification>None</main-classification>
+ </classification-national>
+ </us-field-of-classification-search>
+ <figures>
+ <number-of-drawing-sheets>2</number-of-drawing-sheets>
+ <number-of-figures>2</number-of-figures>
+ </figures>
+ <us-related-documents>
+ <related-publication>
+ <document-id>
+ <country>US</country>
+ <doc-number>20100068128</doc-number>
+ <kind>A1</kind>
+ <date>20100318</date>
+ </document-id>
+ </related-publication>
+ </us-related-documents>
+ <parties>
+ <applicants>
+ <applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+ <addressbook>
+ <last-name>W&#xf6;lfert</last-name>
+ <first-name>Andreas</first-name>
+ <address>
+ <city>Bad Rappenau</city>
+ <country>DE</country>
+ </address>
+ </addressbook>
+ <nationality>
+ <country>omitted</country>
+ </nationality>
+ <residence>
+ <country>DE</country>
+ </residence>
+ </applicant>
+ <applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+ <addressbook>
+ <last-name>Jachow</last-name>
+ <first-name>Herald</first-name>
+ <address>
+ <city>Bensheim</city>
+ <country>DE</country>
+ </address>
+ </addressbook>
+ <nationality>
+ <country>omitted</country>
+ </nationality>
+ <residence>
+ <country>DE</country>
+ </residence>
+ </applicant>
+ <applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+ <addressbook>
+ <last-name>Drie&#x3b2;</last-name>
+ <first-name>Heinz</first-name>
+ <address>
+ <city>Ludwigshafen</city>
+ <country>DE</country>
+ </address>
+ </addressbook>
+ <nationality>
+ <country>omitted</country>
+ </nationality>
+ <residence>
+ <country>DE</country>
+ </residence>
+ </applicant>
+ </applicants>
+ <agents>
+ <agent sequence="01" rep-type="attorney">
+ <addressbook>
+ <orgname>Connolly Bove Lodge &#x26; Hutz LLP</orgname>
+ <address>
+ <country>unknown</country>
+ </address>
+ </addressbook>
+ </agent>
+ </agents>
+ </parties>
+ <assignees>
+ <assignee>
+ <addressbook>
+ <orgname>BASF SE</orgname>
+ <role>03</role>
+ <address>
+ <city>Ludwigshafen</city>
+ <country>DE</country>
+ </address>
+ </addressbook>
+ </assignee>
+ </assignees>
+ <examiners>
+ <primary-examiner>
+ <last-name>Mayes</last-name>
+ <first-name>Melvin</first-name>
+ <department>1732</department>
+ </primary-examiner>
+ <assistant-examiner>
+ <last-name>Davis</last-name>
+ <first-name>Sheng H</first-name>
+ </assistant-examiner>
+ </examiners>
+ <pct-or-regional-filing-data>
+ <document-id>
+ <country>WO</country>
+ <doc-number>PCT/EP2008/050333</doc-number>
+ <kind>00</kind>
+ <date>20080114</date>
+ </document-id>
+ <us-371c124-date>
+ <date>20090715</date>
+ </us-371c124-date>
+ </pct-or-regional-filing-data>
+ <pct-or-regional-publishing-data>
+ <document-id>
+ <country>WO</country>
+ <doc-number>WO2008/087110</doc-number>
+ <kind>A </kind>
+ <date>20080724</date>
+ </document-id>
+ </pct-or-regional-publishing-data>
+ </us-bibliographic-data-grant>
+ <abstract id="abstract">
+ <p id="p-0001" num="0000">The invention relates to a reactor (<b>1</b>) and a process for continuously preparing H<sub>2</sub>S by converting a reactant mixture which comprises essentially gaseous sulfur and hydrogen over a catalyst, comprising a sulfur melt (<b>9</b>) at least in a lower subregion (<b>8</b>) of the reactor (<b>1</b>), into which gaseous hydrogen is introduced. The catalyst is arranged in at least one U-shaped tube (<b>21</b>) which is partly in contact with the sulfur melt (<b>9</b>), the at least one U-shaped tube (<b>21</b>) having at least one entry orifice (<b>23</b>) on a limb (<b>26</b>) above the sulfur melt (<b>9</b>), through which the reactant mixture can enter the U-shaped tube (<b>21</b>) from a reactant region (<b>10</b>) of the reactor (<b>1</b>), having a flow path within the at least one U-shaped tube, along which the reactant mixture can be converted in a reaction region comprising the catalyst (<b>22</b>), and having at least one exit orifice (<b>24</b>) in another limb (<b>27</b>) through which a product can exit into a product region (<b>7</b>).</p>
+ </abstract>
+ <drawings id="DRAWINGS">
+ <figure id="Fig-EMI-D00000" num="00000">
+ <img id="EMI-D00000" he="142.66mm" wi="119.72mm" file="US08021624-20110920-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+ </figure>
+ <figure id="Fig-EMI-D00001" num="00001">
+ <img id="EMI-D00001" he="170.60mm" wi="131.66mm" file="US08021624-20110920-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+ </figure>
+ <figure id="Fig-EMI-D00002" num="00002">
+ <img id="EMI-D00002" he="183.56mm" wi="162.14mm" file="US08021624-20110920-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+ </figure>
+ </drawings>
+ <description id="description">
+ <?BRFSUM description="Brief Summary" end="lead"?>
+ <heading id="h-0001" level="1">PRIORITY</heading>
+ <p id="p-0002" num="0001">Priority is claimed as a national stage application (under 35 U.S.C. &#xa7;371) to PCT/EP2008/050333, filed Jan. 14, 2008, which claims priority to European application 07100589.6, filed Jan. 16, 2007. The disclosures of the aforementioned priority applications are incorporated herein by reference in their entirety.</p>
+ <heading id="h-0002" level="1">DESCRIPTION</heading>
+ <p id="p-0003" num="0002">The present invention relates to a reactor and to a process for continuously preparing hydrogen sulfide H<sub>2</sub>S by converting gaseous hydrogen and sulfur over a catalyst.</p>
+ <p id="p-0004" num="0003">In the prior art, hydrogen sulfide is prepared, for example, by the H<sub>2</sub>S process according to Girdler (Ullmann's Encyclopedia of Industrial Chemistry, Sixth Edition, 2003, Vol. 17, page 291). In this process, H<sub>2</sub>S is prepare in a non-catalytic manner from the elements sulfur and hydrogen in a column with internals and an essentially horizontally aligned, extended bottom. Hydrogen is introduced into the bottom filled with boiling sulfur, and strips sulfur into the ascending gas phase. Hydrogen and ascending sulfur react in the gas space of the column, and the heat of reaction released is withdrawn from the product gas by washing with liquid sulfur. To this end, liquid sulfur is drawn off from the bottom of the column, mixed with fresh cold sulfur and introduced at the top of the column. The product gas, which comprises substantially hydrogen sulfide, is cooled in two heat exchangers. A disadvantage is found to be that the process has to be performed under pressure and at elevated temperature. The elevated temperature leads to increased corrosion rates and material attrition on the reactor walls. In the case of a leak, relatively large amounts of poisonous H<sub>2</sub>S escape owing to the elevated pressure.</p>
+ <p id="p-0005" num="0004">A catalytic preparation of H<sub>2</sub>S is described in Angew. Chem.; volume 74, 1962; 4; page 151. In this preparation, hydrogen is passed through an externally heated sulfur bath. The hydrogen laden with sulfur vapor passes through bores into a catalyst space. Unreacted sulfur, after leaving the catalyst space, is condensed in an upper part of the H<sub>2</sub>S outlet tube and passes via a return tube back into the sulfur bath. The catalyst space is arranged concentrically about the H<sub>2</sub>S outlet tube. A disadvantage in the process on the industrial scale is that the heat of reaction is not utilized to heat the sulfur bath, but rather the heating is effected through the jacket of the sulfur bath.</p>
+ <p id="p-0006" num="0005">DE 1 113 446 discloses the catalytic preparation of hydrogen sulfide by converting a stoichiometric mixture of hydrogen and sulfur over a catalyst comprising cobalt salt and molybdenum salt on a support at temperatures between 300 and 400&#xb0; C. The catalyst is arranged in tubes which are flowed through by the mixture of hydrogen and sulfur. The sulfur bath has a temperature of from 340 to 360&#xb0; C., as a result of which a stoichiometric mixture of hydrogen and sulfur is generated by passing hydrogen through the sulfur bath for the preparation of H<sub>2</sub>S. The heat of reaction released in the H<sub>2</sub>S formation is utilized by direct heat exchange, since the tubes comprising the catalyst are arranged in the sulfur bath in a manner not described in detail.</p>
+ <p id="p-0007" num="0006">U.S. Pat. 2,863,725 describes a process for preparing H<sub>2</sub>S over a molybdenum-comprising catalyst, wherein gaseous hydrogen is introduced into a reactor comprising a sulfur melt and rises through the sulfur melt in the form of gas bubbles. The amount of hydrogen introduced and the temperature of the sulfur melt (a temperature below 326&#xb0; C. is reported) are adjusted such that a gas mixture which forms in a gas zone above the sulfur melt comprises the hydrogen and sulfur reactants with an excess of hydrogen above the stoichiometric reaction ratio.</p>
+ <p id="p-0008" num="0007">This reactor, which is also described in U.S. Pat. 2,965,455, is a tube bundle reactor which is divided by a subdivision into an upper reactor region and a lower collecting region. The upper reactor region is filled partly with the sulfur melt, and, above the sulfur melt, the reactants collect in the gas zone which is in open connection with the upper ends of the tubes of the tube bundle. In the tubes, a molybdenum catalyst is arranged, over which the reaction to give H<sub>2</sub>S takes place in the gas phase. The gas mixture of the reactants enters the tubes at their upper ends, flows through them from the top downward, in the course of which it is converted over the catalyst, and, as a product-comprising gas, leaves the tubes at their lower ends which are in open connection to the collecting region of the reactor. The arrangement of the tubes within the sulfur melt allows heat exchange of the heat of reaction released in the reaction with the sulfur melt surrounding the tubes to take place. The contact tubes are connected to the subdivision at their lower ends, which provides an integral element for the support of the catalyst on the subdivision. A problem is found to be the particular connecting sites between subdivision and the catalyst tubes, which are exposed both to thermal and mechanical stresses and thus constitute regions at risk. The securing of the tubes only at their lower end on the subdivision leads to stability problems.</p>
+ <p id="p-0009" num="0008">A further problem is found in the case of the introduction of hydrogen close to the subdivision into a lower region of the sulfur melt via a perforated inlet tube. Liquid sulfur can penetrate into the perforations of the inlet tube, especially in a startup phase of the process, and solidify at a corresponding temperature such that an inhibition or a blockage arises. This results in insufficient hydrogen feeding, such that the amount of sulfur stripped out of the sulfur melt by the hydrogen is too low for the desired molar ratio of the catalyzed reaction.</p>
+ <p id="p-0010" num="0009">A general problem for the construction and material selection of a reactor for performing the preparation process of hydrogen sulfide is that of the thermal changes in length of the materials used, which are caused by temperature increase and temperature reduction during startup and shutdown phases of the process and can be different for the individual construction elements. One means of solving this problem consists in the integration of compensators, for example metallic bellows in the reactor jacket, which allows individual thermal changes in length to be absorbed. However, these compensators are frequently the sites of leakages which occur. Furthermore, for the materials of the individual elements, the highly corrosive properties of the hydrogen sulfide, especially marked at high temperatures, have to be noted, which causes high material costs for the construction of a reactor for preparing hydrogen sulfide.</p>
+ <p id="p-0011" num="0010">It is accordingly an object of the present invention to provide a reactor and a process which avoid the disadvantages of the prior art and through which the preparation, especially continuous, of hydrogen sulfide becomes more efficient, improves energetically and becomes more economic.</p>
+ <p id="p-0012" num="0011">The achievement of the object proceeds from a reactor for continuously preparing H<sub>2</sub>S by reacting a reactant mixture which comprises essentially gaseous sulfur and hydrogen over a catalyst, the reactor comprising a sulfur melt in a lower part of the reactor, into which gaseous hydrogen can be passed by means of a feed device. The catalyst is arranged (preferably as a fixed bed) in at least one U-shaped tube which is partly in contact with the sulfur melt, the at least one U-shaped tube having at least one entry orifice arranged above the sulfur melt in a limb through which the reactant mixture can enter the U-shaped tube from a reactant region of the reactor, having a flow path within the at least one U-shaped tube along which the reactant mixture can be converted in a reaction region in which the catalyst is arranged, and the at least one U-shaped tube having at least one exit orifice in another limb through which a product can exit into a product region (separate from the reactant region).</p>
+ <p id="p-0013" num="0012">The reactor preferably comprises a cylindrical or prism-shaped central body surrounded by a reactor jacket which is closed at each end by a hood. The hoods may each have any suitable shape, for example be of hemispherical or conical shape.</p>
+ <p id="p-0014" num="0013">The reactor is filled with a sulfur melt in a lower part. Gaseous hydrogen can be introduced into the sulfur melt through a feed device, in which case a reactant mixture comprising essentially gaseous sulfur and gaseous hydrogen collects above the sulfur melt in a reactant region which is in contact with the sulfur melt via a phase boundary and which is delimited at the top preferably by a subdivision, for example by a plate. In a preferred embodiment of the present invention, the plate is connected to the reactor jacket in an upper part of the reactor, preferably in the upper third, more preferably in the upper quarter, of the reactor interior.</p>
+ <p id="p-0015" num="0014">In the inventive reactor, at least one U-shaped tube which is at least partly in contact with the sulfur melt is provided. The reactor is therefore designed as a kind of tube bundle reactor with catalyst tubes which, in accordance with the invention, are in a U-shaped configuration. Such a U-shaped tube has two limbs which are connected to one another by a curved region at their lower end. The U-shaped tubes may each have limbs of different lengths or preferably the same length. The U-shaped tubes may have, for example, a limb diameter between 2 and 20 cm, in particular between 2.5 and 15 cm, more preferably between 5 and 8 cm. The at least one U-shaped tube is preferably arranged vertically in the reactor, the curved region being disposed at the bottom and the two ends of the limbs at the top.</p>
+ <p id="p-0016" num="0015">In connection with the present invention, &#x201c;being in contact&#x201d; means that a heat exchange can take place between the sulfur melt and the interior of the tube through the wall of the tube. The at least one U-shaped tube is preferably immersed partly into the sulfur melt.</p>
+ <p id="p-0017" num="0016">Within the at least one U-shaped tube, a catalyst for converting hydrogen and sulfur to H<sub>2</sub>S is arranged, as a result of which a reaction region is provided. In connection with the present invention, the reaction region refers to that region within the U-shaped tubes in which the catalyst is disposed. The reactants are converted mainly in the reaction region which comprises the catalyst. The provision of a reaction region in U-shaped tubes allows a compact design of the reactor with regard to the reactor length, since the reaction region provided for the reaction of hydrogen with sulfur to give H<sub>2</sub>S can be divided on the two limbs of one U-shaped tube each. Use of the catalyst allows the conversion to H<sub>2</sub>S to be performed at moderate temperatures and at low pressure. The catalyst is preferably arranged in the at least one U-shaped tube in the form of a fixed bed of bulk material. Suitable catalysts are, for example, catalysts comprising cobalt and molybdenum on a support, which can be used as shaped bodies of any shape. For example, the diameter of the shaped bodies is from 2 to 12 mm, in particular between 3 and 10 mm, more preferably between 4 and 8 mm, and the length is preferably between 2 and 12 mm, in particular between 3 and 10 mm, more preferably between 4 and 8 mm.</p>
+ <p id="p-0018" num="0017">In the preparation of hydrogen sulfide in the inventive reactor, the reactant mixture enters from the reactant region into a limb of the at least one U-shaped tube through at least one entry orifice. The entry orifice is arranged in a limb of the at least one U-shaped tube above the sulfur melt. The entry orifice opens from the reactant region into one limb of the U-shaped tube. The distance between the phase boundary of the sulfur melt and the entry orifice of the U-shaped tube is selected such that a minimum amount of liquid sulfur is entrained in the form of droplets with the stream of the reactant mixture into the interior of the U-shaped tubes. The distance between entry orifice and phase boundary of the sulfur melt is preferably between 0.3 and 3 m, in particular between 0.6 and 2.5 m, more preferably between 0.9 and 2 m.</p>
+ <p id="p-0019" num="0018">in the preparation of hydrogen sulfide in the inventive reactor, the reactant mixture flows through the U-shaped tube along a flow path, i.e. it flows first, after entry through the entry orifice, through one limb of the U-shaped tube from the top downward, enters the second limb through the curved region of the U-shaped tube and then flows through the second limb from the bottom upward. The reactant mixture is converted mainly in the reaction region which is present within the U-shaped tube, over the catalyst arranged there. Through an exit orifice in the second limb of the U-shaped tube, the gas comprising the product enters a product region (which is preferably arranged above the sulfur melt and above the reactant region in the reactor), which is separated from the reactant region (for example by a plate).</p>
+ <p id="p-0020" num="0019">Gaseous hydrogen and liquid sulfur are fed to the reactor via a suitable feed device. At a suitable point, the hydrogen sulfide product, for example at an upper hood, is passed out of the product region of the reactor.</p>
+ <p id="p-0021" num="0020">The two limbs of a U-shaped tube are preferably each connected to a plate of the reactor at their upper end, the plate in turn being secured suitably in an upper part of the reactor on the reactor jacket. The plate subdivides the reactor preferably into two subregions; in particular, it determines a product region above it. The preferred securing of the at least one U-shaped tube on a plate connected to the reactor jacket allows thermal longitudinal changes of the reactor and of the U-shaped tubes independently of one another, since the U-tube bundle is secured on the jacket of the reactor only via the plate, so that it is possible to dispense with compensators in the construction of the reactor. The connection of the U-shaped tubes to the plate at the upper ends of their limbs advantageously achieves the effect that the tubes become stabilized according to gravity.</p>
+ <p id="p-0022" num="0021">In a preferred embodiment of the present invention, a plate which divides the reactor interior into a lower subregion below it and an upper subregion above it is arranged in an upper section of the reactor, preferably close to the upper hood.</p>
+ <p id="p-0023" num="0022">The upper subregion preferably comprises the product region, which comprises mainly the hydrogen sulfide product during the operation of the reactor. In each case one limb of the U-shaped tubes is an open connection with the product region.</p>
+ <p id="p-0024" num="0023">The lower subregion of the reactor preferably comprises the reactant region directly below the plate and, below it, a sulfur melt into which liquid sulfur is fed from an external source and/or as reflux. Some of the U-shaped tubes are in thermal contact with the sulfur melt; some of them are preferably arranged directly within the sulfur melt, i.e. are immersed into the sulfur melt. A transfer of the heat energy released in the exothermic reaction to give H<sub>2</sub>S thus takes place via the at least one U-shaped tube into the surrounding sulfur melt. The heat of reaction is utilized for an evaporation of the sulfur present therein. This thermal coupling enables an energetically favorable process in which external heat supply can be reduced considerably or is not necessary. At the same time, overheating of the catalyst can be avoided, which increases the lifetimes of the catalyst.</p>
+ <p id="p-0025" num="0024">For a good transfer of the heat energy, preference is given to minimizing the heat resistance of the catalyst bed in the reaction region. For the conversion of the reactants to H<sub>2</sub>S, preference is given to providing a multitude of catalyst-comprising U-shaped tubes, so that the particular path from the core of the catalyst bed to the wall of the tube is low. A ratio of the sum of the cross-sectional areas of all catalyst tubes (or all limbs of the U-shaped catalyst tubes) based on the cross-sectional area of the (preferably cylindrical) reactor body is preferably between 0.05 and 0.9, especially between 0.15 and 0.7, more preferably between 0.2 and 0.5, most preferably between 0.25 and 0.4.</p>
+ <p id="p-0026" num="0025">In order that there is sufficient thermal contact for the heat transfer from the U-shaped tube into the surrounding sulfur melt, the aim is that from 20 to 100% of the outer jacket area of a particular U-shaped tube along the reaction region comprising the catalyst is in contact with the sulfur melt. In order that the heat transfer into the sulfur melt functions efficiently, wherever the reaction takes place in the U-shaped tube, the outer jacket area of the U-shaped tube along the reaction region comprising the catalyst should be surrounded by the sulfur melt to an extent of more than 20%, preferably to an extent of more than 50%, more preferably to an extent of more than 80%. In the case of too low a fill level of the sulfur melt in the reactor and hence too low a contact of U-shaped tube and sulfur melt, there is the risk that the heat of reaction is not removed sufficiently.</p>
+ <p id="p-0027" num="0026">In flow direction of the reactant mixture, within the at least one U-shaped tube, the reactant mixture, after entry into the U-shaped tube, can first flow through an inert bed, in which case any entrained liquid sulfur present in the form of droplets is separated out of the reactant mixture at this inert bed. For example, a proportion of liquid sulfur in the reactant mixture comprising gaseous hydrogen and sulfur of up to 100 000 ppm by weight may be present. For the separating-out of the sulfur droplets, a proportion of the inert bed, based on the overall bed composed of inert bed and catalyst bed, of from 1 to 30%, especially from 2 to 25%, preferably from 5 to 20%, more preferably from 8 to 16%, is preferably provided in the at least one U-shaped tube. The inert bed may consist of bodies of any shape, for example of saddles or preferably of spheres which are composed of a suitable material, for example zirconium oxide or preferably aluminum oxide.</p>
+ <p id="p-0028" num="0027">In a preferred embodiment of the inventive reactor, gaseous hydrogen is introduced into the sulfur melt in the reactor by means of a feed device and distributed in the sulfur melt by means of a distributor device.</p>
+ <p id="p-0029" num="0028">The distributor device preferably comprises a distributor plate which is arranged horizontally in the reactor and an edge which extends downward. The hydrogen introduced below the distributor device accumulates below the distributor plate to form a hydrogen bubble in the space which is bordered by the edge extending downward and the distributor plate.</p>
+ <p id="p-0030" num="0029">The feed device preferably comprises a tube which is open at both ends and is arranged vertically in the reactor, and which is arranged below the distributor device and whose upper end projects preferably into the space which is defined by the distributor plate and the edge which extends downward, into the hydrogen bubble. Projection into the space below the distributor plate and especially into the hydrogen bubble formed below it advantageously prevents inhomogeneous hydrogen introduction into the sulfur melt.</p>
+ <p id="p-0031" num="0030">An inlet tube which runs obliquely, through which the hydrogen is introduced from outside the reactor, preferably opens laterally into the vertical tube of the feed device. The feed device is advantageously configured such that sulfur which enters the tube arranged vertically can flow freely downward without blocking the feed device for the hydrogen. The hydrogen rises upward within the tube arranged vertically and collects below the distributor device.</p>
+ <p id="p-0032" num="0031">The distributor device preferably comprises a distributor plate (preferably having passage orifices) which is arranged horizontally in the reactor and an edge extending downward. The preferably flat distributor plate extends preferably virtually over the entire cross-sectional area of the reactor, a gap remaining between reactor jacket and distributor device. The gap between the edge of the distributor device and the reactor jacket preferably has a width between 1 and 50 mm, in particular between 2 and 25 mm, more preferably between 5 and 10 mm. The shape of the distributor plate is guided by the geometry of the reactor in which it is arranged. It may preferably have a circular or polygonal shape or any other desired shape. Recesses may preferably be provided on the outer circumference of the distributor plate, which provide passage orifices, for example, for hydrogen introduction, sulfur introduction and sulfur recycling. The gap between distributor device and reactor jacket may thus have only a small width, so that severe vibration of the distributor device in the reactor is avoided. The hydrogen introduced below the distributor device accumulates below this distributor plate to form a hydrogen bubble in the space which is defined by the edge extending downward and the distributor plate. The distributor plate is preferably arranged horizontally in the reactor, so that the hydrogen bubble which accumulates below the distributor plate has virtually constant height.</p>
+ <p id="p-0033" num="0032">The accumulated hydrogen is distributed in the sulfur melt via the edge extending downward when the hydrogen bubble has reached a certain height, and/or through passage orifices provided in the distributor plate. The hydrogen from the hydrogen bubble can be distributed in the sulfur melt via the edge through a gap between distributor device and reactor jacket. The edge region of the distributor device preferably has a serrated design, which allows the hydrogen accumulated to be dispersed divided into fine gas bubbles.</p>
+ <p id="p-0034" num="0033">In a preferred embodiment, the distributor plate of the distributor device which is preferably arranged horizontally in the reactor comprises passage orifices. As a result of the passage orifices in the distributor plate, the accumulated hydrogen is dispersed with uniform distribution from the hydrogen bubble into the sulfur melt disposed above the distributor plate, which advantageously prevents vibrations within the reactor by means of uniform distribution of hydrogen over the reactor cross section. The number of passage orifices in the distributor plate is guided by factors including the volume flow rate of the hydrogen introduced and is preferably from 2 to 100, especially from 4 to 50, more preferably 8 to 20, per 100 standard m<sup>3</sup>/h. The passage orifices may, for example, be circular or defined as slots, preferred diameters or slot widths being from 2 to 30 mm, preferably from 5 to 20 mm, more preferably from 7 to 15 mm. The passage orifices are preferably arranged regularly in the distributor plate. The areal proportion of the passage orifices, based on the area of the distributor plate, is preferably between 0.001 and 5%, preferentially between 0.02 and 1%, more preferably between 0.08 and 0.5%.</p>
+ <p id="p-0035" num="0034">In order to ensure good mixing of the sulfur melt by the ascending hydrogen and thus to ensure very efficient stripping of the sulfur into the ascending hydrogen, the gas velocity of the hydrogen dispersed by the passage orifices is preferably from 20 to 400 m/s, especially from 50 to 350 m/s, preferably from 90 to 300 m/s, more preferably from 150 to 250 m/s.</p>
+ <p id="p-0036" num="0035">When there is penetration of sulfur into the passage orifices, which solidifies within the passage orifices, especially in the case of lowering of the temperature, the hydrogen distribution at the distributor device through the passage orifices is inhibited. The accumulated hydrogen can then disperse into the sulfur melt via the edge region of the edge which extends downward.</p>
+ <p id="p-0037" num="0036">In the case of simple introduction of hydrogen, for example, via a vertical inlet tube without such a distributor device into the sulfur melt, an inhomogeneous hydrogen distribution can arise. In the vicinity of the inlet tube, large bubbles of hydrogen rise within the sulfur melt. In other regions of the sulfur melt, there is then barely any hydrogen. As a result, vibrations of the U-shaped tubes can be induced. The distributor device which is preferably present in the inventive reactor and is configured like a bell open at the bottom therefore also serves to stabilize the U-shaped tubes of the tube bundle in the inventive reactor.</p>
+ <p id="p-0038" num="0037">In order to achieve greater stability of the U-shaped tubes, the at least one U-shaped tube may be connected to the distributor device close to its lower curved region, said distributor device limiting the vibration region of the U-shaped tube or of the corresponding tube bundle in the horizontal direction through its dimensions. In this case, the distributor device is in turn not connected directly to the reactor jacket of the reactor, but rather is connected indirectly to the reactor jacket via the connection of the U-shaped tubes to the plate. As a result, problems due to stresses between reactor,</p>
+ <p id="p-0039" num="0038">U-shaped tubes and distributor device caused by the thermal changes in length are avoided.</p>
+ <p id="p-0040" num="0039">In one embodiment, the distributor plate is connected to the particular limbs of the at least one U-shaped tube close to the lower end of the U-shaped tube, for example welded, a section of the U-shaped tube which comprises at least part of the curved region being disposed below the distributor plate. Since this section of the U-shaped tube is not in contact with the sulfur melt but rather projects into the region of the hydrogen bubble accumulated below the distributor device, the U-shaped tube in this section preferably does not comprise any catalyst bed. There is thus no conversion to H<sub>2</sub>S and no exothermic heat of reaction to be removed arises. Within the at least one U-shaped tube, subdivisions may be provided, which separate the region of the catalyst bed from the region without bed, although the subdivisions have to be permeable for reactants and products for the H<sub>2</sub>S preparation.</p>
+ <p id="p-0041" num="0040">In the present invention, a feed device and a distributor device for gaseous hydrogen are preferably provided in a lower section of the reactor, for example close to the lower hood. The hydrogen introduced into the sulfur melt by means of the feed device rises in the form of gas bubbles distributed by the distributor device through the melt, which strips sulfur out of the melt, and accumulates (for example below an upper plate of the reactor) in the reactant region of the reactor as a reactant mixture which is in contact with the sulfur melt via a phase boundary. The reactant mixture comprises gaseous hydrogen and sulfur in a molar ratio which is established by the prevailing process parameters, i.e. temperature, pressure and the amount of hydrogen introduced, according to the evaporation equilibrium of the sulfur. In this context, it is possible through the selection of the process parameters to establish an excess of hydrogen or sulfur or else a molar ratio corresponding to the reaction stoichiometry, according to the desired reaction for the conversion to H<sub>2</sub>S. In the case of the present invention, preference is given to establishing an excess of sulfur in order to achieve a substantially complete reaction of hydrogen with sulfur to give H<sub>2</sub>S. The sulfur excess per kilogram of H<sub>2</sub>S obtained is preferably between 0.2 and 3.0, in particular between 0.4 and 2.2, preferably between 0.6 and 1.6, more preferably between 0.9 and 1.2.</p>
+ <p id="p-0042" num="0041">The invention also provides a process for continuously preparing H<sub>2</sub>S by converting a reactant mixture which comprises essentially gaseous sulfur and hydrogen over a catalyst, comprising provision of a sulfur melt at least in a lower region of a reactor into which gaseous hydrogen is introduced. In the process, the reactant mixture is introduced from a reactant region into a limb of at least one U-shaped tube through at least one entry orifice arranged above the sulfur melt, passed along a flow path through the at least one U-shaped tube which is partly in contact with the sulfur melt, and converted over a catalyst arranged in a reaction region in the flow path. A product is passed out of at least one exit orifice in another limb of the U-shaped tube into a product region (preferably separated from the reactant region). The inventive process is preferably performed in the inventive reactor already described.</p>
+ <p id="p-0043" num="0042">The inventive process for preparing H<sub>2</sub>S is preferably performed at temperatures of the reactant mixture and of the reactant region comprising the catalyst of from 300 to 450&#xb0; C., preferably from 330 to 425&#xb0; C., more preferably from 330 to 400&#xb0; C., which minimizes the corrosion stress on the materials selected for the construction elements. The temperature of the sulfur melt is preferably between 300 and 450&#xb0; C., especially between 330 and 425&#xb0; C., preferably between 330 and 400&#xb0; C., more preferably between 350 and 360&#xb0; C. The temperature in the reactant space above the sulfur bath is preferably between 300 and 450&#xb0; C., especially between 330 and 425&#xb0; C., preferably between 330 and 400&#xb0; C., more preferably between 350 and 360&#xb0; C. The product mixture which exits from the U-shaped tubes into the product space preferably has a temperature between 300 and 450&#xb0; C., especially between 330 and 425&#xb0; C., preferably between 330 and 400&#xb0; C., more preferably between 350 and 360&#xb0; C. The pressures in the jacket space of the reactor and in the interior of the U-shaped tubes are preferably from 0.5 to 10 bar, in particular from 0.75 to 5 bar, more preferably from 1 to 3 bar and most preferably from 1.1 to 1.4 bar absolute.</p>
+ <p id="p-0044" num="0043">The hydrogen introduced in the inventive process is preferably dispersed into the sulfur melt at a distributor device provided in the lower section of the reactor. The hydrogen is distributed in the sulfur melt from a hydrogen bubble accumulated under the distributor device preferably by means of a distributor plate of the distributor device which is arranged horizontally within the reactor through passage orifices provided therein and/or by means of an edge which extends downward from the distributor plate. Especially when there is inhibition of the passage of the hydrogen through passage orifices in the distributor plate, for example by sulfur deposited therein, the hydrogen bubble accumulates within the space defined by the distributor plate and by the edge which extends downward, so that hydrogen flows into the sulfur melt via the edge region of the edge which extends downward. In this case, hydrogen passes from the hydrogen bubble under the distributor device through a gap between distributor device and reactor jacket into the sulfur melt present above the distributor device. In this way, it is ensured that the hydrogen is distributed within the sulfur melt in a sufficient amount during the continuous preparation of H<sub>2</sub>S.</p>
+ <p id="p-0045" num="0044">The distributor device more preferably has passage orifices in the distributor plate, through which hydrogen disperses from a hydrogen bubble accumulated below the distributor plate into the sulfur melt present above the distributor plate.</p>
+ <p id="p-0046" num="0045">The evaporation rate of the sulfur in the present invention is preferably adjusted such that the reactant mixture comprises a sulfur excess. The excess sulfur is then fed out of the product region of the reactor with the product and subsequently separated out as a melt. This liquid sulfur can, for example, be recycled via a collecting and diverting construction arranged in the upper subregion of the reactor, comprising, inter alis, a collecting tray and a return tube which proceeds therefrom and is immersed into the sulfur melt, into the sulfur melt present in the lower subregion of the reactor. The H<sub>2</sub>S gases leaving the reactor are preferably cooled in a heat exchanger, the excess sulfur being condensed out and passed back into the sulfur melt via the collecting and diverting construction. The cooling medium used may be warm pressurized water in a secondary circuit.</p>
+ <?BRFSUM description="Brief Summary" end="tail"?>
+ <?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+ <description-of-drawings>
+ <p id="p-0047" num="0046">The present invention will be illustrated in detail below with reference to the reactor illustrated in <figref idref="DRAWINGS">FIG. 1</figref> and with reference to the distributor illustrated in <figref idref="DRAWINGS">FIG. 2</figref>.</p>
+ <p id="p-0048" num="0047"><figref idref="DRAWINGS">FIG. 1</figref> shows a schematic of a preferred embodiment of an inventive device in longitudinal section.</p>
+ </description-of-drawings>
+ <?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+ <?DETDESC description="Detailed Description" end="lead"?>
+ <p id="p-0049" num="0048">The reactor <b>1</b> is closed with hoods <b>3</b>, <b>4</b> at both ends of a cylindrical body <b>2</b>. At the upper hood <b>3</b>, a product can be drawn off. At the lower hood <b>4</b> is disposed a discharge stop <b>5</b> in order possibly to completely discharge the contents of the reactor <b>1</b>. In an upper section of the reactor <b>1</b>, a plate <b>6</b> is provided, which separates an upper subregion comprising a product region <b>7</b> from a lower subregion <b>8</b>. The plate <b>6</b> is connected to a reactor jacket <b>25</b> of the reactor <b>1</b>. The lower subregion <b>8</b> is filled partly with a sulfur melt <b>9</b> which is in contact via a phase boundary with a reactant region <b>10</b> which is bordered at the top by the plate <b>6</b>. The reactant region <b>10</b> comprises mainly gaseous hydrogen and sulfur.</p>
+ <p id="p-0050" num="0049">The hydrogen is introduced into the sulfur melt <b>9</b> via a feed device <b>11</b> into a lower section of the reactor <b>1</b>, for example in the lower hood <b>4</b>. The feed device <b>11</b> comprises a line <b>12</b> which runs obliquely and opens laterally into a tube <b>13</b> which is arranged vertically in the reactor <b>1</b> and is open at the top and bottom. The upper end of the tube <b>13</b> projects into a space <b>14</b> which is bordered by a distributor device <b>15</b>. The distributor device <b>15</b> comprises a distributor plate <b>16</b> arranged horizontally in the reactor <b>1</b> and an edge <b>17</b> which extends downward and has a preferably serrated edge region <b>18</b>. The hydrogen introduced via the feed device <b>11</b> rises upward within the vertical tube <b>13</b> and collects below the distributor plate <b>16</b> to form a hydrogen bubble. Passage orifices <b>19</b> in the distributor plate <b>16</b> disperse the hydrogen in the sulfur melt <b>9</b> present above it, and it rises upward in the form of gas bubbles within the sulfur melt <b>9</b>, which strips sulfur out of the sulfur melt <b>9</b>. This forms a reactant mixture comprising gaseous hydrogen and sulfur in the reactant region <b>10</b> above the sulfur melt <b>9</b>.</p>
+ <p id="p-0051" num="0050">When the passage orifices <b>19</b> in the distributor plate <b>16</b> for hydrogen passage are blocked, the hydrogen can also be dispersed from the hydrogen bubble accumulated below the distributor plate <b>16</b> via the edge region <b>18</b> into a gap <b>20</b> between the reactor jacket <b>25</b> and the edge <b>17</b> of the distributor device <b>15</b> into the sulfur melt <b>9</b>.</p>
+ <p id="p-0052" num="0051">Arranged within the cylindrical body of the reactor <b>1</b> are tubes <b>21</b> which, in accordance with the invention, have a U-shaped design. The U-shaped tubes <b>21</b> are connected to the plate <b>6</b> by their two limbs <b>26</b>, <b>27</b>. The connection of the limbs <b>26</b>, <b>27</b> to the plate <b>6</b> can be established by weld seam. The U-shaped tubes <b>21</b> are immersed partly into the sulfur melt <b>9</b>, which gives rise to the possibility of direct heat exchange between the interior of the tubes <b>21</b> and the sulfur melt <b>9</b> via the outer jacket surface <b>28</b> of the tubes <b>21</b>. Within each U-shaped tube <b>21</b> is arranged a fixed catalyst bed <b>22</b> which is provided in the two limbs <b>26</b>, <b>27</b> of the U-shaped tubes <b>21</b>.</p>
+ <p id="p-0053" num="0052">As shown in <figref idref="DRAWINGS">FIG. 1</figref>, the distributor device <b>15</b> is connected to the U-shaped tubes <b>21</b>, and a portion and especially the transition from one limb <b>26</b> to the second limb <b>27</b> of the particular U-shaped tubes <b>21</b> runs below the distributor plate <b>16</b> through the space <b>14</b>. Since this section of the U-shaped tubes <b>21</b> projects into the accumulated hydrogen bubble and is not in direct contact with the sulfur melt <b>9</b>, this section does not comprise any catalyst. The gap <b>20</b> is positioned between the distributor device <b>15</b> and the reactor jacket <b>25</b>. The distributor device <b>15</b> is not connected directly to the reactor jacket <b>25</b>.</p>
+ <p id="p-0054" num="0053">In the reactor <b>1</b>, the inventive preparation of hydrogen sulfide proceeds as follows. A reactant mixture passes from the reactant region <b>10</b> through one or more entry orifices <b>23</b> arranged on the circumference of a limb <b>26</b> of each of the U-shaped tubes <b>21</b> into the interior of one limb <b>26</b> of the U-shaped tube <b>21</b>, flows through the catalyst bed <b>22</b> present therein, which may be supplemented by an upstream inert bed, and is converted substantially to hydrogen sulfide along the flow path within the reaction region comprising fixed catalyst bed <b>22</b>. The product passes out of the second limb <b>27</b> via at least one exit orifice <b>24</b> into the product region <b>7</b> and can be collected and discharged from there via hood <b>3</b>. As a result of the direct contact of the U-shaped tubes <b>21</b> with the sulfur melt <b>9</b>, the heat of reaction released in the conversion to H<sub>2</sub>S is released from the fixed catalyst bed <b>22</b> into the sulfur melt <b>9</b> via the outer jacket surface <b>28</b> of the U-shaped tubes along the reaction region, and it is utilized for sulfur evaporation.</p>
+ <p id="p-0055" num="0054">In order to keep the sulfur melt <b>9</b> at about the same height during the process, gaseous hydrogen and liquid sulfur are fed in appropriate amounts to the reactor <b>1</b> continuously via the feed device <b>11</b> and a sulfur inlet <b>29</b>. Excess sulfur which is precipitated out of the product as a melt passes out of the first line <b>30</b> to a collecting and diverting construction arranged in the upper subregion of the reactor <b>1</b>. This collecting and diverting construction comprises a collecting tray <b>31</b>, on which inlet stubs <b>34</b> are arranged for passing the product from the product region <b>7</b> disposed below the collecting tray <b>31</b> into the product region <b>7</b> disposed below it, and an edge <b>35</b>. The liquid sulfur separated out is collected on a collecting tray <b>31</b> which is arranged horizontally in the product region <b>7</b> of the reactor <b>1</b>, and recycled via a return tube <b>32</b> immersed into the sulfur melt <b>9</b> into the sulfur melt <b>9</b> present in the lower subregion of the reactor <b>8</b>. The reactor <b>1</b> is preferably insulated, so that the energy consumption is at a minimum.</p>
+ <p id="p-0056" num="0055"><figref idref="DRAWINGS">FIG. 2</figref> shows a top view on a distributor device which is arranged in a preferred embodiment of an inventive reactor.</p>
+ <p id="p-0057" num="0056">The distributor device <b>15</b> preferably comprises a distributor plate <b>16</b> which has passage orifices <b>19</b> and is to be arranged horizontally in the reactor <b>1</b>, and an edge <b>17</b> extending downward. The flat distributor plate <b>16</b> extends preferably virtually over the entire cross-sectional area of the reactor <b>1</b>, leaving a gap between reactor jacket and edge <b>17</b>. The shape of the distributor plate <b>16</b> is guided by the geometry of the reactor in which it is arranged. In the present case, it is circular. The hydrogen introduced below the distributor device <b>15</b> accumulates below this distributor plate <b>16</b> to give a hydrogen bubble in the space which is bordered by the edge extending downward and the distributor plate. The hydrogen accumulated is dispersed through the passage orifices <b>19</b> in the distributor plate <b>16</b> in homogeneous distribution from the hydrogen bubble into the sulfur melt disposed above the distributor plate <b>16</b>.</p>
+ <p id="p-0058" num="0057"><figref idref="DRAWINGS">FIG. 2</figref> illustrates one possible arrangement of the passage orifices <b>19</b> in the distributor plate <b>16</b>, which are arranged in circular form. Likewise shown in the distributor plate <b>16</b> are passages <b>30</b> through which the limbs <b>26</b>, <b>27</b> of the U-shaped tubes <b>21</b> pass in the inventive reactor and, for example, are connected to the distributor plate <b>16</b> by a weld seam. On the circumference of the distributor plate <b>16</b>, recesses <b>33</b> are provided, in which the inlets for hydrogen <b>12</b>, for sulfur <b>29</b> and the sulfur reflux tube <b>32</b> are accommodated.</p>
+ <heading id="h-0003" level="1">REFERENCE NUMERAL LIST</heading>
+ <p id="p-0059" num="0000">
+ <ul id="ul0001" list-style="none">
+     <li id="ul0001-0001" num="0058"><b>1</b> Reactor</li>
+     <li id="ul0001-0002" num="0059"><b>2</b> Reactor body</li>
+     <li id="ul0001-0003" num="0060"><b>3</b> Upper hood</li>
+     <li id="ul0001-0004" num="0061"><b>4</b> Lower hood</li>
+     <li id="ul0001-0005" num="0062"><b>5</b> Outlet stub</li>
+     <li id="ul0001-0006" num="0063"><b>6</b> Plate</li>
+     <li id="ul0001-0007" num="0064"><b>7</b> Product region</li>
+     <li id="ul0001-0008" num="0065"><b>8</b> Lower subregion of reactor</li>
+     <li id="ul0001-0009" num="0066"><b>9</b> Sulfur melt</li>
+     <li id="ul0001-0010" num="0067"><b>10</b> Reactant region</li>
+     <li id="ul0001-0011" num="0068"><b>11</b> Feed device for hydrogen</li>
+     <li id="ul0001-0012" num="0069"><b>12</b> Line</li>
+     <li id="ul0001-0013" num="0070"><b>13</b> Tube arranged vertically</li>
+     <li id="ul0001-0014" num="0071"><b>14</b> Space</li>
+     <li id="ul0001-0015" num="0072"><b>15</b> Distributor device</li>
+     <li id="ul0001-0016" num="0073"><b>16</b> Distributor plate</li>
+     <li id="ul0001-0017" num="0074"><b>17</b> Edge</li>
+     <li id="ul0001-0018" num="0075"><b>18</b> Edge region</li>
+     <li id="ul0001-0019" num="0076"><b>19</b> Passage orifices</li>
+     <li id="ul0001-0020" num="0077"><b>20</b> Gap</li>
+     <li id="ul0001-0021" num="0078"><b>21</b> Tubes</li>
+     <li id="ul0001-0022" num="0079"><b>22</b> Fixed catalyst bed</li>
+     <li id="ul0001-0023" num="0080"><b>23</b> Entry orifice</li>
+     <li id="ul0001-0024" num="0081"><b>24</b> Exit orifice</li>
+     <li id="ul0001-0025" num="0082"><b>25</b> Reactor jacket</li>
+     <li id="ul0001-0026" num="0083"><b>26</b> First limb</li>
+     <li id="ul0001-0027" num="0084"><b>27</b> Second limb</li>
+     <li id="ul0001-0028" num="0085"><b>28</b> Outer jacket surface</li>
+     <li id="ul0001-0029" num="0086"><b>29</b> Sulfur inlet</li>
+     <li id="ul0001-0030" num="0087"><b>30</b> Passages</li>
+     <li id="ul0001-0031" num="0088"><b>31</b> Collecting tray</li>
+     <li id="ul0001-0032" num="0089"><b>32</b> Return tube</li>
+     <li id="ul0001-0033" num="0090"><b>33</b> Recesses</li>
+     <li id="ul0001-0034" num="0091"><b>34</b> Inlet stub</li>
+     <li id="ul0001-0035" num="0092"><b>35</b> Edge</li>
+ </ul>
+ </p>
+ <?DETDESC description="Detailed Description" end="tail"?>
+ </description>
+ <us-claim-statement>The invention claimed is:</us-claim-statement>
+ <claims id="claims">
+ <claim id="CLM-00001" num="00001">
+ <claim-text>1. A reactor for continuously preparing H<sub>2</sub>S by converting a reactant mixture, which comprises essentially gaseous sulfur and hydrogen, over a catalyst, the reactor comprising:
+ <claim-text>a lower part containing a sulfur melt;</claim-text>
+ <claim-text>a feed device adapted to pass gaseous hydrogen into the lower part;</claim-text>
+ <claim-text>a reactant region adapted to contain the reactant mixture;</claim-text>
+ <claim-text>a product region; and</claim-text>
+ <claim-text>at least one U-shaped tube partially disposed within the lower part and placed in contact with the sulfur melt, the at least one U-shaped tube including:
+ <claim-text>a first limb extending into the reactant region and having at least one entry orifice disposed within the reactant region;</claim-text>
+ <claim-text>a second limb extending up to the product region and having at least one exit orifice within the product region; and</claim-text>
+ <claim-text>a flow path connecting the at least one entry orifice to the at least one exit orifice along the U-shaped tube, wherein the catalyst is disposed in a reaction region along the flow path for converting the reactant mixture into a product.</claim-text>
+ </claim-text>
+ </claim-text>
+ </claim>
+ <claim id="CLM-00002" num="00002">
+ <claim-text>2. The reactor according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the at least one U-shaped tube includes an outer jacket surface along the reaction region, and more than 20% of the outer jacket surface is in contact with the sulfur melt.</claim-text>
+ </claim>
+ <claim id="CLM-00003" num="00003">
+ <claim-text>3. The reactor according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a reactor jacket, wherein the at least one U-shaped tube is suspended from a plate connected to the reactor jacket.</claim-text>
+ </claim>
+ <claim id="CLM-00004" num="00004">
+ <claim-text>4. The reactor according to <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein the plate is disposed between the reactant region and the product region.</claim-text>
+ </claim>
+ <claim id="CLM-00005" num="00005">
+ <claim-text>5. The reactor according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein an inert bed is arranged upstream, relative to a flow direction of the reactant mixture in the U-shaped tube, of the catalyst along the flow path.</claim-text>
+ </claim>
+ <claim id="CLM-00006" num="00006">
+ <claim-text>6. The reactor according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a distributor device having a distributor plate arranged in the sulfur melt and a downward extending edge adapted to induce formation of a hydrogen bubble below the distributor plate, the hydrogen from the hydrogen bubble being distributable in the sulfur melt via the downward extending edge.</claim-text>
+ </claim>
+ <claim id="CLM-00007" num="00007">
+ <claim-text>7. The reactor according to <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the distributor plate includes passage orifices for passing hydrogen out of the hydrogen bubble into the sulfur melt.</claim-text>
+ </claim>
+ <claim id="CLM-00008" num="00008">
+ <claim-text>8. The reactor according to <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the distributor device is connected to the at least one U-shaped tube.</claim-text>
+ </claim>
+ <claim id="CLM-00009" num="00009">
+ <claim-text>9. The reactor according to <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein a lower part of the at least one U-shaped tube extends below the distributor plate and the flow path within the lower part does not include any catalyst.</claim-text>
+ </claim>
+ <claim id="CLM-00010" num="00010">
+ <claim-text>10. The reactor according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein a ratio of the sum of the cross-sectional areas of the first and second limbs of the at least one U-shaped tube to the cross-sectional area of the reactor body is between 0.05 and 0.9.</claim-text>
+ </claim>
+ <claim id="CLM-00011" num="00011">
+ <claim-text>11. A process for continuously preparing H<sub>2</sub>S by converting a reactant mixture, which comprises essentially gaseous sulfur and hydrogen, over a catalyst, comprising:
+ <claim-text>providing a sulfur melt at least in a lower part of the reactor;</claim-text>
+ <claim-text>introducing gaseous hydrogen into the lower part of the reactor to generate the reactant mixture in a reactant region;</claim-text>
+ <claim-text>introducing the reactant mixture the reactant region into a first limb of at least one U-shaped tube through at least one entry orifice disposed above the sulfur melt;</claim-text>
+ <claim-text>passing the reactant mixture along a flow path through the at least one U-shaped tube, which is partly in contact with the sulfur melt, the flow path including a reaction region in which the catalyst is disposed, wherein the reactant mixture is passed over the catalyst to generate a product; and</claim-text>
+ <claim-text>passing the product out of at least one exit orifice in a second limb of the U-shaped tube into a product region.</claim-text>
+ </claim-text>
+ </claim>
+ <claim id="CLM-00012" num="00012">
+ <claim-text>12. The process according to <claim-ref idref="CLM-00011">claim 11</claim-ref>, further comprising distributing gaseous hydrogen in the sulfur melt via a distributor device arranged in the sulfur melt, which comprises a distributor plate arranged horizontally in the reactor with a downward extending edge to induce formation of a hydrogen bubble below the distributor plate, the hydrogen from the hydrogen bubble being distributed in the sulfur melt by the distributor device.</claim-text>
+ </claim>
+ <claim id="CLM-00013" num="00013">
+ <claim-text>13. The process according to <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein distributing gaseous hydrogen in the sulfur melt via the distributor device includes passing hydrogen out of the hydrogen bubble into the sulfur melt via orifices included in the distributor plate.</claim-text>
+ </claim>
+ </claims>
+ </us-patent-grant>
+ 

@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+ <us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US08022242-20110920.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110906" date-publ="20110920">
+ <us-bibliographic-data-grant>
+ <publication-reference>
+ <document-id>
+ <country>US</country>
+ <doc-number>08022242</doc-number>
+ <kind>B2</kind>
+ <date>20110920</date>
+ </document-id>
+ </publication-reference>
+ <application-reference appl-type="utility">
+ <document-id>
+ <country>US</country>
+ <doc-number>12310601</doc-number>
+ <date>20070816</date>
+ </document-id>
+ </application-reference>
+ <us-application-series-code>12</us-application-series-code>
+ <priority-claims>
+ <priority-claim sequence="01" kind="regional">
+ <country>EP</country>
+ <doc-number>06017027</doc-number>
+ <date>20060816</date>
+ </priority-claim>
+ </priority-claims>
+ <classifications-ipcr>
+ <classification-ipcr>
+ <ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+ <classification-level>A</classification-level>
+ <section>C</section>
+ <class>07</class>
+ <subclass>C</subclass>
+ <main-group>255</main-group>
+ <subgroup>05</subgroup>
+ <symbol-position>F</symbol-position>
+ <classification-value>I</classification-value>
+ <action-date><date>20110920</date></action-date>
+ <generating-office><country>US</country></generating-office>
+ <classification-status>B</classification-status>
+ <classification-data-source>H</classification-data-source>
+ </classification-ipcr>
+ <classification-ipcr>
+ <ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+ <classification-level>A</classification-level>
+ <section>C</section>
+ <class>07</class>
+ <subclass>C</subclass>
+ <main-group>255</main-group>
+ <subgroup>06</subgroup>
+ <symbol-position>L</symbol-position>
+ <classification-value>I</classification-value>
+ <action-date><date>20110920</date></action-date>
+ <generating-office><country>US</country></generating-office>
+ <classification-status>B</classification-status>
+ <classification-data-source>H</classification-data-source>
+ </classification-ipcr>
+ </classifications-ipcr>
+ <classification-national>
+ <country>US</country>
+ <main-classification>558467</main-classification>
+ <further-classification>558435</further-classification>
+ </classification-national>
+ <invention-title id="d2e61">Process for preparing alkali metal or alkaline earth metal tricyanomethanides</invention-title>
+ <references-cited>
+ <citation>
+ <patcit num="00001">
+ <document-id>
+ <country>WO</country>
+ <doc-number>9829389</doc-number>
+ <date>19980700</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <nplcit num="00002">
+ <othercit>Mayer, &#x201c;Darstellung und Eigenschaften von Tetracyanmethan&#x201d;, Monatsh. Chem., vol. 100, p. 462-468; 1969.</othercit>
+ </nplcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <nplcit num="00003">
+ <othercit>Trofimenko et al., &#x201c;Tricyanomethane (Cyanoform), Carbamyldicyanomethane, and Their Derivatives&#x201d;, J. Org. Chem., vol. 27, pp. 433-438; 1962.</othercit>
+ </nplcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <nplcit num="00004">
+ <othercit>Hipps et al., &#x201c;The Tricyanomethanide Ion: An Infared, Raman, and Tunnelling Spectroscopy Study Including Isotopic Substitution&#x201d;, J. Phys. Chem, vol. 89, pp. 5459-5464; 1985.</othercit>
+ </nplcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <nplcit num="00005">
+ <othercit>English translation of Cox et al., &#x201c;Cyanoform or Tricyanomethane&#x2014;New Preparation Method&#x201d;, Bul. Soc. Chim. Fr., XP009085459, pp. 948-950; 1954.</othercit>
+ </nplcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <nplcit num="00006">
+ <othercit>English translation of Schmidtmann et al., &#x201c;Some Malonitrile Derivatives&#x201d;, Chemische Berichte, vol. 102, pp. 1168-1175; 1886.</othercit>
+ </nplcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <nplcit num="00007">
+ <othercit>English translation of Grigat et al., &#x201c;Reaction of Cyanic Acid Esters with Compounds Containing a Nucleophilic Carbon Atom and With 1, 3-Dipolar Agents&#x201d;, Chemische Berichte, vol. 98, pp. 3777-3784; 1965.</othercit>
+ </nplcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <nplcit num="00008">
+ <othercit>English translation of Birchkenbach et al., &#x201c;The Pseudohalogen Tricyanomethyl and the Mixed Halogen Bromotricyanomethyl&#x201d;, Chem. Ber, vol. 62B, pp. 153-163; 1929.</othercit>
+ </nplcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <nplcit num="00009">
+ <othercit>English translation of Bock et al., &#x201c;Photoelectron Spectra and Molecular Poperties, 110 [1,2] Tricyanmethan-Derivates X-C(CN)3&#x201d;, Z. Naturforsch, vol. 42b, pp. 315-322; 1987.</othercit>
+ </nplcit>
+ <category>cited by other</category>
+ </citation>
+ </references-cited>
+ <number-of-claims>9</number-of-claims>
+ <us-exemplary-claim>1</us-exemplary-claim>
+ <us-field-of-classification-search>
+ <classification-national>
+ <country>US</country>
+ <main-classification>None</main-classification>
+ </classification-national>
+ </us-field-of-classification-search>
+ <us-related-documents>
+ <related-publication>
+ <document-id>
+ <country>US</country>
+ <doc-number>20100094040</doc-number>
+ <kind>A1</kind>
+ <date>20100415</date>
+ </document-id>
+ </related-publication>
+ </us-related-documents>
+ <parties>
+ <applicants>
+ <applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+ <addressbook>
+ <last-name>T&#xe4;schler</last-name>
+ <first-name>Christoph</first-name>
+ <address>
+ <city>Termen</city>
+ <country>CH</country>
+ </address>
+ </addressbook>
+ <nationality>
+ <country>omitted</country>
+ </nationality>
+ <residence>
+ <country>CH</country>
+ </residence>
+ </applicant>
+ <applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+ <addressbook>
+ <last-name>Breuer</last-name>
+ <first-name>Andreas</first-name>
+ <address>
+ <city>Saas Almagell</city>
+ <country>CH</country>
+ </address>
+ </addressbook>
+ <nationality>
+ <country>omitted</country>
+ </nationality>
+ <residence>
+ <country>CH</country>
+ </residence>
+ </applicant>
+ </applicants>
+ <agents>
+ <agent sequence="01" rep-type="attorney">
+ <addressbook>
+ <orgname>Hoffmann &#x26; Baron, LLP</orgname>
+ <address>
+ <country>unknown</country>
+ </address>
+ </addressbook>
+ </agent>
+ </agents>
+ </parties>
+ <assignees>
+ <assignee>
+ <addressbook>
+ <orgname>Lonza AG</orgname>
+ <role>03</role>
+ <address>
+ <city>Basel</city>
+ <country>CH</country>
+ </address>
+ </addressbook>
+ </assignee>
+ </assignees>
+ <examiners>
+ <primary-examiner>
+ <last-name>Saeed</last-name>
+ <first-name>Kamal</first-name>
+ <department>1626</department>
+ </primary-examiner>
+ <assistant-examiner>
+ <last-name>Grazier</last-name>
+ <first-name>Nyeemah A</first-name>
+ </assistant-examiner>
+ </examiners>
+ <pct-or-regional-filing-data>
+ <document-id>
+ <country>WO</country>
+ <doc-number>PCT/EP2007/007240</doc-number>
+ <kind>00</kind>
+ <date>20070816</date>
+ </document-id>
+ <us-371c124-date>
+ <date>20091209</date>
+ </us-371c124-date>
+ </pct-or-regional-filing-data>
+ <pct-or-regional-publishing-data>
+ <document-id>
+ <country>WO</country>
+ <doc-number>WO2008/019852</doc-number>
+ <kind>A </kind>
+ <date>20080221</date>
+ </document-id>
+ </pct-or-regional-publishing-data>
+ </us-bibliographic-data-grant>
+ <abstract id="abstract">
+ <p id="p-0001" num="0000">The present invention relates to a process for preparing highly pure alkali metal or alkaline earth metal tricyanomethanides.</p>
+ </abstract>
+ <description id="description">
+ <?BRFSUM description="Brief Summary" end="lead"?>
+ <p id="p-0002" num="0001">This application is the U.S. National Phase of, and Applicants claim priority from, International Application Number PCT/EP2007/007240 filed Aug. 16, 2007, and European Patent Application bearing Serial No. 06017027.1 filed Aug. 16, 2006 which are incorporated herein by reference.</p>
+ <heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+ <p id="p-0003" num="0002">The present invention relates to a process for preparing alkali metal or alkaline earth metal tricyanomethanides having a particularly high purity, in particular a high freedom from halides.</p>
+ <p id="p-0004" num="0003">Ionic liquids containing alkali metal or alkaline earth metal tricyanomethanides (TCMs) are important raw materials and auxiliaries in the electrical industry, for example for the production of rechargeable batteries and electronic building blocks. For these fields of application, it is necessary that the methanides used are particularly pure, in particular free of halides, in order to avoid corrosion problems and/or unwanted secondary reactions.</p>
+ <p id="p-0005" num="0004">The preparation of tricyanomethanides is known. The cyanidation of malononitrile (MN) was first described by Schmidtmann in <i>Ber. Dtsch. Chem. Ges. </i>1896, 29, 1168. Here, MN is deprotonated by means of sodium ethoxide in ethanol and converted into sodium tricyanomethanide by stepwise addition of chlorocyan and then crystallized from ether. Sodium tricyanomethanide is isolated in a yield of about 70% in the process.</p>
+ <p id="p-0006" num="0005">In <i>Chem. Ber. </i>1929, 62B, 153, Birckenbach et al. have disclosed the cyanidation of MN by means of bromocyan. Both Birckenbach et al. and Mayer et al. (<i>Monatsh. Chem., </i>1969, 100, 462) have described the preparation of silver tricyanomethanide which is low in halogen by admixing crude alkali metal tricyanomethanide with silver nitrate, resulting firstly in precipitation of silver chloride or silver bromide. After further addition of silver nitrate, silver tricyanomethanide could be isolated from the filtrate. Furthermore, Mayer et al. have described the reaction of silver tricyanomethanide with chlorocyan at 100&#xb0; C. for 40 hours to give tetracyanomethane which was then sublimed and subsequently hydrolyzed in sulfuric acid to form ammonium tricyanomethanide. Mayer et al. obtained lithium tricyanomethanide by addition of lithium chloride to an acetonitrile solution of tetracyanomethane at &#x2212;96&#xb0; C.</p>
+ <p id="p-0007" num="0006">The preparation of high-purity potassium tricyanomethanide was disclosed for the first time by Hipps et al. (<i>J. Phys. Chem. </i>1985, 89, 5459). In this process, potassium tricyanomethanide was recrystallized ten times. To remove residual organic impurities, the potassium tricyanomethanide obtained was subsequently recrystallized twice from water. This gave a white crystalline powder which on excitation with light at 5145 &#x212b; displayed no Raman fluorescence background and was interpreted as highly pure.</p>
+ <p id="p-0008" num="0007">The cyanidation of MN by means of bromocyan in the presence of 1,4-diazabicyclo[2.2.2]octane (DABCO&#xae;) in THF has been disclosed in WO-A-98/29389. In this process, DABCO&#xae; hydrochloride crystallizes out at &#x2212;20&#xb0; C. over a period of 28 hours. 98% pure lithium tricyanomethanide was obtained here.</p>
+ <p id="p-0009" num="0008">A further process has been disclosed by Trofimenko et al. in <i>J. Org. Chem. </i>1962, 27, 433, and in this potassium tricyanomethanide was obtained by treatment of a dihalomalononitrile-potassium bromide complex with potassium cyanide. The process gives yields of up to 60%.</p>
+ <p id="p-0010" num="0009">In <i>Bull. Soc. Chim. Fr. </i>1954, 948, Fox et al. have described a further process for preparing tricyanomethane at low temperature in which bromomalononitrile was reacted with potassium cyanide.</p>
+ <p id="p-0011" num="0010">Further processes for preparing tricyanomethanides, which comprise reaction of deprotonated MN with phenyl cyanate, have been disclosed by Grigat et al. in <i>Chem. Ber. </i>1965, 98, 3777-3784 and Martin et al. in DD-A-48614. Yields of from 75 to 88% were obtained here.</p>
+ <p id="p-0012" num="0011">However, the known processes do not give products which are halogen-free and the products always have to be after-treated in more or less complicated purification steps.</p>
+ <p id="p-0013" num="0012">One process for purifying sodium tricyanomethanide by recrystallization in acetonitrile was described in 1987 by Bock et al. in <i>Z. Naturforsch., </i>1987, 42b, 315. Here, sodium tricyanomethanide was obtained in a yield of 70%. However, the purity obtained is not evidenced by precise information.</p>
+ <p id="p-0014" num="0013">It was an object of the present invention to provide a simple and quick process for preparing highly pure tricyanomethanides. The process should be suitable for industrial production.</p>
+ <heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+ <p id="p-0015" num="0014">The object was achieved as set forth in claim <b>1</b>.</p>
+ <p id="p-0016" num="0015">What is claimed is a process for preparing alkali metal or alkaline earth metal tricyanomethanides having a purity of at least 99% by weight and a halide content of not more than 20 ppm, wherein, in a first step, malononitrile is converted into the corresponding alkali metal or alkaline earth metal tricyanomethanide in the presence of water and an acid by parallel addition of a halocyan or dicyan and also an alkali metal base and a pH of from 4.0 to 9.5, preferably from 6.4 to 7.7, very particularly preferably from 7.0 to 7.6, is maintained at least during the addition of the halocyan or dicyan and the alkali metal or alkaline earth metal tricyanomethanide initially formed is recrystallized from a different solvent in a second step.</p>
+ <p id="p-0017" num="0016">It has surprisingly been found that carrying out the cyanidation at alkali metal or alkaline earth metal tricyanomethanide concentrations of from 22 to 24% by weight results in most of the alkali metal tricyanomethanide precipitating in the form of fine crystals and being able to be isolated directly as solid in a yield of about 60%.</p>
+ <heading id="h-0003" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+ <p id="p-0018" num="0017">Important features of the invention are the change of solvents between synthesis and purification and also the conditions under which the reaction is carried out. The cyanidation is carried out in aqueous solution in a narrow pH range, resulting in formation of only a small amount of by-products which can then be removed very efficiently by recrystallization from a suitable organic solvent.</p>
+ <p id="p-0019" num="0018">The malononitrile is preferably dissolved in water in the presence of a buffer system which has preferably been prepared by addition of an acid and subsequent adjustment of the pH by means of a base. Carrying out the reaction in the presence of a buffer system makes it significantly easier to maintain a narrow pH range. In a preferred embodiment, the acid is selected from the group consisting of water-miscible organic and inorganic acids, water-wettable organic and inorganic polyacids and mixtures thereof. Suitable acids are selected from the group consisting of formic acid, acetic acid, chloroacetic acid, propionic acid, 2-chloropropionic acid, 3-chloropropionic acid, toluenesulfonic acid, phosphoric acid, sulfuric acid, hydrochloric acid and nitric acid, acidic ion exchangers, polyphosphoric acid and heteropolyacids such as polymolybdic acid and polytungstic acids. Particular preference is given to using polybasic acids, very particularly preferably phosphoric acid.</p>
+ <p id="p-0020" num="0019">The base used in the buffer system is preferably the same base which is added later in the reaction.</p>
+ <p id="p-0021" num="0020">As halocyan, it is possible to use chlorocyan and bromocyan. Due to the presence of a pseudohalogen group, dicyan has properties comparable to chlorocyan and bromocyan. The halocyan or dicyan is particularly preferably used in a ratio to malononitrile of from 1:1 to 10:1, preferably from 1:1 to 1:3. An excess of halocyan or dicyan is particularly preferred. Preference is given to using chlorocyan.</p>
+ <p id="p-0022" num="0021">The base in the process of the invention contains at least one alkali metal or alkaline earth metal selected from the group consisting of lithium, sodium, potassium, magnesium, calcium and barium. Preference is given to using lithium and/or sodium.</p>
+ <p id="p-0023" num="0022">Furthermore, the alkali metal or alkaline earth metal base is particularly preferably a strong base. It is here possible to use, in particular, alkali metal or alkaline earth metal hydroxides, alkali metal or alkaline earth metal oxides or alkali metal or alkaline earth metal alkoxides. In particular, C<sub>1-6</sub>-alkoxides can be used as alkali metal or alkaline earth metal alkoxides. In a very particularly preferred embodiment, the base is an alkali metal or alkaline earth metal hydroxide.</p>
+ <p id="p-0024" num="0023">The alkali metal tricyanomethanide initially formed in the process of the invention has a halide content of up to 10% by weight in the first step. This solid can then be recrystallized in one step from another solvent, preferably an organic solvent. The product can be obtained as a solid from the mixture, preferably after cooling. Alkali metal or alkaline earth metal tricyanomethanides are obtained with low halide contents, a high chemical purity and in good yields of 94% by weight based on the crude alkali metal or alkaline earth metal tricyanomethanide used.</p>
+ <p id="p-0025" num="0024">In a preferred process variant, the alkali metal or alkaline earth metal tricyanomethanide is in the second step firstly dissolved, if appropriate at elevated temperature, in methyl ethyl ketone and/or methyl isobutyl ketone and precipitated, if appropriate at a reduced temperature.</p>
+ <p id="p-0026" num="0025">In a further preferred process variant, the alkali metal or alkaline earth metal tricyanomethanide is, if appropriate after prior addition and removal of activated carbon, precipitated in the presence of methyl tert-butyl ether or diisopropyl ether.</p>
+ <p id="p-0027" num="0026">The recrystallization is particularly preferably carried out using the solvents acetone and methyl tert-butyl ether (MTBE).</p>
+ <p id="p-0028" num="0027">The recrystallization is, in a preferred process variant, carried out in the presence of a porous filter aid such as activated carbon, cellulose, cotton, kieselguhr or silica sol. The alkali metal or alkaline earth metal tricyanomethanide is advantageously dissolved in the presence of the filter aid. However, the filter aid can also be added during dissolution or after the solution has been obtained. The filter material is separated off before the alkali metal or alkaline earth metal tricyanomethanide is precipitated. Particular preference is given to using activated carbon as filter aid.</p>
+ <p id="p-0029" num="0028">The alkali metal or alkaline earth metal tricyanomethanide is preferably precipitated at a temperature below 20&#xb0; C., particularly preferably 10&#xb0; C. or less.</p>
+ <p id="p-0030" num="0029">In the process of the invention, an alkali metal or alkaline earth metal tricyanomethanide having a purity of at least 99% by weight, preferably at least 99.5% by weight, particularly preferably at least 99.8% by weight, is obtained after the second step. Alkali metal or alkaline earth metal tricyanomethanides having a purity of 99.9% by weight and more can very particularly preferably be obtained. For the purposes of the present invention, the purity in % by weight is the purity of the solvent-free alkali metal or alkaline earth metal tricyanomethanides.</p>
+ <p id="p-0031" num="0030">In the process of the invention, an alkali metal or alkaline earth metal tricyanomethanide having a halide content of not more than 20 ppm, preferably not more than 10 ppm, particularly preferably not more than 5 ppm, is obtained after the second step.</p>
+ <?BRFSUM description="Brief Summary" end="tail"?>
+ <?DETDESC description="Detailed Description" end="lead"?>
+ <heading id="h-0004" level="1">EXAMPLES</heading>
+ <p id="p-0032" num="0031">In the following examples, replacement of the sodium hydroxide by another alkali metal or alkaline earth metal base makes it possible to obtain the corresponding alkali metal or alkaline earth metal tricyanomethanides. Use of mixtures of bases of different alkali metals or alkaline earth metals also enables mixed tricyanomethanides to be obtained.</p>
+ <heading id="h-0005" level="1">Example 1</heading>
+ <p id="p-0033" num="0032">Malononitrile (462 g, 5.95 mol, 85% strength in methanol), water (2021 g) and phosphoric acid (57.1 g, 0.5 mol, 85% strength) are mixed in a stirring apparatus. A pH of 7.5 is subsequently set by means of sodium hydroxide (50% strength). At from 25 to 30&#xb0; C., chlorocyan (979 g, 15.92 mol) is introduced over a period of 2 hours, with the pH being maintained at 6.4-7.5 by regulated addition of sodium hydroxide (50% strength). A beige to brown clear solution is formed. After addition of all the chlorocyan, the reaction mixture is stirred at 25-30&#xb0; C. for a further 30 minutes. During this time, the pH is maintained at 7.0-7.5 by regulated addition of sodium hydroxide (50% strength). A pH of 8.5 is subsequently set by means of sodium hydroxide. 50 g of activated carbon are then added to the reaction mixture. The suspension obtained is stirred at 25-30&#xb0; C. for a further 30 minutes and subsequently filtered. 3950 g of a yellowish solution comprising 16.8% by weight of sodium tricyanomethanide, 10.5% by weight of inorganic salts, 71.5% by weight of water, 1.3 of methanol and 0.1% by weight of organic impurities are obtained as filtrate. The purity of the product is 98.6% by weight.</p>
+ <heading id="h-0006" level="1">Example 2</heading>
+ <p id="p-0034" num="0033">Malononitrile (513 g, 6.61 mol, 85% strength in methanol), water (2021 g) and phosphoric acid (63.5 g, 0.55 mol, 85% strength) are mixed in a stirring apparatus. A pH of 7.2 is set by means of sodium hydroxide (50% strength). At from 25 to 30&#xb0; C., chlorocyan (1098 g, 17.85 mol) is introduced over a period of 3 hours, with the pH being maintained at 7.0-7.2 by regulated addition of sodium hydroxide (50% strength). A beige to brown clear solution is formed. After all the chlorocyan has been added, the reaction mixture is stirred at 25-30&#xb0; C. for a further 30 minutes. During this time, the pH is maintained at 7.0-7.2 by regulated addition of sodium hydroxide (50% strength). A pH of 8.5 is then set by means of sodium hydroxide and 50 g of activated carbon are added to the reaction mixture. The suspension obtained is stirred at 25-30&#xb0; C. for a further 30 minutes and subsequently filtered. 4.17 kg of a yellowish solution of sodium tricyanomethanide in water having a content of 17.9% by weight of sodium tricyanomethanide are obtained. In addition, 11.0% by weight of inorganic salts, 1.0% by weight of methanol, 69.9% by weight of water and 0.2% by weight of organic impurities are present. The yield of sodium tricyanomethanide based on the malononitrile used is 100%. The purity of the product is above 98.8% by weight.</p>
+ <heading id="h-0007" level="1">Example 3</heading>
+ <p id="p-0035" num="0034">Malononitrile (169.6 g, 2.18 mol, 85% strength in methanol), water (392.8 g) and phosphoric acid (18.8 g, 0.16 mol, 85% strength) are mixed. A pH of 7.5 is subsequently set by means of sodium hydroxide (50% strength). At from 25 to 30&#xb0; C., chlorocyan (137.8 g, 2.24 mol) is introduced over a period of 4 hours, with the pH being maintained at 7.3-7.5 by regulated addition of sodium hydroxide (50% strength). After all the chlorocyan has been added, the beige to brown reaction mixture is stirred at 25-30&#xb0; C. for a further 30 minutes, with the pH being maintained at 7.3-7.5 by regulated addition of sodium hydroxide (50% strength). The pH is then set to 8.5 by means of sodium hydroxide and the temperature is increased to 70&#xb0; C. This results in a clear beige to brown solution being formed again from the suspension. This solution is then cooled at a rate of 6&#xb0; C./h to 10&#xb0; C., resulting in a suspension being formed again and this is subsequently centrifuged. 167.9 g of moist sodium tricyanomethanide having a sodium tricyanomethanide content of 72% by weight are obtained in this way. This corresponds to a yield of 49%. A further 47% by weight of sodium tricyanomethanide can be obtained from the mother liquor. Furthermore, 2.6% by weight of sodium chloride, 24.0% by weight of water and 1.2% by weight of organic impurities are present in the moist product. The purity of the product is about 98.8% by weight.</p>
+ <heading id="h-0008" level="1">Example 4</heading>
+ <p id="p-0036" num="0035">Moist sodium tricyanomethanide as per example 3 (717 g, 4.08 mol, 64.3% strength, containing about 2.7% by weight of sodium chloride) is dried at 15 mbar and 55&#xb0; C. for 12 hours, giving 519 g of dried crude product. This crude product is dissolved in acetone (3 l) at 45&#xb0; C. to give a brown solution which is then admixed with activated carbon (112 g). Stirring at 25&#xb0; C. for 15 minutes and subsequently filtering the mixture gives a clear slightly yellowish solution. This solution is admixed with methyl tert-butyl ether (MTBE, 9 l) and cooled to 10&#xb0; C., forming a white suspension. The suspension is filtered with suction and the residue is dried at 15 mbar and 40&#xb0; C. for 8 hours. White sodium tricyanomethanide (432 g, 3.82 mol, 94% yield) having a content of 99.9% by weight is obtained. The chloride content of this product is less than 5 ppm.</p>
+ <?DETDESC description="Detailed Description" end="tail"?>
+ </description>
+ <us-claim-statement>The invention claimed is:</us-claim-statement>
+ <claims id="claims">
+ <claim id="CLM-00001" num="00001">
+ <claim-text>1. A process for preparing alkali metal or alkaline earth metal tricyanomethanides having a purity of at least 99% by weight and a halide content of not more than 20 ppm, wherein, in a first step, malononitrile is converted into the corresponding alkali metal or alkaline earth metal tricyanomethanide in the presence of water and an acid by parallel addition of a halocyan or dicyan and also an alkali metal or alkaline earth metal base and a pH of from 4.0 to 9.5, is maintained at least during the addition of the halocyan and the alkali metal or alkaline earth metal tricyanomethanide initially formed is recrystallized from a different solvent in a second step, characterized in that the alkali metal or alkaline earth metal base contains at least one alkali metal or alkaline earth metal selected from the group consisting of lithium, sodium, potassium, calcium, magnesium and barium.</claim-text>
+ </claim>
+ <claim id="CLM-00002" num="00002">
+ <claim-text>2. The process as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the malononitrile is firstly dissolved in water and then mixed with an acid.</claim-text>
+ </claim>
+ <claim id="CLM-00003" num="00003">
+ <claim-text>3. The process as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, characterized in that the acid is an inorganic acid.</claim-text>
+ </claim>
+ <claim id="CLM-00004" num="00004">
+ <claim-text>4. The process as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, characterized in that the halocyan is chlorocyan.</claim-text>
+ </claim>
+ <claim id="CLM-00005" num="00005">
+ <claim-text>5. The process as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, characterized in that the alkali metal or alkaline earth metal base is selected from the group consisting of alkali metal and alkaline earth metal hydroxides, alkali metal and alkaline earth metal oxides and alkali metal and alkaline earth metal alkoxides.</claim-text>
+ </claim>
+ <claim id="CLM-00006" num="00006">
+ <claim-text>6. The process as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, characterized in that, in the second step, alkali metal or alkaline earth metal tricyanomethanide is firstly dissolved, if appropriate at elevated temperature, in acetone, methyl ethyl ketone and/or methyl isobutyl ketone and subsequently precipitated by addition of methyl tert-butyl ether or diisopropyl ether, if appropriate at a reduced temperature.</claim-text>
+ </claim>
+ <claim id="CLM-00007" num="00007">
+ <claim-text>7. The process as claimed in <claim-ref idref="CLM-00006">claim 6</claim-ref>, characterized in that, in the second step, a porous filter material is added to the alkali metal or alkaline earth metal tricyanomethanide solution and is filtered off before precipitation of the alkali metal or alkaline earth metal tricyanomethanides.</claim-text>
+ </claim>
+ <claim id="CLM-00008" num="00008">
+ <claim-text>8. The process as claimed in <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the alkali metal or alkaline earth metal tricyanomethanide is precipitated by addition of methyl tert-butyl ether or diisopropyl ether.</claim-text>
+ </claim>
+ <claim id="CLM-00009" num="00009">
+ <claim-text>9. The process as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein alkali metal or alkaline earth metal tricyanomethanide is obtained in a purity of at least 99.5% by weight, particularly preferably in a purity of at least 99.8% by weight.</claim-text>
+ </claim>
+ </claims>
+ </us-patent-grant>
+ 

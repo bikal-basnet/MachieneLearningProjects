@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+ <us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US08022119-20110920.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110906" date-publ="20110920">
+ <us-bibliographic-data-grant>
+ <publication-reference>
+ <document-id>
+ <country>US</country>
+ <doc-number>08022119</doc-number>
+ <kind>B2</kind>
+ <date>20110920</date>
+ </document-id>
+ </publication-reference>
+ <application-reference appl-type="utility">
+ <document-id>
+ <country>US</country>
+ <doc-number>11908986</doc-number>
+ <date>20060128</date>
+ </document-id>
+ </application-reference>
+ <us-application-series-code>11</us-application-series-code>
+ <priority-claims>
+ <priority-claim sequence="01" kind="national">
+ <country>DE</country>
+ <doc-number>10 2005 012 457</doc-number>
+ <date>20050318</date>
+ </priority-claim>
+ </priority-claims>
+ <us-term-of-grant>
+ <us-term-extension>745</us-term-extension>
+ </us-term-of-grant>
+ <classifications-ipcr>
+ <classification-ipcr>
+ <ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+ <classification-level>A</classification-level>
+ <section>C</section>
+ <class>08</class>
+ <subclass>G</subclass>
+ <main-group>59</main-group>
+ <subgroup>50</subgroup>
+ <symbol-position>F</symbol-position>
+ <classification-value>I</classification-value>
+ <action-date><date>20110920</date></action-date>
+ <generating-office><country>US</country></generating-office>
+ <classification-status>B</classification-status>
+ <classification-data-source>H</classification-data-source>
+ </classification-ipcr>
+ <classification-ipcr>
+ <ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+ <classification-level>A</classification-level>
+ <section>C</section>
+ <class>08</class>
+ <subclass>L</subclass>
+ <main-group>63</main-group>
+ <subgroup>00</subgroup>
+ <symbol-position>L</symbol-position>
+ <classification-value>I</classification-value>
+ <action-date><date>20110920</date></action-date>
+ <generating-office><country>US</country></generating-office>
+ <classification-status>B</classification-status>
+ <classification-data-source>H</classification-data-source>
+ </classification-ipcr>
+ </classifications-ipcr>
+ <classification-national>
+ <country>US</country>
+ <main-classification>523435</main-classification>
+ <further-classification>525533</further-classification>
+ </classification-national>
+ <invention-title id="d2e71">Epoxy and silane group-containing oligomers and polymers and a method for the production and the use thereof</invention-title>
+ <references-cited>
+ <citation>
+ <patcit num="00001">
+ <document-id>
+ <country>US</country>
+ <doc-number>4772672</doc-number>
+ <kind>A</kind>
+ <name>Isozaki et al.</name>
+ <date>19880900</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00002">
+ <document-id>
+ <country>US</country>
+ <doc-number>5350811</doc-number>
+ <kind>A</kind>
+ <name>Ichimura et al.</name>
+ <date>19940900</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00003">
+ <document-id>
+ <country>US</country>
+ <doc-number>6534568</doc-number>
+ <kind>B1</kind>
+ <name>Katz et al.</name>
+ <date>20030300</date>
+ </document-id>
+ </patcit>
+ <category>cited by examiner</category>
+ <classification-national><country>US</country><main-classification>523212</main-classification></classification-national>
+ </citation>
+ <citation>
+ <patcit num="00004">
+ <document-id>
+ <country>US</country>
+ <doc-number>2006/0004121</doc-number>
+ <kind>A1</kind>
+ <name>Ding et al.</name>
+ <date>20060100</date>
+ </document-id>
+ </patcit>
+ <category>cited by examiner</category>
+ <classification-national><country>US</country><main-classification>523115</main-classification></classification-national>
+ </citation>
+ <citation>
+ <patcit num="00005">
+ <document-id>
+ <country>DE</country>
+ <doc-number>3839215</doc-number>
+ <kind>A1</kind>
+ <date>19890600</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00006">
+ <document-id>
+ <country>DE</country>
+ <doc-number>4020316</doc-number>
+ <kind>A1</kind>
+ <date>19920100</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00007">
+ <document-id>
+ <country>DE</country>
+ <doc-number>19816136</doc-number>
+ <kind>A1</kind>
+ <date>19991000</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00008">
+ <document-id>
+ <country>DE</country>
+ <doc-number>19818735</doc-number>
+ <kind>A1</kind>
+ <date>19991000</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00009">
+ <document-id>
+ <country>DE</country>
+ <doc-number>19930665</doc-number>
+ <kind>A1</kind>
+ <date>20010100</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00010">
+ <document-id>
+ <country>DE</country>
+ <doc-number>10018935</doc-number>
+ <kind>A1</kind>
+ <date>20011000</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00011">
+ <document-id>
+ <country>DE</country>
+ <doc-number>10221009</doc-number>
+ <kind>A1</kind>
+ <date>20031200</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00012">
+ <document-id>
+ <country>EP</country>
+ <doc-number>0543393</doc-number>
+ <kind>A1</kind>
+ <date>19930500</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00013">
+ <document-id>
+ <country>EP</country>
+ <doc-number>0817614</doc-number>
+ <kind>B1</kind>
+ <date>20020800</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00014">
+ <document-id>
+ <country>WO</country>
+ <doc-number>W09952964</doc-number>
+ <kind>A2</kind>
+ <date>19991000</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <nplcit num="00015">
+ <othercit>International Search Report for PCT/EP2006/050568 dated May 4, 2006.</othercit>
+ </nplcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <nplcit num="00016">
+ <othercit>International Preliminary Report on Patentability for International Application No. PCT/EP2006/050568 dated Oct. 3, 2007.</othercit>
+ </nplcit>
+ <category>cited by other</category>
+ </citation>
+ </references-cited>
+ <number-of-claims>17</number-of-claims>
+ <us-exemplary-claim>1</us-exemplary-claim>
+ <us-field-of-classification-search>
+ <classification-national>
+ <country>US</country>
+ <main-classification>523435</main-classification>
+ </classification-national>
+ <classification-national>
+ <country>US</country>
+ <main-classification>525533</main-classification>
+ </classification-national>
+ </us-field-of-classification-search>
+ <us-related-documents>
+ <related-publication>
+ <document-id>
+ <country>US</country>
+ <doc-number>20080139733</doc-number>
+ <kind>A1</kind>
+ <date>20080612</date>
+ </document-id>
+ </related-publication>
+ </us-related-documents>
+ <parties>
+ <applicants>
+ <applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+ <addressbook>
+ <last-name>Poppe</last-name>
+ <first-name>Andreas</first-name>
+ <address>
+ <city>Sendenhorst</city>
+ <country>DE</country>
+ </address>
+ </addressbook>
+ <nationality>
+ <country>omitted</country>
+ </nationality>
+ <residence>
+ <country>DE</country>
+ </residence>
+ </applicant>
+ <applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+ <addressbook>
+ <last-name>Dunja</last-name>
+ <first-name>Mikolajetz</first-name>
+ <address>
+ <city>Ascheberg</city>
+ <country>DE</country>
+ </address>
+ </addressbook>
+ <nationality>
+ <country>omitted</country>
+ </nationality>
+ <residence>
+ <country>DE</country>
+ </residence>
+ </applicant>
+ </applicants>
+ <agents>
+ <agent sequence="01" rep-type="attorney">
+ <addressbook>
+ <orgname>Cantor Colburn LLP</orgname>
+ <address>
+ <country>unknown</country>
+ </address>
+ </addressbook>
+ </agent>
+ </agents>
+ </parties>
+ <assignees>
+ <assignee>
+ <addressbook>
+ <orgname>BASF Coatings AG</orgname>
+ <role>03</role>
+ <address>
+ <city>Munster</city>
+ <country>DE</country>
+ </address>
+ </addressbook>
+ </assignee>
+ </assignees>
+ <examiners>
+ <primary-examiner>
+ <last-name>Eashoo</last-name>
+ <first-name>Mark</first-name>
+ <department>1767</department>
+ </primary-examiner>
+ <assistant-examiner>
+ <last-name>Karst</last-name>
+ <first-name>David</first-name>
+ </assistant-examiner>
+ </examiners>
+ <pct-or-regional-filing-data>
+ <document-id>
+ <country>WO</country>
+ <doc-number>PCT/EP2006/050568</doc-number>
+ <kind>00</kind>
+ <date>20060128</date>
+ </document-id>
+ <us-371c124-date>
+ <date>20070918</date>
+ </us-371c124-date>
+ </pct-or-regional-filing-data>
+ <pct-or-regional-publishing-data>
+ <document-id>
+ <country>WO</country>
+ <doc-number>WO2006/097387</doc-number>
+ <kind>A </kind>
+ <date>20060921</date>
+ </document-id>
+ </pct-or-regional-publishing-data>
+ </us-bibliographic-data-grant>
+ <abstract id="abstract">
+ <p id="p-0001" num="0000">Oligomers and polymers containing epoxide groups and silane groups and preparable by reacting
+ <ul id="ul0001" list-style="none">
+     <li id="ul0001-0001" num="0000">(A) at least one low molecular mass, oligomeric or polymeric compound containing at least two epoxide groups (a1) with</li>
+     <li id="ul0001-0002" num="0000">(B) at least one silane containing
+     <ul id="ul0002" list-style="none">
+         <li id="ul0002-0001" num="0000">(b1) at least one at least divalent organic radical which per se is not hydrolyzable,</li>
+         <li id="ul0002-0002" num="0000">(b2) at least one cyclic dicarboxylic anhydride group and</li>
+         <li id="ul0002-0003" num="0000">(b3) at least one silane group containing at least one hydrolyzable group (b31),</li>
+         <li id="ul0002-0004" num="0000">the cyclic dicarboxylic anhydride groups (b2) being attached to the silane groups (b3) via the radicals (b1),
+ <br/>
+ the equivalent ratio of epoxide groups (a1) to dicarboxylic anhydride groups (b2) being 0.7 to 100;
+ <br/>
+ processes for preparing them, and their use for preparing anhydrous curable compositions.
+ </li>
+     </ul>
+     </li>
+ </ul>
+ </p>
+ </abstract>
+ <description id="description">
+ <?BRFSUM description="Brief Summary" end="lead"?>
+ <heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+ <p id="p-0002" num="0001">This Application is a National Phase Application of Patent Application PCT/EP2006/050568 filed on 28 Jan. 2006, which claims priority to German patent application DE 10 2005 012457.7 filed 18 Mar. 2005, both of which are hereby incorporated by reference.</p>
+ <p id="p-0003" num="0002">The present invention relates to new oligomers and polymers containing epoxide groups and silane groups. The present invention also relates to a new process for preparing oligomers and polymers containing epoxide groups and silane groups. The present invention further relates to the use of the new oligomers and polymers containing epoxide groups and silane groups, and of the oligomers and polymers containing epoxide groups and silane groups that are prepared by means of the new process, for preparing anhydrous curable compositions.</p>
+ <p id="p-0004" num="0003">Oligomers and polymers containing epoxide groups and silane groups are known for example from German patent application DE 38 39 215 A 1 and from the American patent U.S. Pat. No. 4,772,672. They are prepared by free-radically copolymerizing monomers containing epoxide groups and silane groups.</p>
+ <p id="p-0005" num="0004">The known oligomers and polymers containing epoxide groups and silane groups serve to prepare anhydrous, thermally curable coating materials. The known anhydrous, thermally curable coating materials comprise aluminum chelate, titanium chelate or zirconium chelate compounds as thermal curing catalysts.</p>
+ <p id="p-0006" num="0005">The known anhydrous, thermally curable coating materials have a long pot life and yield coatings which are impact-resistant, water-resistant, weathering-stable, chemicals-resistant, free from internal contractions, and readily overpaintable. Nevertheless, the scratch resistance of the known coatings leaves much to be desired.</p>
+ <p id="p-0007" num="0006">German patent application DE 100 18 935 A1 discloses anhydrous, thermally curable coating materials which comprise low molecular mass compounds, oligomers and polymers containing epoxide groups, plus anhydrides as curing agents. These known coating materials yield coatings which, although exhibiting high substrate adhesion and intercoat adhesion, have a scratch resistance which again leaves much to be desired. They are therefore suitable only for producing primer coats.</p>
+ <p id="p-0008" num="0007">For scratchproofing they have to be furnished with aqueous, thermally curable coating materials based on silanes containing epoxide groups (sol-gel systems). These aqueous sol-gel systems, which crosslink via hydrolysis and condensation reactions, have the disadvantages, however, that they are frequently destabilized by the addition of salts and that their stability is heavily dependent on pH. Moreover, it is difficult if not impossible to mix in hydrophobic additives such as light stabilizers homogeneously, which is a very great disadvantage with a view to their use in the automotive sector. In many cases the hydrophobic light stabilizers also catalyze the condensation reactions in the aqueous sol-gel systems, to the great detriment of their storage stability.</p>
+ <p id="p-0009" num="0008">It is an object of the present invention to provide new oligomers and polymers containing epoxide groups and silane groups that are preparable easily and with very good reproducibility and that are stable on storage.</p>
+ <p id="p-0010" num="0009">The new oligomers and polymers containing epoxide groups and silane groups ought to be outstandingly suitable for preparing anhydrous curable compositions, especially compositions curable thermally or both thermally and with actinic radiation.</p>
+ <p id="p-0011" num="0010">The new anhydrous curable compositions ought to be outstandingly suitable for use as coating materials, adhesives, sealants, compounds based on engineering plastics, and curable materials in general, but particularly as coating materials.</p>
+ <p id="p-0012" num="0011">The new anhydrous coating materials, adhesives, sealants, compounds based on engineering plastics, and curable materials in general ought to provide coatings, adhesive layers, seals, moldings, self-supporting sheets and rigid foams, especially coatings, having outstanding performance properties.</p>
+ <p id="p-0013" num="0012">In particular the new coatings ought to be hard and flexible, impact-resistant, water-resistant, weathering-stable, chemicals-resistant, free from internal contractions and stresses, and, in the case of refinish, readily overpaintable, and ought also to exhibit very good adhesion to substrates and a very good intercoat adhesion. At the same time they should in particular have a very good scratch resistance.</p>
+ <p id="p-0014" num="0013">Accordingly we have found the new oligomers and polymers containing epoxide groups and silane groups, which are preparable by reacting
+ <ul id="ul0003" list-style="none">
+     <li id="ul0003-0001" num="0014">(A) at least one low molecular mass, oligomeric or polymeric compound containing at least two epoxide groups (a1) with</li>
+     <li id="ul0003-0002" num="0015">(B) at least one silane containing
+     <ul id="ul0004" list-style="none">
+         <li id="ul0004-0001" num="0016">(b1) at least one at least divalent organic radical which per se is not hydrolyzable,</li>
+         <li id="ul0004-0002" num="0017">(b2) at least one cyclic dicarboxylic anhydride group and</li>
+         <li id="ul0004-0003" num="0018">(b3) at least one silane group containing at least one hydrolyzable group (b31),</li>
+         <li id="ul0004-0004" num="0019">the cyclic dicarboxylic anhydride groups (b2) being attached to the silane groups (b3) via the radicals (b1),
+ <br/>
+ the equivalent ratio of epoxide groups (a1) to dicarboxylic anhydride groups (b2) being 0.7 to 100.
+ </li>
+     </ul>
+     </li>
+ </ul>
+ </p>
+ <p id="p-0015" num="0020">The new oligomers and polymers containing epoxide groups and silane groups are referred to below for the sake of brevity as &#x201c;resins of the invention&#x201d;.</p>
+ <p id="p-0016" num="0021">Also found has been the new process for preparing the resins of the invention, which comprises reacting
+ <ul id="ul0005" list-style="none">
+     <li id="ul0005-0001" num="0022">(A) at least one low molecular mass, oligomeric or polymeric compound containing at least two epoxide groups (a1) with</li>
+     <li id="ul0005-0002" num="0023">(B) at least one silane containing
+     <ul id="ul0006" list-style="none">
+         <li id="ul0006-0001" num="0024">(b1) at least one at least divalent organic radical which per se is not hydrolyzable,</li>
+         <li id="ul0006-0002" num="0025">(b2) at least one cyclic dicarboxylic anhydride group and</li>
+         <li id="ul0006-0003" num="0026">(b3) at least one silane group containing at least one hydrolyzable group (b31),</li>
+         <li id="ul0006-0004" num="0027">the cyclic dicarboxylic anhydride groups (b2) being attached to the silane groups (b2) via the radicals (b1),
+ <br/>
+ in an equivalent ratio of epoxide groups (a1) to dicarboxylic anhydride groups (b2) of 0.7 to 100 in an aprotic medium or in bulk under inert gas.
+ </li>
+     </ul>
+     </li>
+ </ul>
+ </p>
+ <p id="p-0017" num="0028">The new process for preparing the resins of the invention is referred to below as &#x201c;process of the invention&#x201d;.</p>
+ <p id="p-0018" num="0029">Found not least has been the new use of the resins of the invention and of the resins of the invention prepared by the process of the invention for preparing anhydrous curable compositions, this being referred to below as &#x201c;use in accordance with the invention&#x201d;.</p>
+ <p id="p-0019" num="0030">Further subject matter of the invention will emerge from the description.</p>
+ <p id="p-0020" num="0031">In the light of the prior art it was surprising and unforeseeable for the skilled worker that the object on which the present invention was based could be achieved by means of the resins of the invention, the process of the invention, and the use in accordance with the invention.</p>
+ <p id="p-0021" num="0032">In particular it was surprising that the resins of the invention and the resins of the invention prepared by the process of the invention were outstandingly suitable for preparing new anhydrous curable compositions, especially compositions curable thermally or both thermally and with actinic radiation.</p>
+ <p id="p-0022" num="0033">The curable compositions of the invention were outstandingly suitable for use as new coating materials, adhesives, sealants, compounds based on engineering plastics, and curable materials in general, but particularly as new coating materials.</p>
+ <p id="p-0023" num="0034">The coating materials, adhesives, sealants, compounds based on engineering plastics, and curable materials in general of the invention yielded new coatings, adhesive layers, seals, moldings, self-supporting sheets and rigid foams, especially new coatings, having outstanding performance properties.</p>
+ <p id="p-0024" num="0035">In particular the coatings of the invention were hard and flexible, impact-resistant, water-resistant, weathering-stable, chemicals-resistant, free from internal contractions and stresses, and, in the case of refinish, readily overpaintable, and exhibited very good adhesion to substrates and very good intercoat adhesion. At the same time they possessed in particular a very good scratch resistance.</p>
+ <p id="p-0025" num="0036">The resins of the invention are preparable by reacting
+ <ul id="ul0007" list-style="none">
+     <li id="ul0007-0001" num="0037">(A) at least one low molecular mass, oligomeric or polymeric compound containing at least two epoxide groups (a1) with</li>
+     <li id="ul0007-0002" num="0038">(B) at least one silane containing
+     <ul id="ul0008" list-style="none">
+         <li id="ul0008-0001" num="0039">(b1) at least one at least divalent organic radical which per se is not hydrolyzable,</li>
+         <li id="ul0008-0002" num="0040">(b2) at least one cyclic dicarboxylic anhydride group and</li>
+         <li id="ul0008-0003" num="0041">(b3) at least one silane group containing at least one hydrolyzable group (b31),</li>
+         <li id="ul0008-0004" num="0042">the cyclic dicarboxylic anhydride groups (b2) being attached to the silane groups (b3) via the radicals (b1),
+ <br/>
+ in an equivalent ratio of epoxide groups (a1) to dicarboxylic anhydride groups (b2) of 0.7 to 100, preferably 0.9 to 80 and in particular 1.1 to 50.
+ </li>
+     </ul>
+     </li>
+ </ul>
+ </p>
+ <p id="p-0026" num="0043">In the process of the invention the reaction takes place in an aprotic medium or in bulk (without solvent), preferably in an aprotic medium, under inert gas, in particular under nitrogen.</p>
+ <p id="p-0027" num="0044">Suitable aprotic media, especially aprotic nonpolar media, are the conventional organic solvents that contain no active hydrogen atoms. Examples of suitable aprotic organic solvents are apparent from the textbook by Dieter Stoye and Werner Freitag (eds.), Paints, Coatings and Solvents, 2nd ed., Wiley-VCH, Weinheim, N.Y., 1998, 14. Solvents, pages 277 to 373.</p>
+ <p id="p-0028" num="0045">The reaction is preferably continued until the cyclic dicarboxylic anhydride groups (b2) are no longer detectable, in particular by IR spectroscopy.</p>
+ <p id="p-0029" num="0046">The reaction is preferably carried out in the presence of a suitable catalyst. Examples of suitable catalysts are the conventional catalysts for the reactions of epoxide groups with carboxylic anhydrides. Highly suitable catalysts include alkoxylated, especially ethoxylated, fatty amines, especially cocoamines. An especially suitable catalyst is polyoxyethylene(15)cocoamine, which is sold under the brand name Ethomeen&#xae; C/25 by Akzo Nobel. The catalysts are used in the conventional effective amounts, preferably in amounts of 0.01% to 5%, more preferably 0.1% to 4% and in particular 0.5% to 3% by weight, based in each case on the sum of the starting products and of the catalyst.</p>
+ <p id="p-0030" num="0047">For the process of the invention it is essential that after the reaction there are still always epoxide groups (a1) present in the resins of the invention. This condition is particularly important when an equivalent ratio (a1):(b2) of &#x3c;1 or only slightly greater than 1, 1.01 for example, is chosen. In that case care must be taken to ensure that in the compounds (A) there are still other reactive functional groups (a2) present, hydroxyl groups for example, which are able to react with the cyclic dicarboxylic anhydride groups (b2).</p>
+ <p id="p-0031" num="0048">The resins of the invention are oligomers and polymers.</p>
+ <p id="p-0032" num="0049">Oligomers for the purposes of the present invention are compounds composed of 3 to 15 structural subunits which derive from monomers. The transition between oligomers and polymers is generally a fluid one as far as the number of structural subunits is concerned. Polymers are therefore compounds composed of more than 10, in particular more than 15, structural subunits.</p>
+ <p id="p-0033" num="0050">The compounds (A) used in accordance with the invention are of low molecular mass or are oligomeric or polymeric in the aforementioned sense. In particular they are of low molecular mass or are oligomeric.</p>
+ <p id="p-0034" num="0051">The compounds (A) contain at least two, in particular two, epoxide groups (a1). Preferably the two epoxide groups (a1) are joined in end positions to the backbones of the compounds (A); in other words, they are terminal epoxide groups (a1).</p>
+ <p id="p-0035" num="0052">Preferably the compounds (A) are selected from the group consisting of polyaddition resins and polycondensation resins. For the purposes of the present invention, therefore, compounds (A) obtainable by polyaddition and by polycondensation are also embraced.</p>
+ <p id="p-0036" num="0053">The compounds (A) are conventional and are described in detail for example in German patent application DE 100 18 395 A1, page 3, paragraph [0020], to page 8, paragraph [0038].</p>
+ <p id="p-0037" num="0054">The silane (B) for use in accordance with the invention includes at least one, especially one, at least divalent, in particular divalent, organic radical (b1) which per se is not hydrolyzable.</p>
+ <p id="p-0038" num="0055">Examples of suitable radicals (b1) are described in detail in German patent application DE 102 21 009 A1, page 8, paragraphs [0072] to [0074], where they are referred to as divalent organic linking groups L. Trimethylene in particular is used.</p>
+ <p id="p-0039" num="0056">The silane (B) further includes at least one, especially one, cyclic dicarboxylic anhydride group (b2), which is joined to one of the silane groups (b3) described below by one of the radicals (b1) described above.</p>
+ <p id="p-0040" num="0057">The cyclic dicarboxylic anhydride groups (b2) derive from the conventional cyclic dicarboxylic anhydrides. Examples of suitable cyclic dicarboxylic anhydrides are described in German patent application DE 38 39 215 A1, page 3, line 5, to page 4, line 25. Also suitable are phthalic anhydride, maleic anhydride and succinic anhydride. In particular the cyclic dicarboxylic anhydride groups (b2) derive from succinic anhydride.</p>
+ <p id="p-0041" num="0058">The silane (B) includes not least at least one, especially one, silane group (b3) which contains at least one hydrolyzable group (b31), and preferably at least two and in particular three hydrolyzable groups (b31).</p>
+ <p id="p-0042" num="0059">Examples of suitable hydrolyzable groups (b31) are known from German patent application DE 100 18 935 A1, page 9, paragraph [0065], to page 10, paragraph [0066]. Ethoxy in particular is used.</p>
+ <p id="p-0043" num="0060">Accordingly use is made in particular of 3-(triethoxysilyl)propylsuccinic anhydride as silane (B). It is sold for example under the brand name Geniosil&#xae; GF 20 by Wacker Chemie.</p>
+ <p id="p-0044" num="0061">The resins of the invention can be put to diverse uses. In particular they are suitable for the use in accordance with the invention, i.e., for preparing new anhydrous curable compositions, especially compositions curable thermally or both thermally and with actinic radiation, which are referred to below as &#x201c;curable compositions of the invention&#x201d;.</p>
+ <p id="p-0045" num="0062">For the purposes of the present invention the curable compositions of the invention are regarded as being anhydrous, when using the conventional methods no water can be detected therein or when only traces of water, entrained unintentionally via the constituents of the curable compositions of the invention, are present therein.</p>
+ <p id="p-0046" num="0063">For the purposes of the present invention actinic radiation means electromagnetic radiation such as near infrared (NIR), visible light, UV radiation, X-rays and gamma rays, especially UV radiation, and corpuscular radiation such as electron beams, proton beams, neutron beams, beta rays and alpha rays, especially electron beams.</p>
+ <p id="p-0047" num="0064">Preferably the curable compositions of the invention are thermally curable.</p>
+ <p id="p-0048" num="0065">Preferably the curable compositions of the invention comprise at least one, especially one, chelate compound. Preferably the chelate compound is selected from the group consisting of aluminum chelate, titanium chelate and zirconium chelate compounds. Examples of suitable chelate compounds are described in detail in German patent application DE 38 93 215 A1, page 14, line 11, to page 15, line 57. They are preferably used in the amounts indicated there.</p>
+ <p id="p-0049" num="0066">The curable compositions of the invention may further comprise at least one additive.</p>
+ <p id="p-0050" num="0067">Preferably the additive is selected from the group consisting of conventional color and/or effect pigments, organic and inorganic, transparent or opaque fillers, nanoparticles, other oligomeric and polymeric binders, curable physically, oxidatively, thermally, with actinic radiation, or both thermally and with actinic radiation and different from the oligomers and polymers containing epoxide groups and silane groups, crosslinkers for thermal curing, reactive diluents curable thermally and/or with actinic radiation, low and high-boiling (&#x2018;long&#x2019;), aprotic, organic solvents, UV absorbers, light stabilizers, free-radical scavengers, deaerating agents, slip additives, polymerization inhibitors, photoinitiators, thermal crosslinking initiators, defoamers, emulsifiers, wetting agents, dispersants, adhesion promoters, flow control agents, film-forming auxiliaries, sag control agents (SCAs), rheology control additives (thickeners), flame retardants, siccatives, dryers, antiskinning agents, corrosion inhibitors, waxes, biocides and flatting agents. Use is made in particular of coatings additives (cf. also the textbook by Johan Bieleman, &#x201c;Lackadditive [Additives for coatings]&#x201d; Wiley-VCH, Weinheim, N.Y., 1998, or Ruml&#xf6;mpp Online, Georg Thieme Verlag, Stuttgart, N.Y., 2002, &#x201c;Additives&#x201d;).</p>
+ <p id="p-0051" num="0068">The selection of the additive is guided in particular by the end use envisaged for the curable compositions of the invention. It is important in this respect that the additive must not impair the stability of the curable compositions of the invention and/or the curing and stability of the cured compositions of the invention.</p>
+ <p id="p-0052" num="0069">The preparation of the curable compositions of the invention requires no peculiarities in terms of method, but instead takes place in accordance with the conventional methods of preparing curable compositions by means of the conventional mixing techniques and apparatus, such as stirred tanks, agitator mills, extruders, compounders, Ultraturrax, inline dissolvers, static mixers, micromixers, toothed-wheel dispersers, pressure release nozzles and/or microfluidizers, where appropriate in the absence of actinic radiation.</p>
+ <p id="p-0053" num="0070">The applicability of the curable compositions of the invention is extraordinarily wide. In particular they may serve as new coating materials, adhesives, sealants, compounds based on engineering plastics, and curable materials in general, but especially as coating materials.</p>
+ <p id="p-0054" num="0071">These coating materials of the invention serve to produce new coatings and paint systems; the adhesives of the invention serve to produce new adhesive layers; the sealants of the invention serve to produce new seals; and the compounds of the invention based on engineering plastics, and the curable materials of the invention in general, serve to produce new moldings, particularly optical moldings, self-supporting sheets and rigid foams.</p>
+ <p id="p-0055" num="0072">The coatings and paint systems of the invention are outstandingly suitable in particular for protecting surfaces of substrates of any kind from damage due to mechanical exposure, and in particular for protecting them against scratches, and/or for decorating them.</p>
+ <p id="p-0056" num="0073">Suitable substrates include all those which are damaged neither superficially nor deep down by the curing of the applied compositions of the invention using heat or both heat and actinic radiation. The substrates may already have been prepainted or precoated with other coatings, bonded with other adhesive layers and/or sealed with other seals.</p>
+ <p id="p-0057" num="0074">Suitable substrates are composed for example of metals, plastics, wood, ceramic, stone, textile, fiber composites, leather, glass, glass fibers, glass wool, rock wool, mineral-bound and resin-bound building materials, such as plasterboard and cement slabs or roof shingles, and also assemblies of these materials. The substrates may alternatively be moldings, rigid foams and self-supporting sheets of the invention.</p>
+ <p id="p-0058" num="0075">The substrates are, in particular, motorized or muscle-powered means of transport and suspension/float/hover bodies of all kinds for air, land and water, and also parts thereof, especially aircraft (airplanes, helicopters, balloons or airships, for example), floating apparatus (boats, artificial islands or buoys, for example), rail vehicles (engines, wagons, railcars and railroad trolleys, for example), road vehicles (cycles, utility vehicles or automobiles, for example), the interior and exterior of constructions and parts thereof, furniture, windows and doors, small industrial parts, coils, containers, packaging, white goods, sheets, optical components, electrical components, mechanical components, and hollow glassware. Further examples of end uses and substrates are known from German patent application DE 198 16 136 A 1, column 7, line 54, to column 8, line 58, or from international patent application WO 99/52964, page 12, line 10 to page 14, line 4.</p>
+ <p id="p-0059" num="0076">On the basis of their particularly advantageous properties the curable compositions of the invention are especially suitable as coating materials of the invention for producing new, high scratch resistance coatings in exposed areas of the substrates, especially automobiles, which are frequently subject to mechanical imposition.</p>
+ <p id="p-0060" num="0077">Surprisingly the coating materials of the invention can be provided as new two-component or multicomponent systems. The two-component and multicomponent systems of the invention have a particularly long pot life or processing time.</p>
+ <p id="p-0061" num="0078">With particular preference the coating materials of the invention are used for producing high scratch resistance clearcoats of the invention as part of multicoat color and/or effect paint systems in automotive OEM finishing. Preferably these particularly high-value multicoat paint systems of the invention are produced by what are called wet-on-wet methods, such as are known for example from German patent application DE 199 30 665 A 1, page 15, line 15, to page 16, line 24.</p>
+ <p id="p-0062" num="0079">In general the electrocoat, surfacer coat, basecoat and clearcoat films are applied at a wet film thickness such that curing thereof results in coats having the thicknesses that are advantageous and necessary for their functions. In the case of the electrocoat this thickness is 10 to 70, preferably 10 to 60, more preferably 15 to 50 and in particular 15 to 45 &#x3bc;m; in the case of the surfacer coat it is 10 to 150, preferably 10 to 120, more preferably 10 to 100 and in particular 10 to 90 &#x3bc;m; in the case of the basecoat it is 5 to 50, preferably 5 to 40, more preferably 5 to 30 and in particular 10 to 25 &#x3bc;m; and in the case of the clearcoats of the invention it is at least 30 to 120, preferably at least 40 to 100, more preferably 50 to 100 and in particular 60 to 100 &#x3bc;m. It is also possible, however, to employ the multicoat system known from European patent application EP 0 817 614 A 1, comprising an electrocoat, a first basecoat, a second basecoat and a clearcoat of the invention, in which the total thickness of the first and second basecoats is 15 to 40 &#x3bc;m and the thickness of the first basecoat is 20% to 50% of said total coat thickness.</p>
+ <p id="p-0063" num="0080">The electrocoat, surfacer coat, basecoat and inventive clearcoat films can be cured thermally or both thermally and with actinic radiation (dual cure).</p>
+ <p id="p-0064" num="0081">For producing the coatings and paint systems of the invention the coating materials of the invention are applied by means of the appropriate techniques that are conventional for the particular end use, such as spraying, knife coating, brushing, pouring, dipping, impregnating, trickling or rolling, for example. The substrate to be coated may itself be at rest, with the application equipment or unit being moved. Alternatively the substrate to be coated, in particular a coil, may be moved, with the application unit being at rest relative to the substrate or being moved appropriately.</p>
+ <p id="p-0065" num="0082">Preference is given to employing spray application methods, such as compressed air spraying, airless spraying, high-speed rotation, or electrostatic spray application (ESTA) for example, in conjunction where appropriate with hot spray application such as hot air spraying, for example. Application may be made at temperatures of max. 70 to 80&#xb0; C., so that suitable application viscosities are achieved without the brief thermal exposure occasioning changes in or damage to the coating materials of the invention and their overspray, which may be intended for reprocessing. For instance, hot spraying may be configured such that the coating materials of the invention are heated only very shortly in or shortly before the spray nozzle.</p>
+ <p id="p-0066" num="0083">The spray booth used for the application may be operated for example with a circulation system that maybe temperature-controllable and which is operated with a suitable absorption medium for the overspray. An example being the coating material of the invention itself.</p>
+ <p id="p-0067" num="0084">It is especially advantageous that the coating of the invention can be applied in one step by applying a coating material of the invention, and need not be built up from a plurality of discrete coats.</p>
+ <p id="p-0068" num="0085">For producing the moldings of the invention the curable compositions of the invention are poured into suitable hollow molds and cured therein, after which they are separated from the molds.</p>
+ <p id="p-0069" num="0086">The compounds of the invention based on engineering plastics are preferably extruded and subsequently injection-molded in suitable hollow molds.</p>
+ <p id="p-0070" num="0087">To produce the sheets of the invention the conventional methods such as casting or blown-film extrusion are employed.</p>
+ <p id="p-0071" num="0088">For producing the rigid foams of the invention use is made of the techniques that are conventional within the field of foam plastics (cf. Ruml&#xf6;mpp Online, Georg Thieme Verlag, Stuttgart, N.Y., 2002, &#x201c;foam plastics&#x201d;).</p>
+ <p id="p-0072" num="0089">The thermal curing of the coating materials, adhesives, sealants and curable materials in general of the invention may take place after a certain rest time. This may have a duration of 30 seconds to 2 hours, preferably 1 minute to 1 hour and in particular 1 to 45 minutes. The rest time serves, for example, for the flow and degassing of the applied curable materials of the invention, or for the evaporation of volatile constituents. The rest time may be shortened and/or assisted by the application of elevated temperatures, provided this does not entail any damage to or changes in the coating materials, adhesives, sealants and curable materials in general of the invention, such as premature complete crosslinking, for instance.</p>
+ <p id="p-0073" num="0090">Thermal curing has no peculiarities in terms of method, but instead takes place in accordance with the conventional methods such as heating in a forced-air oven or irradiation with IR lamps. Thermal curing may also take place in stages. Another preferred method of curing is that of curing with near infrared (NIR) radiation. Suitable techniques of this kind are described for example by Rodger Talbert in Industrial Paint &#x26; Powder, 04/01, pages 30 to 33, &#x201c;Curing in Seconds with NIR&#x201d; or in Galvanotechnik, volume 90 (11), pages 3098 to 3100, &#x201c;Lackiertechnik, NIR-Trocknung im Sekundentakt von Fl&#xfc;ssig-und Pulverlacken&#x201d; [painting technology; NIR drying in seconds for liquid and powder coatings].</p>
+ <p id="p-0074" num="0091">Thermal curing takes place advantageously at a temperature of 50 to 200&#xb0; C., more preferably 60 to 180&#xb0; C. and in particular 80 to 160&#xb0; C. for a time of 1 minute to 2 hours, more preferably 2 minutes to 1 hour and in particular 3 to 30 minutes.</p>
+ <p id="p-0075" num="0092">The curing with actinic radiation is preferably carried out using UV radiation and/or electron beams. It is preferred in this case to employ a dose of 1000 to 3000, preferably 1100 to 2900, more preferably 1200 to 2800, very preferably 1300 to 2700 and in particular 1400 to 2600 mJ/cm<sup>2</sup>. The radiation intensity is preferably 1&#xd7;100 to 3&#xd7;10<sup>5 </sup>more preferably 2&#xd7;10<sup>0 </sup>to 2&#xd7;10<sup>5 </sup>very preferably 3&#xd7;10<sup>0 </sup>to 1.5&#xd7;10<sup>5 </sup>and in particular 5&#xd7;10<sup>0 </sup>to 1.2&#xd7;10<sup>5 </sup>W m<sup>&#x2212;2</sup>.</p>
+ <p id="p-0076" num="0093">Where appropriate it is possible for the curing to be supplemented with actinic radiation from other sources. In the case of electron beams it is preferred to operate under an inert gas atmosphere. This can be ensured, for example, by supplying carbon dioxide and/or nitrogen directly to the surface of the paint films. In the case of curing with UV radiation it is also possible to operate under inert gas or an oxygen-depleted atmosphere, in order to prevent ozone forming.</p>
+ <p id="p-0077" num="0094">Curing with actinic radiation is carried out using the conventional radiation sources and optical auxiliary measures. Examples of suitable radiation sources are flash lamps from VISIT, high-pressure or low-pressure mercury vapor lamps, which may have been doped with lead in order to open up a radiation window up to 405 nm, or electron beam sources. The equipment and conditions for these curing methods are described for example in R. Holmes, U.V. and E.B. Curing Formulations for Printing Inks, Coatings and Paints, SITA Technology, Academic Press, London, United Kingdom 1984. Further examples of suitable techniques and apparatus for curing with actinic radiation are described in German patent application DE 198 18 735 A 1, column 10, lines 31 to 61, by R. Stephen Davidson, in &#x201c;Exploring the Science, Technology and Applications of U.V. and E.B. Curing&#x201d;, Sita Technology Ltd., London, 1999, or by Dipl.-Ing. Peter Klamann, in &#x201c;eltosch System-Kompetenz, UV-Technik, Leitfaden f&#xfc;r Anwender&#x201d; [eltosch systems expertise, UV technology, manual for users], October 1998.</p>
+ <p id="p-0078" num="0095">In the case or work pieces of complex shape, such as are envisaged for automobile bodies, those regions not accessible to direct radiation (shadow regions), such as cavities, folds and other structural undercuts, can be (partially) cured using point, small-area or all-round emitters, in conjunction with an automatic movement means for the irradiation of cavities or edges.</p>
+ <p id="p-0079" num="0096">Curing in this case may take place in stages, i.e., by multiple exposure to light or to actinic radiation. This can also be done in alternation, i.e., by curing alternately with UV radiation and with electron beams.</p>
+ <p id="p-0080" num="0097">Where thermal curing and curing with actinic radiation are employed together, these methods may be used simultaneously or in alternation. Where the two curing methods are used in alternation, it is possible, for example, to begin with the thermal curing and to end with the curing with actinic radiation. In other cases it may prove advantageous to begin and to end with curing with actinic radiation.</p>
+ <p id="p-0081" num="0098">The resultant coatings, paint systems, adhesive layers, seals, moldings, self-supporting sheets and rigid foams of the invention have outstanding performance properties. Of particular note are their high transparency and clarity and also their particularly high scratch resistance.</p>
+ <p id="p-0082" num="0099">The coatings and paint systems of the invention have an outstanding profile of properties which is very well balanced in terms of mechanical properties, optical qualities, corrosion resistance and adhesion. Thus the multicoat paint systems of the invention have the high optical quality and intercoat adhesion required by the market and do not give rise to problems such as lack of condensation resistance, cracking (mud cracking) or flow defects or surface structures in the clearcoats of the invention. In particular the multicoat paint systems of the invention exhibit an outstanding metallic effect, an outstanding DOI (distinctiveness of the reflected image) and an outstanding surface smoothness.</p>
+ <p id="p-0083" num="0100">Accordingly, substrates coated for example with at least one coating, paint system or self-supporting sheet of the invention, bonded with an adhesive layer of the invention and/or sealed with a seal of the invention combine a particularly advantageous profile of performance properties with a particularly long service life, so making them particularly valuable economically, esthetically and technically.</p>
+ <?BRFSUM description="Brief Summary" end="tail"?>
+ <?DETDESC description="Detailed Description" end="lead"?>
+ <heading id="h-0002" level="1">EXAMPLES</heading>
+ <heading id="h-0003" level="1">Example 1</heading>
+ <heading id="h-0004" level="1">The Preparation of a Resin Containing Epoxide Groups and Silane Groups</heading>
+ <p id="p-0084" num="0101">A suitable reaction vessel, equipped with stirrer, reflux condenser, thermometer, external heating and nitrogen inlet tube, was charged with
+ <ul id="ul0009" list-style="none">
+     <li id="ul0009-0001" num="0000">
+     <ul id="ul0010" list-style="none">
+         <li id="ul0010-0001" num="0102">13.5 parts by weight of Solventnaphtha&#xae;,</li>
+         <li id="ul0010-0002" num="0103">39.88 parts by weight of epoxy resin (Vantico&#xae; 6334 from Vantico; epoxy equivalent weight: 199.38 g/mol),</li>
+         <li id="ul0010-0003" num="0104">12.18 parts by weight of 3-(triethoxysilyl)propylsuccinic anhydride (Geniosil&#xae; GF 20 from Wacker Chemie) and</li>
+         <li id="ul0010-0004" num="0105">0.52 parts by weight of cocoalkylamine ethoxylate (polyoxy-ethylene(15)cocoamine; Ethomeen&#xae; C/25 from Akzo Nobel)
+ <br/>
+ and this initial charge was blanketed with nitrogen. Thereafter the reaction mixture was heated with stirring to 100&#xb0; C. The progress of the reaction was monitored by means of infrared spectroscopy: after about 30 minutes, anhydride groups were no longer detectable spectroscopically.
+ </li>
+     </ul>
+     </li>
+ </ul>
+ </p>
+ <p id="p-0085" num="0106">The resultant resin containing epoxide groups and silane groups was stable on storage both in solution and in isolation, without solvent, at room temperature and was outstandingly suitable for preparing coating materials in the form of one-component and multicomponent systems, preferably multicomponent systems and in particular two-component systems.</p>
+ <heading id="h-0005" level="1">Example 2</heading>
+ <heading id="h-0006" level="1">The Preparation of a Two-Component System and Preparation of a Coating Material Therefrom</heading>
+ <p id="p-0086" num="0107">As component I of the two-component system the solution of the resin containing epoxide groups and silane groups in Solventnaphtha&#xae; from Example 1 was used.</p>
+ <p id="p-0087" num="0108">As component II of the two-component system a catalyst based on an aluminum chelate compound was prepared from 20.43 parts by weight of aluminum sec-butoxide and 13.01 parts by weight of ethyl acetoacetate, by mixing the reactants with external cooling and stirring the resulting reaction mixture at room temperature for an hour.</p>
+ <p id="p-0088" num="0109">The resulting two-component system was of virtually unlimited tenability at room temperature and was outstandingly suitable for preparing coating materials.</p>
+ <p id="p-0089" num="0110">A coating material was prepared by adding 10 parts by weight of component II to 90 parts by weight of component I and thereafter homogenizing the resulting mixture.</p>
+ <p id="p-0090" num="0111">The resulting coating material had an advantageously long pot life in tune with practice and had very good application properties. It was outstandingly suitable for use as a clearcoat material for producing multicoat color and/or effect paint systems for automobiles in the OEM sector, for the scratchproof finishing of exposed areas on motor-vehicle bodies, and as a refinish clearcoat material for automotive refinishing.</p>
+ <heading id="h-0007" level="1">Example 3</heading>
+ <heading id="h-0008" level="1">The Production of a Clearcoat</heading>
+ <p id="p-0091" num="0112">The clearcoat was produced using the coating material from Example 2. This coating material was applied to glass panels by knife coating in a wet film thickness such that curing at 140&#xb0; C. for 22 minutes gave a dry film thickness of 25 &#x3bc;m.</p>
+ <p id="p-0092" num="0113">The resulting clearcoats were transparent and clear, and were of high gloss and brilliant. Their adhesive strength was outstanding. They were free from stress cracks and other surface defects.</p>
+ <p id="p-0093" num="0114">They were additionally scratch-resistant, as underlined using the steel wool scratch test (rating 3).</p>
+ <p id="p-0094" num="0115">The steel wool scratch test was carried out using a hammer to DIN 1041 (weight without shaft: 800 g; shaft length: 35 cm). The test panels were stored at room temperature for 24 h prior to the test.</p>
+ <p id="p-0095" num="0116">The flat side of the hammer was wrapped with a ply of steel wool, which was fastened at the upturned sides using Tesakrepp adhesive tape. The hammer was placed at right angles onto the clearcoats. The head of the hammer was guided in a track over the surface of the clearcoats without tipping and without additional physical force.</p>
+ <p id="p-0096" num="0117">For each test, 100 back-and-forth strokes were performed within a time of about 100 s. After each of these individual tests the steel wool was replaced.</p>
+ <p id="p-0097" num="0118">Following exposure, the areas under test were cleaned with a soft cloth to remove the residues of steel wool. The areas under test were evaluated visually under artificial light and rated as follows:</p>
+ <p id="p-0098" num="0119">
+ <tables id="TABLE-US-00001" num="00001">
+ <table frame="none" colsep="0" rowsep="0">
+ <tgroup align="left" colsep="0" rowsep="0" cols="2">
+ <colspec colname="1" colwidth="98pt" align="center"/>
+ <colspec colname="2" colwidth="119pt" align="left"/>
+ <thead>
+ <row>
+ <entry namest="1" nameend="2" align="center" rowsep="1"/>
+ </row>
+ <row>
+ <entry>Rating</entry>
+ <entry>Damage</entry>
+ </row>
+ <row>
+ <entry namest="1" nameend="2" align="center" rowsep="1"/>
+ </row>
+ </thead>
+ <tbody valign="top">
+ <row>
+ <entry>1</entry>
+ <entry>none</entry>
+ </row>
+ <row>
+ <entry>2</entry>
+ <entry>slight</entry>
+ </row>
+ <row>
+ <entry>3</entry>
+ <entry>moderate</entry>
+ </row>
+ <row>
+ <entry>4</entry>
+ <entry>moderate to medium severity</entry>
+ </row>
+ <row>
+ <entry>5</entry>
+ <entry>severe</entry>
+ </row>
+ <row>
+ <entry>6</entry>
+ <entry>very severe</entry>
+ </row>
+ <row>
+ <entry namest="1" nameend="2" align="center" rowsep="1"/>
+ </row>
+ <row>
+ <entry namest="1" nameend="2" align="left" id="FOO-00001">Evaluation took place immediately after the end of the experiment.</entry>
+ </row>
+ </tbody>
+ </tgroup>
+ </table>
+ </tables>
+ </p>
+ <p id="p-0099" num="0120">The clearcoats were also chemicals-resistant, as determined by means of the BART.</p>
+ <p id="p-0100" num="0121">The BART (BASF ACID RESISTANCE TEST) was used to determine the resistance of paint surfaces to acids, alkalis and water drops. After they had been baked, the clearcoats were exposed to further temperature loads (30 min 40&#xb0; C., 50&#xb0; C., 60&#xb0; C. and 70&#xb0; C.) in a gradient oven. Beforehand the test substances had been applied (1%, 10% and 36% sulfuric acid, 5% sulfurous acid, 10% hydrochloric acid, 5% sodium hydroxide solution, 1, 2, 3 or 4 drops of DI (i.e., deionized) water) in a defined manner using a metering pipette. Following exposure to the substances, they were rinsed off under running water and the damage was assessed visually after 24 h in accordance with a predetermined scale:</p>
+ <p id="p-0101" num="0122">
+ <tables id="TABLE-US-00002" num="00002">
+ <table frame="none" colsep="0" rowsep="0">
+ <tgroup align="left" colsep="0" rowsep="0" cols="2">
+ <colspec colname="1" colwidth="70pt" align="center"/>
+ <colspec colname="2" colwidth="147pt" align="left"/>
+ <thead>
+ <row>
+ <entry namest="1" nameend="2" align="center" rowsep="1"/>
+ </row>
+ <row>
+ <entry>Rating</entry>
+ <entry>Appearance</entry>
+ </row>
+ <row>
+ <entry namest="1" nameend="2" align="center" rowsep="1"/>
+ </row>
+ </thead>
+ <tbody valign="top">
+ <row>
+ <entry>0</entry>
+ <entry>no defect</entry>
+ </row>
+ <row>
+ <entry>1</entry>
+ <entry>slight marking</entry>
+ </row>
+ <row>
+ <entry>2</entry>
+ <entry>marking/dulling/no softening</entry>
+ </row>
+ <row>
+ <entry>3</entry>
+ <entry>marking/dulling/color change/softening</entry>
+ </row>
+ <row>
+ <entry>4</entry>
+ <entry>cracks/incipient etching</entry>
+ </row>
+ <row>
+ <entry>5</entry>
+ <entry>clearcoat removed</entry>
+ </row>
+ <row>
+ <entry namest="1" nameend="2" align="center" rowsep="1"/>
+ </row>
+ </tbody>
+ </tgroup>
+ </table>
+ </tables>
+ </p>
+ <p id="p-0102" num="0123">Each individual mark (spot) was evaluated and the result was recorded in the form of a rating for each test substance:</p>
+ <p id="p-0103" num="0124">
+ <tables id="TABLE-US-00003" num="00003">
+ <table frame="none" colsep="0" rowsep="0">
+ <tgroup align="left" colsep="0" rowsep="0" cols="3">
+ <colspec colname="offset" colwidth="35pt" align="left"/>
+ <colspec colname="1" colwidth="98pt" align="left"/>
+ <colspec colname="2" colwidth="84pt" align="center"/>
+ <thead>
+ <row>
+ <entry/>
+ <entry namest="offset" nameend="2" align="center" rowsep="1"/>
+ </row>
+ <row>
+ <entry/>
+ <entry>Test substance</entry>
+ <entry>Rating</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry namest="offset" nameend="2" align="center" rowsep="1"/>
+ </row>
+ </thead>
+ <tbody valign="top">
+ <row>
+ <entry/>
+ <entry>10% sulfuric acid</entry>
+ <entry>3</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry>36% sulfuric acid</entry>
+ <entry>3</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry>10% hydrochloric acid</entry>
+ <entry>1</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry>&#x2002;6% sulfurous acid</entry>
+ <entry>3</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry>&#x2002;5% sodium hydroxide solution</entry>
+ <entry>0</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry>DI water</entry>
+ <entry>0</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry namest="offset" nameend="2" align="center" rowsep="1"/>
+ </row>
+ </tbody>
+ </tgroup>
+ </table>
+ </tables>
+ </p>
+ <p id="p-0104" num="0125">The universal hardness in N/mm<sup>2 </sup>at 25.6, 10 and 5 mN, the creep behavior in % at 25.6 mN and the relative elastic resilience in % were measured in accordance with DIN 55676 by means of a Fischerscope&#xae; H100C from Helmut Fischer GmbH, the force being adapted to the coat thickness and the mechanical properties of the clearcoats, so that the depth of penetration was not more than 10% of the coat thickness. The results obtained were as follows:</p>
+ <p id="p-0105" num="0126">
+ <tables id="TABLE-US-00004" num="00004">
+ <table frame="none" colsep="0" rowsep="0">
+ <tgroup align="left" colsep="0" rowsep="0" cols="3">
+ <colspec colname="offset" colwidth="35pt" align="left"/>
+ <colspec colname="1" colwidth="98pt" align="left"/>
+ <colspec colname="2" colwidth="84pt" align="left"/>
+ <thead>
+ <row>
+ <entry/>
+ <entry namest="offset" nameend="2" align="center" rowsep="1"/>
+ </row>
+ </thead>
+ <tbody valign="top">
+ <row>
+ <entry/>
+ <entry>universal hardness:</entry>
+ <entry>138,</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry>resilience:</entry>
+ <entry>42.67% and</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry>creep behavior:</entry>
+ <entry>&#x2002;9.18%.</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry namest="offset" nameend="2" align="center" rowsep="1"/>
+ </row>
+ </tbody>
+ </tgroup>
+ </table>
+ </tables>
+ </p>
+ <p id="p-0106" num="0127">The results underline the fact that the clearcoats had high scratch resistance in conjunction with comparatively high hardness and flexibility.</p>
+ <?DETDESC description="Detailed Description" end="tail"?>
+ </description>
+ <us-claim-statement>What is claimed is:</us-claim-statement>
+ <claims id="claims">
+ <claim id="CLM-00001" num="00001">
+ <claim-text>1. A composition prepared by reacting:
+ <claim-text>at least one compound (A) selected from the group consisting of low molecular mass, oligomeric and low molecular mass, polymeric compounds, each of said compounds having at least two epoxide groups (a1), and</claim-text>
+ <claim-text>at least one silane (B) comprising
+ <claim-text>at least one radical (b1), having a valency of at least two, that is not hydrolyzable,</claim-text>
+ <claim-text>at least one cyclic dicarboxylic anhydride group (b2) and</claim-text>
+ <claim-text>at least one silane group (b3) comprising three hydrolyzable groups (b31),</claim-text>
+ </claim-text>
+ <claim-text>wherein the at least one cyclic dicarboxylic anhydride group (b2) is attached to the at least one silane group (b3) by the at least one radical (b1), and</claim-text>
+ <claim-text>the equivalent ratio of epoxide groups (a1) to the at least one dicarboxylic anhydride group (b2) is 0.7 to 100.</claim-text>
+ </claim-text>
+ </claim>
+ <claim id="CLM-00002" num="00002">
+ <claim-text>2. The composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the oligomeric and polymeric compounds (A) are selected from the group consisting of polyaddition resins and polycondensation resins.</claim-text>
+ </claim>
+ <claim id="CLM-00003" num="00003">
+ <claim-text>3. The composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the compound (A) has an epoxide equivalent weight of 70 to 1000 g/mol.</claim-text>
+ </claim>
+ <claim id="CLM-00004" num="00004">
+ <claim-text>4. The composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the cyclic dicarboxylic anhydride group (b2) is a succinic anhydride group.</claim-text>
+ </claim>
+ <claim id="CLM-00005" num="00005">
+ <claim-text>5. The composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the equivalent ratio of epoxide groups (a1) to the at least one cyclic dicarboxylic anhydride group (b2) is 1.1 to 50.</claim-text>
+ </claim>
+ <claim id="CLM-00006" num="00006">
+ <claim-text>6. The composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the at least one
+ <claim-text>silane (B) consists of:</claim-text>
+ <claim-text>at least one divalent radical (b1) which is not hydrolyzable,</claim-text>
+ </claim-text>
+ <claim-text>at least one cyclic dicarboxylic anhydride group (b2) and</claim-text>
+ <claim-text>at least one silane group (b3) comprising three hydrolyzable groups (b31),
+ <claim-text>wherein the at least one cyclic dicarboxylic anhydride group (b2) is attached to the at least one silane group (b3) by the at least one radical (b1), and</claim-text>
+ <claim-text>the equivalent ratio of epoxide groups (a1) to the at least one dicarboxylic anhydride group (b2) is 0.7 to 100.</claim-text>
+ </claim-text>
+ </claim>
+ <claim id="CLM-00007" num="00007">
+ <claim-text>7. The composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the three hydrolyzable groups (b31) are ethoxy groups.</claim-text>
+ </claim>
+ <claim id="CLM-00008" num="00008">
+ <claim-text>8. The composition of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the at least one silane (B) is 3-(triethoxysilyl)propylsuccinic anhydride.</claim-text>
+ </claim>
+ <claim id="CLM-00009" num="00009">
+ <claim-text>9. A process for preparing a composition comprising:
+ <claim-text>reacting
+ <claim-text>at least one compound (A) selected from the group consisting of low molecular mass, oligomeric and low molecular mass, polymeric compound each of said compounds having at least two epoxide groups (a1), and</claim-text>
+ <claim-text>at least one silane (B) comprising
+ <claim-text>at least one organic radical (b1), having a valency of at least two, that is not hydrolyzable,</claim-text>
+ <claim-text>at least one cyclic dicarboxylic anhydride group (b2) and</claim-text>
+ <claim-text>at least one silane group (b3) comprising three hydrolyzable groups (b31),</claim-text>
+ </claim-text>
+ </claim-text>
+ <claim-text>wherein the at least one cyclic dicarboxylic anhydride groups (b2) is attached to the at least one silane group (b3) by the at least one radical (b1), and</claim-text>
+ <claim-text>the equivalent ratio of epoxide groups (a1) to the at least one dicarboxylic anhydride group (b2) is 0.7 to 100, said reacting occurring in at least one of an aprotic medium, or in bulk under inert gas.</claim-text>
+ </claim-text>
+ </claim>
+ <claim id="CLM-00010" num="00010">
+ <claim-text>10. The process of <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the reaction is carried out in the presence of a catalyst.</claim-text>
+ </claim>
+ <claim id="CLM-00011" num="00011">
+ <claim-text>11. An anhydrous curable composition prepared by reacting, in at least one of an aprotic medium, or in bulk under inert gas:
+ <claim-text>at least one compound (A) selected from the group consisting of low molecular mass, oligomeric and low molecular mass, polymeric compounds, each of said compounds having at least two epoxide groups (a1), and</claim-text>
+ <claim-text>at least one silane (B) comprising
+ <claim-text>at least one organic radical (b1), having a valency of at least two, that is not hydrolyzable,</claim-text>
+ <claim-text>at least one cyclic dicarboxylic anhydride group (b2) and</claim-text>
+ <claim-text>at least one silane group (b3) comprising three hydrolyzable groups (b31),</claim-text>
+ </claim-text>
+ <claim-text>wherein the at least one cyclic dicarboxylic anhydride group (b2) is attached to the at least one silane group (b3) by the at least one radical (b1), and the equivalent ratio of epoxide groups (a1) to the at least one dicarboxylic anhydride group (b2) is 0.7 to 100.</claim-text>
+ </claim-text>
+ </claim>
+ <claim id="CLM-00012" num="00012">
+ <claim-text>12. The anhydrous curable composition of <claim-ref idref="CLM-00011">claim 11</claim-ref>, further comprising at least one chelate compound.</claim-text>
+ </claim>
+ <claim id="CLM-00013" num="00013">
+ <claim-text>13. The anhydrous curable composition of <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein the chelate compound is selected from the group consisting of aluminum chelate, titanium chelate and zirconium chelate compounds.</claim-text>
+ </claim>
+ <claim id="CLM-00014" num="00014">
+ <claim-text>14. The anhydrous curable composition of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the anhydrous curable composition is curable by at least one of thermally, with actinic radiation and a combination of both thermally and with actinic radiation.</claim-text>
+ </claim>
+ <claim id="CLM-00015" num="00015">
+ <claim-text>15. The anhydrous curable composition of <claim-ref idref="CLM-00011">claim 11</claim-ref>, further comprising at least one additive selected from the group consisting of color and effect pigments; organic and inorganic, transparent and opaque fillers; nanoparticles; other oligomeric and polymeric binders, curable physically, oxidatively, thermally, with actinic radiation, and both thermally and with actinic radiation and different from the oligomers and polymers containing epoxide groups and silane groups; crosslinkers for thermal curing; reactive diluents curable thermally and/or with actinic radiation; low and high-boiling aprotic solvents; organic solvents; UV absorbers; light stabilizers; free-radical scavengers; deaerating agents; slip additives; polymerization inhibitors; photoinitiators; thermal crosslinking initiators; defoamers; emulsifiers; wetting agents; dispersants; adhesion promoters; flow control agents; film-forming auxiliaries; sag control agents (SCAs); rheology control additives; thickeners; flame retardants; siccatives; dryers, antiskinning agents; corrosion inhibitors; waxes; biocides; flatting agents; and mixtures thereof.</claim-text>
+ </claim>
+ <claim id="CLM-00016" num="00016">
+ <claim-text>16. The composition of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein the anhydrous curable composition is at least one of coating materials, adhesives, sealants, compounds based on engineering plastics, and curable materials.</claim-text>
+ </claim>
+ <claim id="CLM-00017" num="00017">
+ <claim-text>17. The composition of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the coating materials provide coatings and paint systems, the adhesives provide adhesive layers, the sealants provide seals, and the compounds based on engineering plastics and the curable materials provide moldings, optical moldings, self-supporting sheets and rigid foams.</claim-text>
+ </claim>
+ </claims>
+ </us-patent-grant>
+ 

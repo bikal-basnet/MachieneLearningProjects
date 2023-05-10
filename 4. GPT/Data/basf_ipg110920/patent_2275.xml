@@ -1,0 +1,2310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+ <us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US08022010-20110920.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110906" date-publ="20110920">
+ <us-bibliographic-data-grant>
+ <publication-reference>
+ <document-id>
+ <country>US</country>
+ <doc-number>08022010</doc-number>
+ <kind>B2</kind>
+ <date>20110920</date>
+ </document-id>
+ </publication-reference>
+ <application-reference appl-type="utility">
+ <document-id>
+ <country>US</country>
+ <doc-number>12497846</doc-number>
+ <date>20090706</date>
+ </document-id>
+ </application-reference>
+ <us-application-series-code>12</us-application-series-code>
+ <us-term-of-grant>
+ <us-term-extension>136</us-term-extension>
+ </us-term-of-grant>
+ <classifications-ipcr>
+ <classification-ipcr>
+ <ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+ <classification-level>A</classification-level>
+ <section>B</section>
+ <class>01</class>
+ <subclass>J</subclass>
+ <main-group>23</main-group>
+ <subgroup>00</subgroup>
+ <symbol-position>F</symbol-position>
+ <classification-value>I</classification-value>
+ <action-date><date>20110920</date></action-date>
+ <generating-office><country>US</country></generating-office>
+ <classification-status>B</classification-status>
+ <classification-data-source>H</classification-data-source>
+ </classification-ipcr>
+ <classification-ipcr>
+ <ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+ <classification-level>A</classification-level>
+ <section>B</section>
+ <class>01</class>
+ <subclass>J</subclass>
+ <main-group>23</main-group>
+ <subgroup>10</subgroup>
+ <symbol-position>L</symbol-position>
+ <classification-value>I</classification-value>
+ <action-date><date>20110920</date></action-date>
+ <generating-office><country>US</country></generating-office>
+ <classification-status>B</classification-status>
+ <classification-data-source>H</classification-data-source>
+ </classification-ipcr>
+ <classification-ipcr>
+ <ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+ <classification-level>A</classification-level>
+ <section>B</section>
+ <class>01</class>
+ <subclass>J</subclass>
+ <main-group>23</main-group>
+ <subgroup>56</subgroup>
+ <symbol-position>L</symbol-position>
+ <classification-value>I</classification-value>
+ <action-date><date>20110920</date></action-date>
+ <generating-office><country>US</country></generating-office>
+ <classification-status>B</classification-status>
+ <classification-data-source>H</classification-data-source>
+ </classification-ipcr>
+ <classification-ipcr>
+ <ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+ <classification-level>A</classification-level>
+ <section>B</section>
+ <class>01</class>
+ <subclass>J</subclass>
+ <main-group>23</main-group>
+ <subgroup>44</subgroup>
+ <symbol-position>L</symbol-position>
+ <classification-value>I</classification-value>
+ <action-date><date>20110920</date></action-date>
+ <generating-office><country>US</country></generating-office>
+ <classification-status>B</classification-status>
+ <classification-data-source>H</classification-data-source>
+ </classification-ipcr>
+ <classification-ipcr>
+ <ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+ <classification-level>A</classification-level>
+ <section>B</section>
+ <class>01</class>
+ <subclass>J</subclass>
+ <main-group>23</main-group>
+ <subgroup>02</subgroup>
+ <symbol-position>L</symbol-position>
+ <classification-value>I</classification-value>
+ <action-date><date>20110920</date></action-date>
+ <generating-office><country>US</country></generating-office>
+ <classification-status>B</classification-status>
+ <classification-data-source>H</classification-data-source>
+ </classification-ipcr>
+ <classification-ipcr>
+ <ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+ <classification-level>A</classification-level>
+ <section>B</section>
+ <class>01</class>
+ <subclass>J</subclass>
+ <main-group>20</main-group>
+ <subgroup>00</subgroup>
+ <symbol-position>L</symbol-position>
+ <classification-value>I</classification-value>
+ <action-date><date>20110920</date></action-date>
+ <generating-office><country>US</country></generating-office>
+ <classification-status>B</classification-status>
+ <classification-data-source>H</classification-data-source>
+ </classification-ipcr>
+ <classification-ipcr>
+ <ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+ <classification-level>A</classification-level>
+ <section>B</section>
+ <class>01</class>
+ <subclass>J</subclass>
+ <main-group>21</main-group>
+ <subgroup>04</subgroup>
+ <symbol-position>L</symbol-position>
+ <classification-value>I</classification-value>
+ <action-date><date>20110920</date></action-date>
+ <generating-office><country>US</country></generating-office>
+ <classification-status>B</classification-status>
+ <classification-data-source>H</classification-data-source>
+ </classification-ipcr>
+ <classification-ipcr>
+ <ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+ <classification-level>A</classification-level>
+ <section>B</section>
+ <class>01</class>
+ <subclass>D</subclass>
+ <main-group>53</main-group>
+ <subgroup>56</subgroup>
+ <symbol-position>L</symbol-position>
+ <classification-value>N</classification-value>
+ <action-date><date>20110920</date></action-date>
+ <generating-office><country>US</country></generating-office>
+ <classification-status>B</classification-status>
+ <classification-data-source>H</classification-data-source>
+ </classification-ipcr>
+ <classification-ipcr>
+ <ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+ <classification-level>A</classification-level>
+ <section>B</section>
+ <class>01</class>
+ <subclass>D</subclass>
+ <main-group>53</main-group>
+ <subgroup>94</subgroup>
+ <symbol-position>L</symbol-position>
+ <classification-value>N</classification-value>
+ <action-date><date>20110920</date></action-date>
+ <generating-office><country>US</country></generating-office>
+ <classification-status>B</classification-status>
+ <classification-data-source>H</classification-data-source>
+ </classification-ipcr>
+ <classification-ipcr>
+ <ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+ <classification-level>A</classification-level>
+ <section>B</section>
+ <class>01</class>
+ <subclass>J</subclass>
+ <main-group>8</main-group>
+ <subgroup>02</subgroup>
+ <symbol-position>L</symbol-position>
+ <classification-value>N</classification-value>
+ <action-date><date>20110920</date></action-date>
+ <generating-office><country>US</country></generating-office>
+ <classification-status>B</classification-status>
+ <classification-data-source>H</classification-data-source>
+ </classification-ipcr>
+ <classification-ipcr>
+ <ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+ <classification-level>A</classification-level>
+ <section>C</section>
+ <class>01</class>
+ <subclass>B</subclass>
+ <main-group>21</main-group>
+ <subgroup>00</subgroup>
+ <symbol-position>L</symbol-position>
+ <classification-value>N</classification-value>
+ <action-date><date>20110920</date></action-date>
+ <generating-office><country>US</country></generating-office>
+ <classification-status>B</classification-status>
+ <classification-data-source>H</classification-data-source>
+ </classification-ipcr>
+ <classification-ipcr>
+ <ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+ <classification-level>A</classification-level>
+ <section>C</section>
+ <class>01</class>
+ <subclass>B</subclass>
+ <main-group>23</main-group>
+ <subgroup>00</subgroup>
+ <symbol-position>L</symbol-position>
+ <classification-value>N</classification-value>
+ <action-date><date>20110920</date></action-date>
+ <generating-office><country>US</country></generating-office>
+ <classification-status>B</classification-status>
+ <classification-data-source>H</classification-data-source>
+ </classification-ipcr>
+ <classification-ipcr>
+ <ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+ <classification-level>A</classification-level>
+ <section>C</section>
+ <class>01</class>
+ <subclass>B</subclass>
+ <main-group>25</main-group>
+ <subgroup>00</subgroup>
+ <symbol-position>L</symbol-position>
+ <classification-value>N</classification-value>
+ <action-date><date>20110920</date></action-date>
+ <generating-office><country>US</country></generating-office>
+ <classification-status>B</classification-status>
+ <classification-data-source>H</classification-data-source>
+ </classification-ipcr>
+ <classification-ipcr>
+ <ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+ <classification-level>A</classification-level>
+ <section>C</section>
+ <class>01</class>
+ <subclass>B</subclass>
+ <main-group>31</main-group>
+ <subgroup>00</subgroup>
+ <symbol-position>L</symbol-position>
+ <classification-value>N</classification-value>
+ <action-date><date>20110920</date></action-date>
+ <generating-office><country>US</country></generating-office>
+ <classification-status>B</classification-status>
+ <classification-data-source>H</classification-data-source>
+ </classification-ipcr>
+ <classification-ipcr>
+ <ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+ <classification-level>A</classification-level>
+ <section>C</section>
+ <class>01</class>
+ <subclass>B</subclass>
+ <main-group>33</main-group>
+ <subgroup>00</subgroup>
+ <symbol-position>L</symbol-position>
+ <classification-value>N</classification-value>
+ <action-date><date>20110920</date></action-date>
+ <generating-office><country>US</country></generating-office>
+ <classification-status>B</classification-status>
+ <classification-data-source>H</classification-data-source>
+ </classification-ipcr>
+ <classification-ipcr>
+ <ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+ <classification-level>A</classification-level>
+ <section>C</section>
+ <class>01</class>
+ <subclass>B</subclass>
+ <main-group>35</main-group>
+ <subgroup>00</subgroup>
+ <symbol-position>L</symbol-position>
+ <classification-value>N</classification-value>
+ <action-date><date>20110920</date></action-date>
+ <generating-office><country>US</country></generating-office>
+ <classification-status>B</classification-status>
+ <classification-data-source>H</classification-data-source>
+ </classification-ipcr>
+ <classification-ipcr>
+ <ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+ <classification-level>A</classification-level>
+ <section>C</section>
+ <class>01</class>
+ <subclass>G</subclass>
+ <main-group>28</main-group>
+ <subgroup>00</subgroup>
+ <symbol-position>L</symbol-position>
+ <classification-value>N</classification-value>
+ <action-date><date>20110920</date></action-date>
+ <generating-office><country>US</country></generating-office>
+ <classification-status>B</classification-status>
+ <classification-data-source>H</classification-data-source>
+ </classification-ipcr>
+ <classification-ipcr>
+ <ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+ <classification-level>A</classification-level>
+ <section>C</section>
+ <class>01</class>
+ <subclass>G</subclass>
+ <main-group>30</main-group>
+ <subgroup>00</subgroup>
+ <symbol-position>L</symbol-position>
+ <classification-value>N</classification-value>
+ <action-date><date>20110920</date></action-date>
+ <generating-office><country>US</country></generating-office>
+ <classification-status>B</classification-status>
+ <classification-data-source>H</classification-data-source>
+ </classification-ipcr>
+ <classification-ipcr>
+ <ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+ <classification-level>A</classification-level>
+ <section>F</section>
+ <class>01</class>
+ <subclass>N</subclass>
+ <main-group>1</main-group>
+ <subgroup>00</subgroup>
+ <symbol-position>L</symbol-position>
+ <classification-value>N</classification-value>
+ <action-date><date>20110920</date></action-date>
+ <generating-office><country>US</country></generating-office>
+ <classification-status>B</classification-status>
+ <classification-data-source>H</classification-data-source>
+ </classification-ipcr>
+ <classification-ipcr>
+ <ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+ <classification-level>A</classification-level>
+ <section>F</section>
+ <class>01</class>
+ <subclass>N</subclass>
+ <main-group>3</main-group>
+ <subgroup>10</subgroup>
+ <symbol-position>L</symbol-position>
+ <classification-value>N</classification-value>
+ <action-date><date>20110920</date></action-date>
+ <generating-office><country>US</country></generating-office>
+ <classification-status>B</classification-status>
+ <classification-data-source>H</classification-data-source>
+ </classification-ipcr>
+ </classifications-ipcr>
+ <classification-national>
+ <country>US</country>
+ <main-classification>502304</main-classification>
+ <further-classification>502325</further-classification>
+ <further-classification>502332</further-classification>
+ <further-classification>502333</further-classification>
+ <further-classification>502334</further-classification>
+ <further-classification>502340</further-classification>
+ <further-classification>502400</further-classification>
+ <further-classification>502439</further-classification>
+ <further-classification>4232132</further-classification>
+ <further-classification>4232391</further-classification>
+ <further-classification> 60272</further-classification>
+ <further-classification> 60299</further-classification>
+ </classification-national>
+ <invention-title id="d2e53">NOx storage materials and traps resistant to thermal aging</invention-title>
+ <references-cited>
+ <citation>
+ <patcit num="00001">
+ <document-id>
+ <country>US</country>
+ <doc-number>3222219</doc-number>
+ <kind>A</kind>
+ <name>Saunders et al.</name>
+ <date>19651200</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00002">
+ <document-id>
+ <country>US</country>
+ <doc-number>3359133</doc-number>
+ <kind>A</kind>
+ <name>Smyly</name>
+ <date>19671200</date>
+ </document-id>
+ </patcit>
+ <category>cited by examiner</category>
+ <classification-national><country>US</country><main-classification>428472</main-classification></classification-national>
+ </citation>
+ <citation>
+ <patcit num="00003">
+ <document-id>
+ <country>US</country>
+ <doc-number>3443978</doc-number>
+ <kind>A</kind>
+ <name>Restall</name>
+ <date>19690500</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00004">
+ <document-id>
+ <country>US</country>
+ <doc-number>3518206</doc-number>
+ <kind>A</kind>
+ <name>Sowards et al.</name>
+ <date>19700600</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00005">
+ <document-id>
+ <country>US</country>
+ <doc-number>3891575</doc-number>
+ <kind>A</kind>
+ <name>Brautigam et al.</name>
+ <date>19750600</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00006">
+ <document-id>
+ <country>US</country>
+ <doc-number>4277374</doc-number>
+ <kind>A</kind>
+ <name>Lula et al.</name>
+ <date>19810700</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00007">
+ <document-id>
+ <country>US</country>
+ <doc-number>4374173</doc-number>
+ <kind>A</kind>
+ <name>Adamovic</name>
+ <date>19830200</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00008">
+ <document-id>
+ <country>US</country>
+ <doc-number>4492769</doc-number>
+ <kind>A</kind>
+ <name>Blanchard et al.</name>
+ <date>19850100</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00009">
+ <document-id>
+ <country>US</country>
+ <doc-number>4904518</doc-number>
+ <kind>A</kind>
+ <name>Mercer et al.</name>
+ <date>19900200</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00010">
+ <document-id>
+ <country>US</country>
+ <doc-number>5064803</doc-number>
+ <kind>A</kind>
+ <name>Nunan</name>
+ <date>19911100</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00011">
+ <document-id>
+ <country>US</country>
+ <doc-number>5075275</doc-number>
+ <kind>A</kind>
+ <name>Murakami et al.</name>
+ <date>19911200</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00012">
+ <document-id>
+ <country>US</country>
+ <doc-number>5168085</doc-number>
+ <kind>A</kind>
+ <name>Addiego et al.</name>
+ <date>19921200</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00013">
+ <document-id>
+ <country>US</country>
+ <doc-number>5204302</doc-number>
+ <kind>A</kind>
+ <name>Gorynin et al.</name>
+ <date>19930400</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00014">
+ <document-id>
+ <country>US</country>
+ <doc-number>5244852</doc-number>
+ <kind>A</kind>
+ <name>Lachman et al.</name>
+ <date>19930900</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00015">
+ <document-id>
+ <country>US</country>
+ <doc-number>5422331</doc-number>
+ <kind>A</kind>
+ <name>Galligan et al.</name>
+ <date>19950600</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00016">
+ <document-id>
+ <country>US</country>
+ <doc-number>5437933</doc-number>
+ <kind>A</kind>
+ <name>Coupland et al.</name>
+ <date>19950800</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00017">
+ <document-id>
+ <country>US</country>
+ <doc-number>5750026</doc-number>
+ <kind>A</kind>
+ <name>Gadkaree et al.</name>
+ <date>19980500</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00018">
+ <document-id>
+ <country>US</country>
+ <doc-number>5874057</doc-number>
+ <kind>A</kind>
+ <name>Deeba et al.</name>
+ <date>19990200</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00019">
+ <document-id>
+ <country>US</country>
+ <doc-number>5965481</doc-number>
+ <kind>A</kind>
+ <name>Durand et al.</name>
+ <date>19991000</date>
+ </document-id>
+ </patcit>
+ <category>cited by examiner</category>
+ <classification-national><country>US</country><main-classification>502304</main-classification></classification-national>
+ </citation>
+ <citation>
+ <patcit num="00020">
+ <document-id>
+ <country>US</country>
+ <doc-number>6090191</doc-number>
+ <kind>A</kind>
+ <name>Atlanova et al.</name>
+ <date>20000700</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00021">
+ <document-id>
+ <country>US</country>
+ <doc-number>6180558</doc-number>
+ <kind>B1</kind>
+ <name>Kurokawa et al.</name>
+ <date>20010100</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00022">
+ <document-id>
+ <country>US</country>
+ <doc-number>6214303</doc-number>
+ <kind>B1</kind>
+ <name>Hoke et al.</name>
+ <date>20010400</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00023">
+ <document-id>
+ <country>US</country>
+ <doc-number>6350421</doc-number>
+ <kind>B1</kind>
+ <name>Strehlau et al.</name>
+ <date>20020200</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00024">
+ <document-id>
+ <country>US</country>
+ <doc-number>6559094</doc-number>
+ <kind>B1</kind>
+ <name>Korotkikh et al.</name>
+ <date>20030500</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00025">
+ <document-id>
+ <country>US</country>
+ <doc-number>6602820</doc-number>
+ <kind>B1</kind>
+ <name>Gobel et al.</name>
+ <date>20030800</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00026">
+ <document-id>
+ <country>US</country>
+ <doc-number>6725656</doc-number>
+ <kind>B2</kind>
+ <name>Moore, III</name>
+ <date>20040400</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00027">
+ <document-id>
+ <country>US</country>
+ <doc-number>6858193</doc-number>
+ <kind>B2</kind>
+ <name>Ruwisch et al.</name>
+ <date>20050200</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00028">
+ <document-id>
+ <country>US</country>
+ <doc-number>7166263</doc-number>
+ <kind>B2</kind>
+ <name>Vanderspurt et al.</name>
+ <date>20070100</date>
+ </document-id>
+ </patcit>
+ <category>cited by examiner</category>
+ <classification-national><country>US</country><main-classification>423263</main-classification></classification-national>
+ </citation>
+ <citation>
+ <patcit num="00029">
+ <document-id>
+ <country>US</country>
+ <doc-number>2003/0144144</doc-number>
+ <kind>A1</kind>
+ <name>Goto et al.</name>
+ <date>20030700</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00030">
+ <document-id>
+ <country>US</country>
+ <doc-number>2003/0165414</doc-number>
+ <kind>A1</kind>
+ <name>Galligan et al.</name>
+ <date>20030900</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00031">
+ <document-id>
+ <country>EP</country>
+ <doc-number>0813899</doc-number>
+ <date>19971200</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00032">
+ <document-id>
+ <country>JP</country>
+ <doc-number>54028787</doc-number>
+ <date>19790300</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00033">
+ <document-id>
+ <country>JP</country>
+ <doc-number>54028787</doc-number>
+ <kind>A</kind>
+ <date>19790300</date>
+ </document-id>
+ </patcit>
+ <category>cited by examiner</category>
+ </citation>
+ <citation>
+ <patcit num="00034">
+ <document-id>
+ <country>JP</country>
+ <doc-number>57117347</doc-number>
+ <date>19820700</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00035">
+ <document-id>
+ <country>JP</country>
+ <doc-number>57117347</doc-number>
+ <kind>A</kind>
+ <date>19820700</date>
+ </document-id>
+ </patcit>
+ <category>cited by examiner</category>
+ </citation>
+ <citation>
+ <patcit num="00036">
+ <document-id>
+ <country>WO</country>
+ <doc-number>WO-03050397</doc-number>
+ <date>20030600</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <patcit num="00037">
+ <document-id>
+ <country>WO</country>
+ <doc-number>WO-2004/035511</doc-number>
+ <kind>A2</kind>
+ <date>20040400</date>
+ </document-id>
+ </patcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <nplcit num="00038">
+ <othercit>Jiafu, Chen et al., &#x201c;The NOx Storage and Resistance of SO2 Poison on the BaCeO3 Perovskite Type Oxides&#x201d; <i>Chinese Journal of Chemical Physics </i>Vo. 16, No. 5, (Oct. 2003), 429-432.</othercit>
+ </nplcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <nplcit num="00039">
+ <othercit>Eberhardt, M. et al., &#x201c;Fundamental Investigations of Thermal Aging Phenomena of Model NOx Storage Systems&#x201d;, <i>Topics in Catalysts </i>vols. 30/31, (Jul. 2004), 135-142.</othercit>
+ </nplcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <nplcit num="00040">
+ <othercit>PCT/US2007/085759&#x2014;<i>PCT International Search Report</i>, (Mar. 26, 2008), 6 pp.</othercit>
+ </nplcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <nplcit num="00041">
+ <othercit>PCT/US2007/085759&#x2014;<i>PCT Written Opinion</i>, (Mar. 26, 2008),10 pp.</othercit>
+ </nplcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <nplcit num="00042">
+ <othercit>Milt, V. G., et al., &#x201c;Soot Oxidation on a Catalytic NOx Trap: Beneficial Effect of the Ba-K Interaction on the Sulfated Ba,K/CeO2 Catalyst&#x201d;, <i>Catalyst Communications</i>, (Sep. 10, 2006), 765-769 pp.</othercit>
+ </nplcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <nplcit num="00043">
+ <othercit>Eberhardt, M. et al., &#x201c;Fundamental Investigations of Thermal Aging Phenomena of Model NOx Storage Systems&#x201d;, <i>Topics in Catalysts</i>, vols. 30/31, (Jul. 2004), 135-142 pp.</othercit>
+ </nplcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <nplcit num="00044">
+ <othercit>Piacentini, M. et al., &#x201c;Supported Pt-Ba NOx Storage-Reduction Catalysts: Influence of Support and Ba Loading on Stability and Storage Efficiency of Ba-Containing Species&#x201d;, <i>Applied Catalysis</i>, (Feb. 4, 2006), 126-136 pp.</othercit>
+ </nplcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <nplcit num="00045">
+ <othercit>PCT/US2007/085759 &#x2014;PCT International Preliminary Report on Patentability (Jun. 11, 2009), 10 pgs.</othercit>
+ </nplcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <nplcit num="00046">
+ <othercit>PCT International Preliminary Report on Patentability in EP 07854809, (Jun. 17, 2009), 9 pgs.</othercit>
+ </nplcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <nplcit num="00047">
+ <othercit>Milt, V. G., et al., &#x201c;Soot oxidation on a catalytic NO<sub>x </sub>trap: Beneficial effect of the Ba-K interaction on the sulfated Ba,K/CeO<sub>2 </sub>catalyst&#x201d;, <i>Catalysis Communications 8</i>, (2007), 765-769 pgs.</othercit>
+ </nplcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <nplcit num="00048">
+ <othercit>Eberhardt, M. et al., &#x201c;Fundamental investigations of thermal aging phenomena of model NO<sub>x </sub>storage systems&#x201d;, <i>Topics in Catalysis </i>vols. 30/31, (Jul. 2004), 135-142 pgs.</othercit>
+ </nplcit>
+ <category>cited by other</category>
+ </citation>
+ <citation>
+ <nplcit num="00049">
+ <othercit>Piacentini, M. et al., &#x201c;Supported Pt-Ba NO<sub>x </sub>storage-reduction catalysts: Influence of support and Ba loading on stability and storage efficiency of Ba-containing species&#x201d;, <i>Applied Catalysis B: Environmental 66</i>, (2006), 126-136 pgs.</othercit>
+ </nplcit>
+ <category>cited by other</category>
+ </citation>
+ </references-cited>
+ <number-of-claims>20</number-of-claims>
+ <us-exemplary-claim>1</us-exemplary-claim>
+ <us-field-of-classification-search>
+ <classification-national>
+ <country>US</country>
+ <main-classification>502304</main-classification>
+ </classification-national>
+ <classification-national>
+ <country>US</country>
+ <main-classification>502340</main-classification>
+ </classification-national>
+ <classification-national>
+ <country>US</country>
+ <main-classification>502325</main-classification>
+ </classification-national>
+ <classification-national>
+ <country>US</country>
+ <main-classification>502332-334</main-classification>
+ <additional-info>unstructured</additional-info>
+ </classification-national>
+ <classification-national>
+ <country>US</country>
+ <main-classification>502400</main-classification>
+ </classification-national>
+ <classification-national>
+ <country>US</country>
+ <main-classification>502415</main-classification>
+ </classification-national>
+ <classification-national>
+ <country>US</country>
+ <main-classification>502438</main-classification>
+ </classification-national>
+ <classification-national>
+ <country>US</country>
+ <main-classification>423212</main-classification>
+ </classification-national>
+ <classification-national>
+ <country>US</country>
+ <main-classification>4232132</main-classification>
+ </classification-national>
+ <classification-national>
+ <country>US</country>
+ <main-classification>4232135</main-classification>
+ </classification-national>
+ <classification-national>
+ <country>US</country>
+ <main-classification>423235</main-classification>
+ </classification-national>
+ <classification-national>
+ <country>US</country>
+ <main-classification>423236</main-classification>
+ </classification-national>
+ <classification-national>
+ <country>US</country>
+ <main-classification>4232391</main-classification>
+ </classification-national>
+ <classification-national>
+ <country>US</country>
+ <main-classification> 60279</main-classification>
+ </classification-national>
+ <classification-national>
+ <country>US</country>
+ <main-classification> 60299</main-classification>
+ </classification-national>
+ </us-field-of-classification-search>
+ <figures>
+ <number-of-drawing-sheets>6</number-of-drawing-sheets>
+ <number-of-figures>6</number-of-figures>
+ </figures>
+ <us-related-documents>
+ <division>
+ <relation>
+ <parent-doc>
+ <document-id>
+ <country>US</country>
+ <doc-number>11564494</doc-number>
+ <date>20061129</date>
+ </document-id>
+ <parent-status>PENDING</parent-status>
+ </parent-doc>
+ <child-doc>
+ <document-id>
+ <country>US</country>
+ <doc-number>12497846</doc-number>
+ </document-id>
+ </child-doc>
+ </relation>
+ </division>
+ <related-publication>
+ <document-id>
+ <country>US</country>
+ <doc-number>20090304564</doc-number>
+ <kind>A1</kind>
+ <date>20091210</date>
+ </document-id>
+ </related-publication>
+ </us-related-documents>
+ <parties>
+ <applicants>
+ <applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+ <addressbook>
+ <last-name>Hilgendorff</last-name>
+ <first-name>Marcus</first-name>
+ <address>
+ <city>Hannover</city>
+ <country>DE</country>
+ </address>
+ </addressbook>
+ <nationality>
+ <country>omitted</country>
+ </nationality>
+ <residence>
+ <country>DE</country>
+ </residence>
+ </applicant>
+ <applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+ <addressbook>
+ <last-name>Roth</last-name>
+ <first-name>Stanley A.</first-name>
+ <address>
+ <city>Yardley</city>
+ <state>PA</state>
+ <country>US</country>
+ </address>
+ </addressbook>
+ <nationality>
+ <country>omitted</country>
+ </nationality>
+ <residence>
+ <country>US</country>
+ </residence>
+ </applicant>
+ <applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+ <addressbook>
+ <last-name>Stiebels</last-name>
+ <first-name>Susanne</first-name>
+ <address>
+ <city>Adenbuttel</city>
+ <country>DE</country>
+ </address>
+ </addressbook>
+ <nationality>
+ <country>omitted</country>
+ </nationality>
+ <residence>
+ <country>DE</country>
+ </residence>
+ </applicant>
+ </applicants>
+ <agents>
+ <agent sequence="01" rep-type="attorney">
+ <addressbook>
+ <last-name>Servilla</last-name>
+ <first-name>Scott S.</first-name>
+ <address>
+ <country>unknown</country>
+ </address>
+ </addressbook>
+ </agent>
+ <agent sequence="02" rep-type="attorney">
+ <addressbook>
+ <orgname>Diehl Servilla LLC</orgname>
+ <address>
+ <country>unknown</country>
+ </address>
+ </addressbook>
+ </agent>
+ <agent sequence="03" rep-type="attorney">
+ <addressbook>
+ <last-name>Brown</last-name>
+ <first-name>Melanie L.</first-name>
+ <address>
+ <country>unknown</country>
+ </address>
+ </addressbook>
+ </agent>
+ </agents>
+ </parties>
+ <assignees>
+ <assignee>
+ <addressbook>
+ <orgname>BASF Corporation</orgname>
+ <role>02</role>
+ <address>
+ <city>Florham Park</city>
+ <state>NJ</state>
+ <country>US</country>
+ </address>
+ </addressbook>
+ </assignee>
+ </assignees>
+ <examiners>
+ <primary-examiner>
+ <last-name>Bos</last-name>
+ <first-name>Steven</first-name>
+ <department>1736</department>
+ </primary-examiner>
+ <assistant-examiner>
+ <last-name>Zimmer</last-name>
+ <first-name>Anthony J</first-name>
+ </assistant-examiner>
+ </examiners>
+ </us-bibliographic-data-grant>
+ <abstract id="abstract">
+ <p id="p-0001" num="0000">Nitrogen oxide storage materials and methods of manufacturing nitrogen oxide storage materials are disclosed. The nitrogen oxide storage materials can be used to manufacture catalytic trap disposed in an exhaust passage of an internal combustion engine which is operated periodically between lean and stoichiometric or rich conditions, for abatement of NOx in an exhaust gas stream which is generated by the engine. In one embodiment, the nitrogen oxide storage material comprises alkaline earth material supported on ceria particles having a crystallite size of between about 10 and 20 nm and the alkaline earth oxide having a crystallite size of between about 20-40 nm.</p>
+ </abstract>
+ <drawings id="DRAWINGS">
+ <figure id="Fig-EMI-D00000" num="00000">
+ <img id="EMI-D00000" he="114.64mm" wi="184.07mm" file="US08022010-20110920-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+ </figure>
+ <figure id="Fig-EMI-D00001" num="00001">
+ <img id="EMI-D00001" he="196.17mm" wi="142.92mm" orientation="landscape" file="US08022010-20110920-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+ </figure>
+ <figure id="Fig-EMI-D00002" num="00002">
+ <img id="EMI-D00002" he="213.53mm" wi="171.62mm" orientation="landscape" file="US08022010-20110920-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+ </figure>
+ <figure id="Fig-EMI-D00003" num="00003">
+ <img id="EMI-D00003" he="203.03mm" wi="165.18mm" orientation="landscape" file="US08022010-20110920-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+ </figure>
+ <figure id="Fig-EMI-D00004" num="00004">
+ <img id="EMI-D00004" he="217.59mm" wi="153.42mm" orientation="landscape" file="US08022010-20110920-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+ </figure>
+ <figure id="Fig-EMI-D00005" num="00005">
+ <img id="EMI-D00005" he="195.24mm" wi="140.21mm" orientation="landscape" file="US08022010-20110920-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+ </figure>
+ <figure id="Fig-EMI-D00006" num="00006">
+ <img id="EMI-D00006" he="159.34mm" wi="125.22mm" orientation="landscape" file="US08022010-20110920-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+ </figure>
+ </drawings>
+ <description id="description">
+ <?RELAPP description="Other Patent Relations" end="lead"?>
+ <heading id="h-0001" level="1">RELATED APPLICATION</heading>
+ <p id="p-0002" num="0001">This application is a divisional of U.S. patent application Ser. No. 11/564,494, filed Nov. 29, 2006, the content of which is incorporated herein by reference in its entirety.</p>
+ <?RELAPP description="Other Patent Relations" end="tail"?>
+ <?BRFSUM description="Brief Summary" end="lead"?>
+ <heading id="h-0002" level="1">TECHNICAL FIELD</heading>
+ <p id="p-0003" num="0002">Embodiments of the invention relate to nitrogen oxide storage materials and methods for their manufacture. More particularly, embodiments of the invention pertain to NOx storage materials that are resistant to thermal aging and methods of making such materials. The nitrogen oxide storage materials may be part of a catalytic trap used to treat exhaust gas streams, especially those emanating from lean-burn gasoline or diesel engines.</p>
+ <heading id="h-0003" level="1">BACKGROUND OF THE INVENTION</heading>
+ <p id="p-0004" num="0003">Emission of nitrogen oxides (&#x201c;NOx&#x201d;) from lean-burn engines (described below) must be reduced in order to meet emission regulation standards. Conventional three-way conversion (&#x201c;TWC&#x201d;) automotive catalysts are suitable for abating NOx, carbon monoxide a (&#x201c;CO&#x201d;) and hydrocarbon (&#x201c;HC&#x201d;) pollutants in the exhaust of engines operated at or near stoichiometric air/fuel conditions. The precise proportion of air to fuel which results in stoichiometric conditions varies with the relative proportions of carbon and hydrogen in the fuel. An air-to-fuel (&#x201c;A/F&#x201d;) ratio of 14.65:1 (weight of air to weight of fuel) is the stoichiometric ratio corresponding to the combustion of a hydrocarbon fuel, such as gasoline, with an average formula CH<sub>1.88</sub>. The symbol &#x3bb; is thus used to represent the result of dividing a particular A/F ratio by the stoichiometric A/F ratio for a given fuel, so that; &#x3bb;=1 is a stoichiometric mixture, &#x3bb;&#x3e;1 is a fuel-lean mixture and &#x3bb;&#x3c;1 is a fuel-rich mixture.</p>
+ <p id="p-0005" num="0004">Engines, especially gasoline-fueled engines to be used for passenger automobiles and the like, are being designed to operate under lean conditions as a fuel economy measure. Such future engines are referred to as &#x201c;lean-burn engines&#x201d;. That is, the ratio of air to fuel in the combustion mixtures supplied to such engines is maintained considerably above the stoichiometric ratio (e.g., at an air-to-fuel weight ratio of 18:1) so that the resulting exhaust gases are &#x201c;lean&#x201d;, i.e., the exhaust gases are relatively high in oxygen content. Although lean-burn engines provide enhanced fuel economy, they have the disadvantage that conventional TWC catalysts are not effective for reducing NOx emissions from such engines because of excessive oxygen in the exhaust. Attempts to overcome this problem have included operating lean-burn engines with brief periods of fuel-rich operation (engines which operate in this fashion are sometimes referred to as &#x201c;partial lean-burn engines&#x201d;). The exhaust of such engines is treated with a catalyst/NOx sorbent which stores NOx during periods of lean (oxygen-rich) operation, and releases the stored NOx during the rich (fuel-rich) periods of operation. During periods of rich (or stoichiometric) operation, the catalyst component of the catalyst/NOx sorbent promotes the reduction of NOx to nitrogen by reaction of NOx (including NOx released from the NOx sorbent) with HC, CO and/or hydrogen present in the exhaust.</p>
+ <p id="p-0006" num="0005">Diesel engines provide better fuel economy than gasoline engines and normally operate 100% of the time under lean conditions, where the reduction of NOx is difficult due to the presence of excess oxygen. In this case, the catalyst/NOx sorbent is effective for storing NOx. As in the case of the gasoline partial lean burn application, after the NOx storage mode, a transient rich condition must be utilized to release/reduce the stored NOx to nitrogen. In the case of the diesel engine, this transient reducing condition will require unique engine calibration or injection of a diesel fuel into the exhaust to create the next reducing environment.</p>
+ <p id="p-0007" num="0006">NOx storage (sorbent) components including alkaline earth metal oxides, such as oxides of Mg, Ca, Sr and Ba, alkali metal oxides such as oxides of Li, Na, K, Rb and Cs, and rare earth metal oxides such as oxides of Ce, La, Pr and Nd in combination with precious metal catalysts such as platinum dispersed on an alumina support have been used in the purification of exhaust gas from an internal combustion engine. For NOx storage, baria is usually preferred because it forms nitrates at lean engine operation and releases the nitrates relatively easily under rich conditions. However, catalysts that use baria for NOx storage exhibit a problem in practical application, particularly when the catalysts are aged by exposure to high temperatures and lean operating conditions. After such exposure, such catalysts show a marked decrease in catalytic activity for NOx reduction, particularly at low temperature (200 to 350&#xb0; C.) and high temperature (450&#xb0; C. to 600&#xb0; C.) operating conditions. In addition, NOx absorbents that include baria suffer from the disadvantage that when exposed to temperatures above 450&#xb0; C. in the presence of CO<sub>2</sub>, barium carbonate forms, which becomes more stable than barium nitrate. Furthermore, barium tends to sinter and to form composite compounds with support materials, which leads to the loss of NOx storage capacity.</p>
+ <p id="p-0008" num="0007">NOx storage materials comprising barium fixed to ceria particles have been reported, and these NOx materials have exhibited improved thermal aging properties compared to the catalyst materials described above. Despite these improvements, there is an ongoing need to improve the performance of NOx storage materials, particularly the ability of these materials to operate over a wide temperature range and to operate effectively after exposure to high temperature. It is also desirable to improve the kinetics of NOx oxidation (required in advance of NOx storage) and the kinetics of NOx reduction (required following NOx release). Thus, there is a need to provide improved NOx storage materials and methods for their manufacture.</p>
+ <heading id="h-0004" level="1">SUMMARY OF THE INVENTION</heading>
+ <p id="p-0009" num="0008">Aspects of the invention include nitrogen oxide storage materials, catalytic traps for the abatement of nitrogen oxide, methods for manufacturing both the nitrogen oxide storage materials and the catalytic traps for the abatement of nitrogen oxides, and methods of abating nitrogen oxide in an exhaust gas stream.</p>
+ <p id="p-0010" num="0009">According to one embodiment, the nitrogen oxide storage materials comprise ceria particles having alkaline earth oxides, for example, baria, supported on the particles, the ceria having a crystallite size of between about 10 and 20 nm and the alkaline earth oxides having a crystallite size of between about 20 and 40 nm. Other suitable alkaline earth oxides include oxides of Mg, Sr, and Ca. In certain embodiments, the composite particles have a BET surface area of between about 30 and 80 m<sup>2</sup>/g. In another embodiment, a nitrogen oxide storage catalyst is provided comprising a coating on a substrate, the coating comprising a nitrogen oxide storage material comprising spray-dried ceria particles having baria supported on the particles.</p>
+ <p id="p-0011" num="0010">In certain embodiments, the coating of the nitrogen oxide storage catalyst further comprises at least one member of platinum group metals selected from the group consisting of platinum, palladium, rhodium, iridium and mixtures thereof supported on refractory oxide particles. The refractory oxide particles may be selected from the group consisting of aluminum oxide, mixed aluminum oxide and zirconium oxide, mixed aluminum oxide and lanthanum oxide, mixed aluminum oxide and cerium oxide, mixed aluminum oxide and magnesium oxide, and alumina oxide mixed with one or more of zirconia and lanthana.</p>
+ <p id="p-0012" num="0011">Another embodiment relates to a catalytic trap disposed in an exhaust passage of an internal combustion engine which operates periodically between lean and stoichiometric or rich conditions, for abatement of NOx in an exhaust gas stream which is generated by the engine. The catalytic trap comprises a catalytic trap material including a precious metal catalytic component effective for oxidizing NO to NO<sub>2 </sub>under lean conditions and promoting the reduction of released NOx to nitrogen under stoichiometric or rich conditions supported on a refractory metal oxide, and a NOx storage material effective for adsorbing the NOx under lean conditions and desorbing the NOx under stoichiometric or rich conditions, the NOx storage material comprising particles of ceria having alkaline earth carbonate supported on the ceria particles, having a crystallite size of between about 10 and 20 nm and the alkaline earth oxide having a crystallite size of between about 20 and 40 nm, and the catalytic trap material being disposed on a refractory carrier member. Still another embodiment relates to a method of making a nitrogen oxide storage material comprising mixing a solution of barium with ceria particles, spray drying the particles, heating the spray-dried particles, mixing the composite particles with a precious metal supported catalyst and coating the slurry mixture of particles on a substrate.</p>
+ <?BRFSUM description="Brief Summary" end="tail"?>
+ <?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+ <description-of-drawings>
+ <heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+ <p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 1</figref> is a graph showing the nitrogen oxide conversion efficiency of a catalyst in accordance with an embodiment of the invention and a comparative reference catalyst;</p>
+ <p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 2</figref> is a graph comparing the nitrogen oxide storage capacity of various catalysts;</p>
+ <p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 3</figref> is a graph comparing the nitrogen oxide storage capacity of catalysts;</p>
+ <p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 4</figref> is a graph comparing the nitrogen oxide storage capacity of two catalysts;</p>
+ <p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 5</figref> is a graph comparing the nitrogen oxide storage capacity of two catalysts; and</p>
+ <p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 6</figref> is a SEM image of the spray dried and calcined BaCO<sub>3</sub>/CeO<sub>2 </sub>composite material.</p>
+ </description-of-drawings>
+ <?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+ <?DETDESC description="Detailed Description" end="lead"?>
+ <heading id="h-0006" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+ <p id="p-0019" num="0018">Before describing several exemplary embodiments of the invention, it is to be understood that the invention is not limited to the details of construction or process steps set forth in the following description. The invention is capable of other embodiments and of being practiced or being carried out in various ways.</p>
+ <p id="p-0020" num="0019">In one embodiment of the invention, a spray-dried NOx storage material comprising alkaline earth carbonate or mixtures of carbonates, for example, BaCO<sub>3 </sub>or mixtures of BaCO<sub>3 </sub>and MgCO<sub>3 </sub>supported on CeO<sub>2 </sub>particles is provided. According to one or more embodiments of the invention, Ba sintering and Ba composite compound formation is reduced under the conditions of thermal stress in an exhaust gas of a lean burn engine. The NOx storage material according to embodiments of the present invention demonstrates improved NOx storage capacity after thermal aging when used in a catalytic trap.</p>
+ <p id="p-0021" num="0020">According other embodiments of the invention, methods of manufacturing NOx storage materials and catalytic traps including these storage materials are provided. Other embodiments of the invention pertain to a catalytic trap for abatement of NOx in an exhaust gas stream which is generated by an internal combustion engine which is operated periodically between lean and stoichiometric or rich conditions. According to one or more embodiments, the catalytic trap comprises a catalytic trap material including a catalytic component effective for promoting the reduction of NOx under stoichiometric or rich conditions supported on a refractory metal oxide and a NOx storage material effective for adsorbing the NOx under lean conditions and desorbing and reducing the NOx to nitrogen under stoichiometric or rich conditions, the NOx storage material comprising spray-dried particles of ceria having alkaline earth carbonate, for example, barium carbonate, supported on the ceria particles, the catalytic trap material being disposed on a refractory carrier member.</p>
+ <p id="p-0022" num="0021">Embodiments of this invention pertain to a process for abatement of NOx in an exhaust gas stream generated by an internal combustion engine which periodically operates alternately between lean and stoichiometric or rich conditions, comprising locating the above-described catalytic trap in an exhaust passage of the engine and treating the exhaust gas stream with a catalytic trap whereby at least some of the NOx in the exhaust gas stream is adsorbed by the catalytic trap during the periods of lean conditions and is desorbed from the catalytic trap and reduced to nitrogen during the periods of stoichiometric or rich conditions.</p>
+ <p id="p-0023" num="0022">The refractory metal oxide support of the catalytic trap may be porous in nature and has a high surface area such as alumina, for example, gamma-alumina. Other suitable support materials include titania, titania-alumina, zirconia, zirconia-alumina, baria-alumina, lanthana-alumina, lanthana-zirconia-alumina titania-zirconia, and mixtures thereof. Desirably, the refractory metal oxide support will have a surface area of between about 5 and about 350 m<sup>2</sup>/g, and more particularly between about 100 and 200 m<sup>2</sup>/g. Typically, the support will be present on the coated substrate in the amount of about 1.5 to about 7.0 g/in<sup>3</sup>, for example between about 3 and 6 g/in<sup>3</sup>. A suitable support material for the precious metal is alumina, which may be doped with one or more other materials. Alumina having a BET surface area of about 200 m<sup>2</sup>/g and doped with 10%-30% ZrO<sub>2 </sub>and 1%-4% LaO provided good results.</p>
+ <p id="p-0024" num="0023">In one or more embodiments of the present invention the catalytic component preferably comprises a precious metal component, i.e., a platinum group metal component. Suitable precious metal components include platinum, palladium, rhodium and mixtures thereof. The catalytic component will typically be present in an amount of about 20 to about 200 g/ft<sup>3</sup>, more specifically, about 60 to 120 g/ft<sup>3</sup>.</p>
+ <p id="p-0025" num="0024">The NOx storage material employed in the catalytic trap according to embodiments of the present invention comprises a spray-dried NOx storage material comprising BaCO<sub>3 </sub>supported on CeO<sub>2 </sub>particles.</p>
+ <p id="p-0026" num="0025">In one or more embodiments, the catalytic trap is disposed on a refractory carrier member. Examples of such substrates include, for example, stainless steel, titanium, aluminum zirconate, aluminum titanate, aluminum phosphate, cordierite, mullite and corundum. The carrier member may be employed as a monolithic honeycomb structure, spun fibers, corrugated foils, layered materials, etc.</p>
+ <p id="p-0027" num="0026">In a gasoline vehicle application, a catalytic device employing a three-way conversion (&#x201c;TWC&#x201d;) catalyst may be used in conjunction with the catalytic trap of the invention. Such a device will be located in an exhaust passage of the internal combustion engine and will be disposed upstream and/or downstream of the catalytic trap. The TWC catalyst would typically include platinum, palladium and rhodium catalytic components dispersed on a high surface area refractory support and may also contain one or more base metal oxide catalytic components such as oxides of iron, manganese or nickel. Such catalysts can be stabilized against thermal degradation by expedients such as impregnating an activated alumina support with one or more rare earth metal oxides, e.g., ceria. Such stabilized catalysts can sustain very high operating temperatures. For example, if a fuel cut technique is utilized, temperatures as high as 1050&#xb0; C. may be sustained in the catalytic device.</p>
+ <p id="p-0028" num="0027">If the catalytic device is employed and is located upstream of the catalytic trap of the invention, the catalytic device would be mounted close to the exhaust manifold of the engine. In such an arrangement, the TWC catalyst would warm up quickly and provide for efficient cold start emission control. Once the engine is warmed up, the TWC catalyst will remove HC, CO and NOx from the exhaust gas stream during stoichiometric or rich operation and HC and CO during lean operation. The catalytic trap of the invention would be positioned downstream of the catalytic device where the exhaust gas temperature enables maximum NOx trap efficiency. During periods of lean engine operation, when NOx passes through the TWC catalyst, NOx is stored on the catalytic trap. The catalytic trap is periodically desorbed and the NOx is reduced to nitrogen under periods of stoichiometric or rich engine operation. If desired, a catalytic device containing a TWC catalyst may be employed downstream of the catalytic trap of the invention. Such catalytic device will serve to remove further amounts of HC and CO from the exhaust gas stream and, in particular, will provide for efficient reduction of the NOx to nitrogen under periods of stoichiometric or rich engine operation.</p>
+ <p id="p-0029" num="0028">In a diesel vehicle application, the catalytic NOx-trap according to embodiments of the invention may be used in conjunction with a diesel oxidation catalyst (DOC), and a catalyzed soot filter (CSF); where the DOC and CSF are placed either before or after the catalytic device of this invention. In another embodiment of the invention, it is possible to place the NOx-trap catalyst directly onto the filter media.</p>
+ <p id="p-0030" num="0029">The several components of the catalytic trap material may be applied to the refractory carrier member, i.e., the substrate, as a mixture of two or more components or as individual components in sequential steps in a manner which will be readily apparent to those skilled in the art of catalyst manufacture. A typical method of manufacturing the catalytic trap of the present invention is to provide the catalytic trap material as a coating or layer of washcoat on the walls of the gas-flow passages of a suitable carrier member. This may be accomplished, by impregnating a fine particulate refractory metal oxide support material, e.g., gamma alumina, with one or more catalytic metal components such as a precious metal, i.e., platinum group, compound or other noble metals or base metals, drying and calcining the impregnated support particles and forming an aqueous slurry of these particles. Spray-dried particles of the bulk NOx sorbent may be included in the slurry. Alternatively, the NOx storage material or sorbent may be dispersed into the support, preferably in an impregnation operation, as described below. Activated alumina may be thermally stabilized before the catalytic components are dispersed thereon, as is well known in the art, by impregnating it with, e.g., a solution of a soluble salt of barium, lanthanum, zirconium, rare earth metal or other suitable stabilizer precursor, and thereafter drying (e.g., at 110&#xb0; C. for one hour) and calcining (e.g., at 550&#xb0; C. for one hour) the impregnated activated alumina to form a stabilizing metal oxide dispersed onto the alumina. Base metal catalysts may optionally also have been impregnated into the activated alumina, for example, by impregnating a solution of a base metal nitrate into the alumina particles and calcining to provide a base metal oxide dispersed in the alumina particles.</p>
+ <p id="p-0031" num="0030">The carrier may then be immersed into the slurry of impregnated activated alumina and excess slurry removed to provide a thin coating of the slurry on the walls of the gas-flow passages of the carrier. The coated carrier is then dried and calcined to provide an adherent coating of the catalytic component and, optionally, the catalytic trap material, to the walls of the passages thereof. The carrier may then be immersed into a slurry of fine particles of component of the NOx storage material as a second or overlayer coating deposited over the layer of catalytic component. A magnesium component, e.g., a solution of a magnesium salt such as magnesium nitrate, acetate, sulfate, hydroxide, etc., may be combined with the slurry of component of the NOx storage material or it may be applied as a third or overlayer coating deposited over the second layer of the NOx storage material. The carrier is then dried and calcined to provide a finished catalyst trap member in accordance with one embodiment of the present invention.</p>
+ <p id="p-0032" num="0031">Alternatively, the alumina or other support particles impregnated with the catalytic component may be mixed with bulk or supported particles of the NOx storage material in an aqueous slurry, and this mixed slurry of catalytic component particles and NOx storage material particles may be applied as a coating to the walls of the gas-flow passages of the carrier. Preferably, however, for improved dispersion of the NOx storage material, the washcoat of catalytic component material, after being dried and calcined, is immersed (post-dipped) into a solution of a component (NOx storage material precursor compound (or complex) and a magnesium precursor compound (or complex) to impregnate the washcoat with the NOx storage material precursor. The impregnated washcoat is then dried and calcined to provide the NOx storage material dispersed throughout the washcoat.</p>
+ <p id="p-0033" num="0032">Separate discrete layers of washcoat may be applied in successive impregnating/drying/calcining operations, e.g., to provide a bottom washcoat layer containing a platinum catalytic component in a bottom washcoat layer and a palladium and/or rhodium catalytic component in a top washcoat layer. The NOx storage material may be dispersed by impregnation into both the top and bottom layers.</p>
+ <p id="p-0034" num="0033">In use, the exhaust gas stream which is contacted with the catalytic trap of the present invention is alternately adjusted between lean and stoichiometric/rich operating conditions so as to provide alternating lean operating periods and stoichiometric/rich operating periods. It will be understood that the exhaust gas stream being treated may be selectively rendered lean or stoichiometric/rich either by adjusting the air-to-fuel ratio fed to the engine generating the exhaust or by periodically injecting a reductant into the gas stream upstream of the catalytic trap. For example, the composition of the present invention is well suited to treat the exhaust of engines, including diesel engines, which continuously run lean. In such case, in order to establish a stoichiometric/rich operating period, a suitable reductant, such as fuel, may be periodically sprayed into the exhaust immediately upstream of the catalytic trap of the present invention to provide at least local (at the catalytic trap) stoichiometric/rich conditions at selected intervals. Partial lean-burn engines, such as partial lean-burn gasoline engines, are designed with controls which cause them to operate lean with brief, intermittent rich or stoichiometric conditions.</p>
+ <p id="p-0035" num="0034">Without intending to limit the invention in any manner, embodiments of the present invention will be more fully described by the following examples.</p>
+ <heading id="h-0007" level="1">EXAMPLES</heading>
+ <heading id="h-0008" level="1">Example 1</heading>
+ <heading id="h-0009" level="1">Preparation of NOx Storage Material</heading>
+ <p id="p-0036" num="0035">BaCO<sub>3 </sub>and CeO<sub>2 </sub>were intimately mixed and finely dispersed in a weight ratio of between about 1:3 and about 1:5. Cerium oxide having a BET surface area of between about 50-150 m<sup>2</sup>/g was mixed with a solution of barium acetate such that the BaCO<sub>3</sub>/CeO<sub>2 </sub>composite had a BaCO3 content of about 10-30 wt %. After mixing, the suspension of soluble barium acetate and CeO<sub>2 </sub>was then spray-dried at a temperature of between about 90&#xb0; C. and 120&#xb0; C. to obtain a solid mixture of barium acetate and ceria.</p>
+ <p id="p-0037" num="0036">After spray-drying, the mixture was then heated at about 550&#xb0; C. to 800&#xb0; C. for about 2 hours to form particles of ceria having barium carbonate supported on the ceria particles. The resulting BaCO3 had a crystallite size of between about 20 and 40 nm. The BaCO<sub>3 </sub>and CeO<sub>2 </sub>crystallites formed particles with a size of between about 5 and 50 microns. The BET surface area of the particulate mixture is between about 30 and 80 m<sup>2</sup>/g.</p>
+ <p id="h-0010" num="0000">Preparation of Catalytic Component</p>
+ <p id="p-0038" num="0037">To provide a fully formulated NOx storage catalyst or catalytic trap as described above, in addition to the manufacture of barium carbonate supported on ceria, a precious metal can be supported on a refractory oxide according to the following description. Pt and Rh are impregnated onto Al<sub>2</sub>O<sub>3 </sub>by an incipient wetness procedure to yield 1.8 weight percent Pt and 0.1 weight percent Rh. Pd is impregnated separately onto alumina to a Pd loading of 1.4 weight percent.</p>
+ <p id="p-0039" num="0038">A slurry mixture containing about 34 wt % of alumina previously mixed with Pt/Rh, about 9 wt % Pd on alumina, a solution of zirconium acetate with a content of about 3 wt % ZrO<sub>2</sub>, magnesium acetate to yield 9 wt % MgO, and 45 wt % BaCO<sub>3</sub>/CeO<sub>2 </sub>spray-dried powder is milled at pH 6-8 until a particle size of 11 micron (D<sub>90</sub>) is obtained.</p>
+ <p id="h-0011" num="0000">Coating of a Substrate</p>
+ <p id="p-0040" num="0039">Ceramic or metallic honeycomb substrates are coated with the slurry in a dip coating manner and then dried in a dryer and subsequently calcined in a furnace under air at about 450&#xb0; C.-550&#xb0; C. The coating procedure is then repeated until a loading of about 4-6.5 g/in<sup>3 </sup>is achieved. The coating on the honeycomb catalyst comprises about 3-30 micron BaCO<sub>3</sub>/CeO<sub>2 </sub>particles and about 1-20 micron alumina particles. BaCO<sub>3 </sub>is fixed within the pores of the ceria particles in such a way that it does not migrate to the alumina particles. It is believed that the contact of BaCO<sub>3 </sub>and alumina would lead to the formation of inactive Ba/Al<sub>2</sub>O<sub>3 </sub>composite compound formation upon aging, which has a reduced NOx storage capacity compared to BaCO<sub>3</sub>.</p>
+ <heading id="h-0012" level="1">Comparative Example 2</heading>
+ <p id="p-0041" num="0040">Samples were prepared in accordance with Example 1 above, except that the barium acetate/ceria solution was not spray dried.</p>
+ <heading id="h-0013" level="1">Example 3</heading>
+ <heading id="h-0014" level="1">NOx Storage Capacity Testing</heading>
+ <p id="p-0042" num="0041">Two catalytic traps were prepared, a first catalytic trap was prepared in accordance with Example 1 and a comparative catalytic trap was prepared in accordance with Comparative Example 2. Both catalytic traps A were evaluated after aging for 8 hours at 850&#xb0; C.</p>
+ <p id="p-0043" num="0042">Both catalytic traps were evaluated as follows. An engine was set to an air/fuel ratio of 11.6 for 2 minutes at the desired temperature to remove all stored NOx and oxygen from the catalyst. This mode represents rich engine operation. Subsequently, the engine was adjusted to an air/fuel ratio of 29.6 under constant NOx mass flow. This mode represents lean engine operation. During the whole test, the NOx concentration was measured before and after the NOx trap using a NOx analyzer.</p>
+ <p id="p-0044" num="0043">
+ <maths id="MATH-US-00001" num="00001">
+ <math overflow="scroll">
+ <mtable>
+   <mtr>
+     <mtd>
+       <mrow>
+         <mi>U</mi>
+         <mo>=</mo>
+         <mrow>
+           <mfrac>
+             <msubsup>
+               <mi>NO</mi>
+               <mi>x</mi>
+               <mi>massoutlet</mi>
+             </msubsup>
+             <msubsup>
+               <mi>NO</mi>
+               <mi>x</mi>
+               <mi>massinlet</mi>
+             </msubsup>
+           </mfrac>
+           <mo>&#xb7;</mo>
+           <mn>100</mn>
+         </mrow>
+       </mrow>
+     </mtd>
+     <mtd>
+       <mrow>
+         <mo>(</mo>
+         <mn>1</mn>
+         <mo>)</mo>
+       </mrow>
+     </mtd>
+   </mtr>
+ </mtable>
+ </math>
+ </maths>
+ </p>
+ <p id="p-0045" num="0044">After the 2 minute rich operation followed by a 60 second lean operation, the engine was set to a 3 second rich operation to remove stored NOx without having hydrocarbon and carbon monoxide tailpipe emissions. This 60 sec lean/3 sec rich cycle is repeated 10 times to establish constant catalyst conditions. For the time period of the 10 lean/rich cycles the NOx efficiency (U) is calculated from the NOx inlet and NOx outlet concentrations via equation (1): NOx storage mass in g is calculated via equation (2):
+ <br/>
+ <?in-line-formulae description="In-line Formulae" end="lead"?>NO<sub>x</sub><sup>mass</sup>(<i>g</i>)=&#x222b;NO<sub>x</sub><i>*{dot over (V)}/V</i><sub>ideal</sub><i>*M</i><sub>S</sub>*1/(3.6*10<sup>6</sup>)<i>dt</i>&#x2003;&#x2003;(2)<?in-line-formulae description="In-line Formulae" end="tail"?>
+ <br/>
+ NOx=NOx concentration (ppm)
+ <br/>
+ V=volume flow (m3/h)
+ <br/>
+ V<sub>ideal</sub>=ideal molar volume (1/mol) at STP
+ <br/>
+ M<sub>s</sub>=Molar weight of NO2 (g/mol)
+ <br/>
+ dt=time interval(s)
+ </p>
+ <p id="p-0046" num="0045">After the 10 lean/rich cycles, the engine is operated for 1 min rich to remove the stored NOx completely. Subsequently, the engine is operated under lean condition until no more NOx is stored in the trap. Under these conditions, the overall NOx storage capacity is evaluated. However, to achieve a NOx conversion of greater than 80%, the NOx storage capacity at high NOx efficiency is decisive. <figref idref="DRAWINGS">FIG. 1</figref> demonstrates that the NOx storage capacity of catalytic trap prepared in accordance with Example 1 utilizing a spray-drying process exhibited superior capacity compared to the Comparative reference Example.</p>
+ <heading id="h-0015" level="1">Example 4</heading>
+ <heading id="h-0016" level="1">Barium Concentration and Calcination Temperature</heading>
+ <p id="p-0047" num="0046">Different amounts of Ba were impregnated into ceria of different surface area, using the procedures described in Example 1. Ceria powders with different BET surface areas were used to determine the effect of the resulting Ba/Ceria composite powder.</p>
+ <p id="p-0048" num="0047">Characterization of the impregnated powder included BET surface area measurement. In addition fully formulated NOx trap catalysts were prepared using the procedures described in Example 1 that contain the particular Ba/Ceria composite material as NOx storage component. The NOx storage properties of the catalysts have been evaluated after aging for 8 hours at 850&#xb0; C. under air with 10% H<sub>2</sub>O in a laboratory reactor. The results are shown in Table I and Table II below.</p>
+ <p id="p-0049" num="0048">Table I shows the result of a variation of the BaCO<sub>3 </sub>and CeO<sub>2 </sub>concentration together with a variation of the ceria used. After impregnation, all samples were calcined at</p>
+ <p id="p-0050" num="0049">
+ <tables id="TABLE-US-00001" num="00001">
+ <table frame="none" colsep="0" rowsep="0" pgwide="1">
+ <tgroup align="left" colsep="0" rowsep="0" cols="11">
+ <colspec colname="1" colwidth="28pt" align="center"/>
+ <colspec colname="2" colwidth="28pt" align="center"/>
+ <colspec colname="3" colwidth="21pt" align="center"/>
+ <colspec colname="4" colwidth="28pt" align="center"/>
+ <colspec colname="5" colwidth="49pt" align="center"/>
+ <colspec colname="6" colwidth="35pt" align="center"/>
+ <colspec colname="7" colwidth="35pt" align="center"/>
+ <colspec colname="8" colwidth="42pt" align="center"/>
+ <colspec colname="9" colwidth="42pt" align="center"/>
+ <colspec colname="10" colwidth="35pt" align="center"/>
+ <colspec colname="11" colwidth="35pt" align="center"/>
+ <thead>
+ <row>
+ <entry namest="1" nameend="11" rowsep="1">TABLE I</entry>
+ </row>
+ <row>
+ <entry namest="1" nameend="11" align="center" rowsep="1"/>
+ </row>
+ <row>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry>CeO<sub>2</sub></entry>
+ <entry/>
+ <entry/>
+ </row>
+ <row>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry>Crystallite</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry>size</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry>of</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry>BET</entry>
+ <entry/>
+ <entry>BET</entry>
+ <entry>BaCO<sub>3</sub></entry>
+ <entry>BaCO<sub>3</sub></entry>
+ <entry>Ceria</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry>Surface</entry>
+ <entry/>
+ <entry>Ba/Ceria</entry>
+ <entry>Crystallite</entry>
+ <entry>Crystallite</entry>
+ <entry>in</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry>area</entry>
+ <entry/>
+ <entry>calcined</entry>
+ <entry>size</entry>
+ <entry>size</entry>
+ <entry>Ba/Ceria</entry>
+ <entry>NO<i>x</i></entry>
+ <entry>NO<i>x</i></entry>
+ </row>
+ <row>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry>of</entry>
+ <entry/>
+ <entry>4 h</entry>
+ <entry>As</entry>
+ <entry>Aged,</entry>
+ <entry>aged</entry>
+ <entry>Storage at</entry>
+ <entry>Storage at</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry>BaCO<sub>3</sub></entry>
+ <entry>CeO<sub>2</sub></entry>
+ <entry>Ceria</entry>
+ <entry>CeO<sub>2</sub></entry>
+ <entry>800&#xb0; C.</entry>
+ <entry>prepared</entry>
+ <entry>4 h 800&#xb0; C.</entry>
+ <entry>4 h 800&#xb0; C.</entry>
+ <entry>300&#xb0; C.</entry>
+ <entry>400&#xb0; C.</entry>
+ </row>
+ <row>
+ <entry>Sample</entry>
+ <entry>Wt %</entry>
+ <entry>wt %</entry>
+ <entry>(m<sup>2</sup>/g)</entry>
+ <entry>Crystallite (nm)</entry>
+ <entry>(m<sup>2</sup>/g)</entry>
+ <entry>(nm)</entry>
+ <entry>(nm)</entry>
+ <entry>(nm)</entry>
+ <entry>(g/l)</entry>
+ <entry>(g/l)</entry>
+ </row>
+ <row>
+ <entry namest="1" nameend="11" align="center" rowsep="1"/>
+ </row>
+ </thead>
+ <tbody valign="top">
+ <row>
+ <entry/>
+ </row>
+ </tbody>
+ </tgroup>
+ <tgroup align="left" colsep="0" rowsep="0" cols="11">
+ <colspec colname="1" colwidth="28pt" align="center"/>
+ <colspec colname="2" colwidth="28pt" align="center"/>
+ <colspec colname="3" colwidth="21pt" align="center"/>
+ <colspec colname="4" colwidth="28pt" align="center"/>
+ <colspec colname="5" colwidth="49pt" align="center"/>
+ <colspec colname="6" colwidth="35pt" align="char" char="."/>
+ <colspec colname="7" colwidth="35pt" align="center"/>
+ <colspec colname="8" colwidth="42pt" align="center"/>
+ <colspec colname="9" colwidth="42pt" align="center"/>
+ <colspec colname="10" colwidth="35pt" align="center"/>
+ <colspec colname="11" colwidth="35pt" align="center"/>
+ <tbody valign="top">
+ <row>
+ <entry>A</entry>
+ <entry>29</entry>
+ <entry>71</entry>
+ <entry>90</entry>
+ <entry>12</entry>
+ <entry>13</entry>
+ <entry>20</entry>
+ <entry>34</entry>
+ <entry>28</entry>
+ <entry>2.8</entry>
+ <entry>2.4</entry>
+ </row>
+ <row>
+ <entry>B</entry>
+ <entry>29</entry>
+ <entry>71</entry>
+ <entry>40</entry>
+ <entry>18</entry>
+ <entry>9</entry>
+ <entry>22</entry>
+ <entry>30</entry>
+ <entry>34</entry>
+ <entry>1.4</entry>
+ <entry>2.0</entry>
+ </row>
+ <row>
+ <entry>C</entry>
+ <entry>25</entry>
+ <entry>75</entry>
+ <entry>66</entry>
+ <entry>16</entry>
+ <entry>14</entry>
+ <entry>21</entry>
+ <entry>32</entry>
+ <entry>28</entry>
+ <entry>2.6</entry>
+ <entry>2.7</entry>
+ </row>
+ <row>
+ <entry>D</entry>
+ <entry>20</entry>
+ <entry>80</entry>
+ <entry>90</entry>
+ <entry>12</entry>
+ <entry>17</entry>
+ <entry>22</entry>
+ <entry>40</entry>
+ <entry>27</entry>
+ <entry>3.5</entry>
+ <entry>1.9</entry>
+ </row>
+ <row>
+ <entry>E</entry>
+ <entry>20</entry>
+ <entry>80</entry>
+ <entry>40</entry>
+ <entry>18</entry>
+ <entry>13</entry>
+ <entry>20</entry>
+ <entry>26</entry>
+ <entry>31</entry>
+ <entry>2.3</entry>
+ <entry>2.4</entry>
+ </row>
+ <row>
+ <entry namest="1" nameend="11" align="center" rowsep="1"/>
+ </row>
+ <row>
+ <entry namest="1" nameend="11" align="left" id="FOO-00001">550&#xb0; C. in air to decompose the impregnated Ba precursor into BaCO<sub>3</sub>.</entry>
+ </row>
+ </tbody>
+ </tgroup>
+ </table>
+ </tables>
+ </p>
+ <p id="p-0051" num="0050">After 800&#xb0; C. aging, the highest NOx storage activity at 400&#xb0; C. is obtained with sample C, having a medium Ba concentration and a CeO<sub>2 </sub>material with a medium BET surface area and crystallinity. A high BET surface area and relative low Ba concentration is especially beneficial for NOx storage at 300&#xb0; C. It is particularly interesting that sample D having the largest BaCO<sub>3 </sub>crystallite size after aging yields the best NOx storage at low temperature. In addition, increased Ba concentration resulted in decreased BET surface area and increase in CeO<sub>2 </sub>crystal size.</p>
+ <p id="p-0052" num="0051">
+ <tables id="TABLE-US-00002" num="00002">
+ <table frame="none" colsep="0" rowsep="0" pgwide="1">
+ <tgroup align="left" colsep="0" rowsep="0" cols="13">
+ <colspec colname="1" colwidth="21pt" align="center"/>
+ <colspec colname="2" colwidth="28pt" align="center"/>
+ <colspec colname="3" colwidth="21pt" align="center"/>
+ <colspec colname="4" colwidth="28pt" align="center"/>
+ <colspec colname="5" colwidth="35pt" align="center"/>
+ <colspec colname="6" colwidth="35pt" align="center"/>
+ <colspec colname="7" colwidth="42pt" align="center"/>
+ <colspec colname="8" colwidth="56pt" align="center"/>
+ <colspec colname="9" colwidth="35pt" align="center"/>
+ <colspec colname="10" colwidth="35pt" align="center"/>
+ <colspec colname="11" colwidth="35pt" align="center"/>
+ <colspec colname="12" colwidth="35pt" align="center"/>
+ <colspec colname="13" colwidth="35pt" align="center"/>
+ <thead>
+ <row>
+ <entry namest="1" nameend="13" rowsep="1">TABLE II</entry>
+ </row>
+ <row>
+ <entry namest="1" nameend="13" align="center" rowsep="1"/>
+ </row>
+ <row>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry>CeO<sub>2</sub></entry>
+ <entry/>
+ <entry/>
+ </row>
+ <row>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry>crystallite</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry>size</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry>of</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry>BaCO<sub>3</sub>/</entry>
+ <entry/>
+ <entry>CeO<sub>2</sub></entry>
+ <entry/>
+ <entry>BET</entry>
+ <entry>BaCO<sub>3</sub></entry>
+ <entry>Ceria</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry>BET</entry>
+ <entry>Ceria</entry>
+ <entry/>
+ <entry>crystallite</entry>
+ <entry/>
+ <entry>Ba/</entry>
+ <entry>crystallite</entry>
+ <entry>in Ba/</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry>surface</entry>
+ <entry>calcination</entry>
+ <entry>BET Ba/</entry>
+ <entry>size</entry>
+ <entry>BaCO<sub>3</sub></entry>
+ <entry>Ceria</entry>
+ <entry>size</entry>
+ <entry>Ceria</entry>
+ <entry>NO<i>x</i></entry>
+ <entry>NO<i>x</i></entry>
+ </row>
+ <row>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry>area</entry>
+ <entry>Temp &#xb0; C.</entry>
+ <entry>Ceria</entry>
+ <entry>of</entry>
+ <entry>Crystallite</entry>
+ <entry>aged</entry>
+ <entry>Aged,</entry>
+ <entry>aged</entry>
+ <entry>storage</entry>
+ <entry>storage</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry>of</entry>
+ <entry>(2 h after</entry>
+ <entry>after</entry>
+ <entry>Ceria in Ba/</entry>
+ <entry>size</entry>
+ <entry>4 h</entry>
+ <entry>4 h</entry>
+ <entry>4 h</entry>
+ <entry>at</entry>
+ <entry>at</entry>
+ </row>
+ <row>
+ <entry>Sam-</entry>
+ <entry>BaCO<sub>3</sub></entry>
+ <entry>CeO<sub>2</sub></entry>
+ <entry>Ceria</entry>
+ <entry>spray</entry>
+ <entry>calcination</entry>
+ <entry>Ceria</entry>
+ <entry>after</entry>
+ <entry>800&#xb0; C.</entry>
+ <entry>800&#xb0; C.</entry>
+ <entry>800&#xb0; C.</entry>
+ <entry>300&#xb0; C.</entry>
+ <entry>400&#xb0; C.</entry>
+ </row>
+ <row>
+ <entry>ple</entry>
+ <entry>Wt %</entry>
+ <entry>wt %</entry>
+ <entry>(m<sup>2</sup>/g)</entry>
+ <entry>drying)</entry>
+ <entry>(m<sup>2</sup>/g)</entry>
+ <entry>(nm)</entry>
+ <entry>calcinations (nm)</entry>
+ <entry>(m<sup>2</sup>/g)</entry>
+ <entry>(nm)</entry>
+ <entry>(nm)</entry>
+ <entry>(g/l)</entry>
+ <entry>(g/l)</entry>
+ </row>
+ <row>
+ <entry namest="1" nameend="13" align="center" rowsep="1"/>
+ </row>
+ </thead>
+ <tbody valign="top">
+ <row>
+ <entry/>
+ </row>
+ </tbody>
+ </tgroup>
+ <tgroup align="left" colsep="0" rowsep="0" cols="13">
+ <colspec colname="1" colwidth="21pt" align="center"/>
+ <colspec colname="2" colwidth="28pt" align="center"/>
+ <colspec colname="3" colwidth="21pt" align="center"/>
+ <colspec colname="4" colwidth="28pt" align="center"/>
+ <colspec colname="5" colwidth="35pt" align="center"/>
+ <colspec colname="6" colwidth="35pt" align="center"/>
+ <colspec colname="7" colwidth="42pt" align="char" char="."/>
+ <colspec colname="8" colwidth="56pt" align="center"/>
+ <colspec colname="9" colwidth="35pt" align="center"/>
+ <colspec colname="10" colwidth="35pt" align="center"/>
+ <colspec colname="11" colwidth="35pt" align="center"/>
+ <colspec colname="12" colwidth="35pt" align="center"/>
+ <colspec colname="13" colwidth="35pt" align="center"/>
+ <tbody valign="top">
+ <row>
+ <entry>F</entry>
+ <entry>29</entry>
+ <entry>71</entry>
+ <entry>200</entry>
+ <entry>550</entry>
+ <entry>66</entry>
+ <entry>9</entry>
+ <entry>18</entry>
+ <entry>17</entry>
+ <entry>37</entry>
+ <entry>29</entry>
+ <entry>2.0</entry>
+ <entry>1.7</entry>
+ </row>
+ <row>
+ <entry>G</entry>
+ <entry>29</entry>
+ <entry>71</entry>
+ <entry>200</entry>
+ <entry>650</entry>
+ <entry>54</entry>
+ <entry>10</entry>
+ <entry>28</entry>
+ <entry>16</entry>
+ <entry>40</entry>
+ <entry>26</entry>
+ <entry>3.5</entry>
+ <entry>1.8</entry>
+ </row>
+ <row>
+ <entry>H</entry>
+ <entry>29</entry>
+ <entry>71</entry>
+ <entry>200</entry>
+ <entry>750</entry>
+ <entry>21</entry>
+ <entry>24</entry>
+ <entry>40</entry>
+ <entry>16</entry>
+ <entry>45</entry>
+ <entry>28</entry>
+ <entry>2.5</entry>
+ <entry>2.7</entry>
+ </row>
+ <row>
+ <entry>I</entry>
+ <entry>29</entry>
+ <entry>71</entry>
+ <entry>200</entry>
+ <entry>850</entry>
+ <entry>14</entry>
+ <entry>33</entry>
+ <entry>37</entry>
+ <entry>12</entry>
+ <entry>40</entry>
+ <entry>32</entry>
+ <entry>1.1</entry>
+ <entry>1.3</entry>
+ </row>
+ <row>
+ <entry namest="1" nameend="13" align="center" rowsep="1"/>
+ </row>
+ </tbody>
+ </tgroup>
+ </table>
+ </tables>
+ </p>
+ <p id="p-0053" num="0052">In order to determine an optimum BaCO<sub>3</sub>/CeO<sub>2 </sub>composite, the Ba/CeO<sub>2 </sub>is calcined after Ba impregnation at different temperatures. This is done to decompose the Ba precursor to the carbonate and to conditioning the composite for optimum NOx adsorption capacity. The data in Table II demonstrates that a calcination temperature between 550 and 750&#xb0; C. after impregnation of Ba onto CeO<sub>2 </sub>provided the best results for NOx storage. The samples calcined within this temperature range had higher surface area and exhibited higher NOx storage after aging than a sample calcined at 850&#xb0; C. Furthermore, a BaCO<sub>3 </sub>crystallite size of between about 20-50 nm, for example, 45 nm, and a CeO<sub>2 </sub>crystallite size of between about 25-30 nm in combination with a sufficient BET surface area after aging yielded the highest NOx storage at 400&#xb0; C. According to the data in Tables I and II, an as-prepared BET surface area between 40-60 m<sup>2</sup>/g and a ceria crystal size between about 10- and 20 nm and a BaCO<sub>3 </sub>crystallite size of between about 20- and 40 nm yielded the best performance after aging.</p>
+ <p id="p-0054" num="0053">An example of a desirable morphology of spray dried and calcined BaCO<sub>3</sub>/CeO<sub>2 </sub>mixture is shown in the SEM image of <figref idref="DRAWINGS">FIG. 6</figref>. <figref idref="DRAWINGS">FIG. 6</figref> shows about 10-20 nm size CeO<sub>2 </sub>crystals agglomerated to particles of about 5-50 microns in size. Adhering to these about 5-50 micron size CeO<sub>2 </sub>particles are BaCO<sub>3 </sub>particles of about 20-150 nm size. The BaCO<sub>3 </sub>particles are likely agglomerates of smaller crystallites.</p>
+ <heading id="h-0017" level="1">Example 5</heading>
+ <heading id="h-0018" level="1">Ceria Type and Doping</heading>
+ <p id="p-0055" num="0054">Various types of ceria and doping with different materials were evaluated for effect on BET surface area and decomposition temperature of the barium carbonate. The decomposition temperature is the temperature at which Ba reacts with ceria to form BaCeO<sub>3</sub>. The samples below were prepared by an incipient wetness preparation instead of spray-drying prior to calcination. The results are shown in Table III:</p>
+ <p id="p-0056" num="0055">
+ <tables id="TABLE-US-00003" num="00003">
+ <table frame="none" colsep="0" rowsep="0" pgwide="1">
+ <tgroup align="left" colsep="0" rowsep="0" cols="6">
+ <colspec colname="offset" colwidth="14pt" align="left"/>
+ <colspec colname="1" colwidth="56pt" align="left"/>
+ <colspec colname="2" colwidth="56pt" align="center"/>
+ <colspec colname="3" colwidth="35pt" align="center"/>
+ <colspec colname="4" colwidth="28pt" align="center"/>
+ <colspec colname="5" colwidth="77pt" align="left"/>
+ <thead>
+ <row>
+ <entry/>
+ <entry namest="offset" nameend="5" rowsep="1">TABLE III</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry namest="offset" nameend="5" align="center" rowsep="1"/>
+ </row>
+ <row>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry>BET</entry>
+ <entry/>
+ </row>
+ <row>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry>surface</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry>BET</entry>
+ <entry>after</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry>surface</entry>
+ <entry>aging</entry>
+ <entry>phases observed</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry/>
+ <entry>Decomposition</entry>
+ <entry>as</entry>
+ <entry>at</entry>
+ <entry>by XRD after</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry/>
+ <entry>Temperature</entry>
+ <entry>prepared</entry>
+ <entry>950&#xb0; C.</entry>
+ <entry>thermal treatment</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry>Material</entry>
+ <entry>of BaCO<sub>3 </sub>(&#xb0; C.)</entry>
+ <entry>(m<sup>2</sup>/g)</entry>
+ <entry>(m<sup>2</sup>/g)</entry>
+ <entry>(950&#xb0; C.)</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry namest="offset" nameend="5" align="center" rowsep="1"/>
+ </row>
+ </thead>
+ <tbody valign="top">
+ <row>
+ <entry/>
+ </row>
+ </tbody>
+ </tgroup>
+ <tgroup align="left" colsep="0" rowsep="0" cols="6">
+ <colspec colname="1" colwidth="14pt" align="left"/>
+ <colspec colname="2" colwidth="56pt" align="left"/>
+ <colspec colname="3" colwidth="56pt" align="center"/>
+ <colspec colname="4" colwidth="35pt" align="center"/>
+ <colspec colname="5" colwidth="28pt" align="char" char="."/>
+ <colspec colname="6" colwidth="77pt" align="left"/>
+ <tbody valign="top">
+ <row>
+ <entry>A</entry>
+ <entry>(90% CeO<sub>2</sub>, 10%</entry>
+ <entry>914</entry>
+ <entry>13</entry>
+ <entry>1.8</entry>
+ <entry>BaCeO<sub>3</sub>, CeO<sub>2</sub>, BaCO<sub>3</sub></entry>
+ </row>
+ <row>
+ <entry/>
+ <entry>La) + 15% Ba</entry>
+ </row>
+ <row>
+ <entry>C</entry>
+ <entry>(57% CeO<sub>2</sub>, 43%</entry>
+ <entry>950</entry>
+ <entry>44</entry>
+ <entry>6</entry>
+ <entry>BaCeO<sub>3</sub>, CeO<sub>2</sub></entry>
+ </row>
+ <row>
+ <entry/>
+ <entry>Pr) + 15% Ba</entry>
+ </row>
+ <row>
+ <entry>D</entry>
+ <entry>(72% CeO<sub>2</sub>, 28%</entry>
+ <entry>770</entry>
+ <entry>31</entry>
+ <entry>6</entry>
+ <entry>BaCeO<sub>3</sub>, CeO<sub>2</sub></entry>
+ </row>
+ <row>
+ <entry/>
+ <entry>La) + 15% Ba</entry>
+ </row>
+ <row>
+ <entry>B</entry>
+ <entry>(90% CeO<sub>2</sub>, 10%</entry>
+ <entry>945</entry>
+ <entry>30</entry>
+ <entry>6.6</entry>
+ <entry>BaCeO<sub>3</sub>, CeO<sub>2</sub>, BaCO<sub>3</sub></entry>
+ </row>
+ <row>
+ <entry/>
+ <entry>La) + 15% Ba</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry>(Example 5B)</entry>
+ </row>
+ <row>
+ <entry>E</entry>
+ <entry>(95% CeO<sub>2</sub>, 5%</entry>
+ <entry>945</entry>
+ <entry>25</entry>
+ <entry>10</entry>
+ <entry>BaCeO<sub>3</sub>, CeO<sub>2</sub>, BaCO<sub>3</sub></entry>
+ </row>
+ <row>
+ <entry/>
+ <entry>La) + 15% Ba</entry>
+ </row>
+ <row>
+ <entry>F</entry>
+ <entry>(90% CeO<sub>2</sub>, 10%</entry>
+ <entry>945</entry>
+ <entry>30</entry>
+ <entry>10</entry>
+ <entry>BaCeO<sub>3</sub>, CeO<sub>2</sub>, BaCO<sub>3</sub></entry>
+ </row>
+ <row>
+ <entry/>
+ <entry>La) + 15% Ba</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry>(Example 5F)</entry>
+ </row>
+ <row>
+ <entry>G</entry>
+ <entry>(100% CeO<sub>2</sub>) +</entry>
+ <entry>942</entry>
+ <entry>41</entry>
+ <entry>13</entry>
+ <entry>BaCeO<sub>3</sub>, CeO<sub>2</sub>, BaCO<sub>3</sub></entry>
+ </row>
+ <row>
+ <entry/>
+ <entry>15% Ba</entry>
+ </row>
+ <row>
+ <entry>H</entry>
+ <entry>(91% CeO<sub>2</sub>, 9%</entry>
+ <entry>950</entry>
+ <entry>86</entry>
+ <entry>16</entry>
+ <entry>BaCeO<sub>3</sub>, CeO<sub>2</sub></entry>
+ </row>
+ <row>
+ <entry/>
+ <entry>Pr) + 15% Ba</entry>
+ </row>
+ <row>
+ <entry namest="1" nameend="6" align="center" rowsep="1"/>
+ </row>
+ </tbody>
+ </tgroup>
+ </table>
+ </tables>
+ </p>
+ <p id="p-0057" num="0056">According to the data in table III, doping ceria with La or Pr to a level of 10% does not influence the decomposition temperature of BaCO<sub>3</sub>. Only sample D with 28% La has a much lower temperature of BaCO<sub>3 </sub>decomposition while sample C even with 43% of Pr has a high resistance towards reaction with BaCO<sub>3</sub>.</p>
+ <p id="p-0058" num="0057">The preferred BaCO<sub>3</sub>/CeO<sub>2</sub>/dopand material should have a BET surface area&#x3e;10 m<sup>2</sup>/g after aging and a high resistance towards reaction to BaCO<sub>3 </sub>as shown in table III.</p>
+ <heading id="h-0019" level="1">Example 6</heading>
+ <heading id="h-0020" level="1">Precious Metal Support</heading>
+ <p id="p-0059" num="0058">Various alumina supports were evaluated for stability. It was found that the support material for the precious metal tends to react with BaCO<sub>3 </sub>at a certain temperature. If this temperature for a specific material is reached most or all of the BaCO3 has formed a compound with the support material and this compound has much diminished tendency to adsorb NOx compared to BaCO<sub>3</sub>.</p>
+ <p id="p-0060" num="0059">The table below shows a list of different support materials derived from ZrO<sub>2 </sub>or Al<sub>2</sub>O<sub>3</sub>. Materials A and B show higher BaCO<sub>3 </sub>decomposition temperature than pure or La, Ba or ZrO<sub>2 </sub>doped aluminas. However the surface area of those materials is relatively small compared to other doped or undoped materials. Furthermore, it was found that the higher the surface area of a material in presence of Ba the higher is the NOx storage capacity of an aged catalyst containing this material.</p>
+ <p id="p-0061" num="0060">In particular, it was found that ZrO<sub>2 </sub>doped aluminas and also La and ZrO<sub>2 </sub>doped materials have very thermally stable surface areas in presence of Ba. The preferred alumina should have a BET surface area of 150-250 m<sup>2</sup>/g, a pore volume of 0.3-0.8 ml/g an average pore size of 3-20 nm.</p>
+ <p id="p-0062" num="0061">
+ <tables id="TABLE-US-00004" num="00004">
+ <table frame="none" colsep="0" rowsep="0" pgwide="1">
+ <tgroup align="left" colsep="0" rowsep="0" cols="6">
+ <colspec colname="offset" colwidth="14pt" align="left"/>
+ <colspec colname="1" colwidth="77pt" align="left"/>
+ <colspec colname="2" colwidth="56pt" align="center"/>
+ <colspec colname="3" colwidth="35pt" align="center"/>
+ <colspec colname="4" colwidth="28pt" align="center"/>
+ <colspec colname="5" colwidth="77pt" align="left"/>
+ <thead>
+ <row>
+ <entry/>
+ <entry namest="offset" nameend="5" rowsep="1">TABLE IV</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry namest="offset" nameend="5" align="center" rowsep="1"/>
+ </row>
+ <row>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry>BET</entry>
+ <entry/>
+ <entry/>
+ </row>
+ <row>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry>surface</entry>
+ <entry>BET</entry>
+ <entry>phases</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry/>
+ <entry>Decomposition</entry>
+ <entry>as</entry>
+ <entry>after</entry>
+ <entry>observed by</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry>Al<sub>2</sub>O<sub>3</sub>/ZrO<sub>2 </sub>derived</entry>
+ <entry>temperature</entry>
+ <entry>prepared</entry>
+ <entry>4 h</entry>
+ <entry>XRD</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry>support + 15% BaO</entry>
+ <entry>of BaCO<sub>3 </sub>(&#xb0; C.)</entry>
+ <entry>(m<sup>2</sup>/g)</entry>
+ <entry>900&#xb0; C.</entry>
+ <entry>after thermal treatment</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry namest="offset" nameend="5" align="center" rowsep="1"/>
+ </row>
+ </thead>
+ <tbody valign="top">
+ <row>
+ <entry/>
+ </row>
+ </tbody>
+ </tgroup>
+ <tgroup align="left" colsep="0" rowsep="0" cols="6">
+ <colspec colname="1" colwidth="14pt" align="left"/>
+ <colspec colname="2" colwidth="77pt" align="left"/>
+ <colspec colname="3" colwidth="56pt" align="center"/>
+ <colspec colname="4" colwidth="35pt" align="char" char="."/>
+ <colspec colname="5" colwidth="28pt" align="char" char="."/>
+ <colspec colname="6" colwidth="77pt" align="left"/>
+ <tbody valign="top">
+ <row>
+ <entry>A</entry>
+ <entry>(92% ZrO<sub>2</sub>, 8% La<sub>2</sub>O<sub>3</sub>)</entry>
+ <entry>820</entry>
+ <entry>36</entry>
+ <entry/>
+ <entry>BaZrO<sub>3</sub>, BaCO<sub>3</sub>, ZrO<sub>2</sub></entry>
+ </row>
+ <row>
+ <entry>B</entry>
+ <entry>(31% MgO, 69%</entry>
+ <entry>830</entry>
+ <entry>64</entry>
+ <entry>39</entry>
+ <entry>MgAl<sub>2</sub>O<sub>4</sub>, BaAl<sub>2</sub>O<sub>4</sub></entry>
+ </row>
+ <row>
+ <entry/>
+ <entry>Al<sub>2</sub>O<sub>3</sub>)</entry>
+ </row>
+ <row>
+ <entry>C</entry>
+ <entry>(20% Ba, 80% Al<sub>2</sub>O<sub>3</sub>)</entry>
+ <entry>740</entry>
+ <entry>101.3</entry>
+ <entry>61</entry>
+ <entry>BaCO<sub>3</sub>, BaAl<sub>2</sub>O<sub>4</sub></entry>
+ </row>
+ <row>
+ <entry>D</entry>
+ <entry>(4% La, 20% ZrO<sub>2</sub>, 76%</entry>
+ <entry>736</entry>
+ <entry>96</entry>
+ <entry/>
+ <entry>CeO<sub>2</sub>, Al<sub>2</sub>O<sub>3,</sub></entry>
+ </row>
+ <row>
+ <entry/>
+ <entry>Al2O<sub>3</sub>)</entry>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry>BaAl<sub>2</sub>O<sub>4,</sub></entry>
+ </row>
+ <row>
+ <entry>E</entry>
+ <entry>(100% Al<sub>2</sub>O<sub>3</sub>)</entry>
+ <entry>765</entry>
+ <entry>73.6</entry>
+ <entry>67.9</entry>
+ <entry>Al<sub>2</sub>O<sub>3</sub>, ZrO<sub>2</sub></entry>
+ </row>
+ <row>
+ <entry>F</entry>
+ <entry>(90% Al<sub>2</sub>O<sub>3 </sub>+ 10%</entry>
+ <entry>730</entry>
+ <entry>81</entry>
+ <entry>73</entry>
+ <entry>CeO<sub>2</sub>, BaAl<sub>2</sub>O<sub>4</sub></entry>
+ </row>
+ <row>
+ <entry/>
+ <entry>CeO<sub>2</sub>)</entry>
+ </row>
+ <row>
+ <entry>G</entry>
+ <entry>(30% ZrO<sub>2</sub>, 70% Al<sub>2</sub>O<sub>3</sub>)</entry>
+ <entry>740</entry>
+ <entry>88</entry>
+ <entry/>
+ <entry>BaAl<sub>2</sub>O<sub>4</sub>, ZrO<sub>2</sub></entry>
+ </row>
+ <row>
+ <entry>H</entry>
+ <entry>(20% Ba, 80% Al<sub>2</sub>O<sub>3</sub>)</entry>
+ <entry>695</entry>
+ <entry>156</entry>
+ <entry>83</entry>
+ <entry>BaAl<sub>2</sub>O<sub>4</sub></entry>
+ </row>
+ <row>
+ <entry>I</entry>
+ <entry>(82% Al<sub>2</sub>O<sub>3</sub>, 11% CeO<sub>2</sub>,</entry>
+ <entry>720</entry>
+ <entry>118</entry>
+ <entry>80</entry>
+ <entry>Al<sub>2</sub>O<sub>3</sub>, BaCO<sub>3</sub></entry>
+ </row>
+ <row>
+ <entry/>
+ <entry>7% ZrO<sub>2</sub>)</entry>
+ </row>
+ <row>
+ <entry>J</entry>
+ <entry>(100% Al<sub>2</sub>O<sub>3</sub>)</entry>
+ <entry>720</entry>
+ <entry>116</entry>
+ <entry>106</entry>
+ <entry>BaAl<sub>2</sub>O<sub>4</sub></entry>
+ </row>
+ <row>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry>MgAl<sub>2</sub>O<sub>4</sub>, BaAl<sub>2</sub>O<sub>4</sub>,</entry>
+ </row>
+ <row>
+ <entry>K</entry>
+ <entry>(72% Al<sub>2</sub>O<sub>3</sub>, 28% Mg)</entry>
+ <entry>750</entry>
+ <entry>130</entry>
+ <entry>100</entry>
+ <entry>BaCO<sub>3</sub></entry>
+ </row>
+ <row>
+ <entry>L</entry>
+ <entry>(90% Al<sub>2</sub>O<sub>3</sub>, 10% ZrO<sub>2</sub>)</entry>
+ <entry>700</entry>
+ <entry>133.5</entry>
+ <entry/>
+ <entry>BaAl<sub>2</sub>O<sub>4</sub>, Al<sub>2</sub>O<sub>3</sub></entry>
+ </row>
+ <row>
+ <entry>M</entry>
+ <entry>(80% Al<sub>2</sub>O<sub>3</sub>, 20%</entry>
+ <entry>720</entry>
+ <entry>133</entry>
+ <entry>100</entry>
+ <entry>CeO<sub>2</sub>, Al<sub>2</sub>O<sub>3</sub></entry>
+ </row>
+ <row>
+ <entry/>
+ <entry>CeO<sub>2</sub>)</entry>
+ </row>
+ <row>
+ <entry>N</entry>
+ <entry>(80% Al<sub>2</sub>O<sub>3</sub>, 20% ZrO<sub>2</sub>)</entry>
+ <entry>720</entry>
+ <entry>121.7</entry>
+ <entry>100.5</entry>
+ <entry>Al<sub>2</sub>O<sub>3</sub>, ZrO<sub>2</sub></entry>
+ </row>
+ <row>
+ <entry>O</entry>
+ <entry>(4% La/15% ZrO<sub>2</sub>)</entry>
+ <entry>700</entry>
+ <entry>126</entry>
+ <entry/>
+ <entry>BaAl<sub>2</sub>O<sub>4</sub>, ZrO<sub>2</sub>, Al<sub>2</sub>O<sub>3</sub></entry>
+ </row>
+ <row>
+ <entry>P</entry>
+ <entry>(21% Mg, 10% Zr, 69%</entry>
+ <entry>730</entry>
+ <entry>142</entry>
+ <entry/>
+ <entry>BaCO<sub>3</sub>, MgAl<sub>2</sub>O<sub>4</sub>, ZrO<sub>2</sub></entry>
+ </row>
+ <row>
+ <entry/>
+ <entry>Al<sub>2</sub>O<sub>3</sub>)</entry>
+ </row>
+ <row>
+ <entry>Q</entry>
+ <entry>(97% Al<sub>2</sub>O<sub>3</sub>, 3% La)</entry>
+ <entry>720</entry>
+ <entry>152</entry>
+ <entry>121</entry>
+ <entry>Al<sub>2</sub>O<sub>3</sub></entry>
+ </row>
+ <row>
+ <entry>R</entry>
+ <entry>(75% Al<sub>2</sub>O<sub>3 </sub>25% ZrO<sub>2</sub>)</entry>
+ <entry>700</entry>
+ <entry>135</entry>
+ <entry/>
+ <entry>ZrO<sub>2</sub>, Al<sub>2</sub>O<sub>3</sub>, BaCO<sub>3</sub></entry>
+ </row>
+ <row>
+ <entry>S</entry>
+ <entry>(90% Al<sub>2</sub>O<sub>3 </sub>10% ZrO<sub>2</sub>)</entry>
+ <entry>700</entry>
+ <entry>154</entry>
+ <entry>124.1</entry>
+ <entry>Al<sub>2</sub>O<sub>3</sub>, BaCO<sub>3</sub>, BaAl<sub>2</sub>O<sub>4</sub></entry>
+ </row>
+ <row>
+ <entry>T</entry>
+ <entry>(85% Al<sub>2</sub>O<sub>3 </sub>15% ZrO<sub>2</sub>)</entry>
+ <entry>700</entry>
+ <entry>142</entry>
+ <entry/>
+ <entry>ZrO<sub>2</sub>, Al<sub>2</sub>O<sub>3</sub>, BaCO<sub>3</sub></entry>
+ </row>
+ <row>
+ <entry>U</entry>
+ <entry>(74.6% Al<sub>2</sub>O<sub>3</sub>, 0.4%</entry>
+ <entry>748</entry>
+ <entry>156</entry>
+ <entry>132</entry>
+ <entry>BaAl<sub>2</sub>O<sub>4</sub>, Al<sub>2</sub>O<sub>3</sub>, ZrO<sub>2</sub>,</entry>
+ </row>
+ <row>
+ <entry/>
+ <entry>La/15% ZrO<sub>2</sub>)</entry>
+ <entry/>
+ <entry/>
+ <entry/>
+ <entry>BaCO<sub>3</sub></entry>
+ </row>
+ <row>
+ <entry namest="1" nameend="6" align="center" rowsep="1"/>
+ </row>
+ </tbody>
+ </tgroup>
+ </table>
+ </tables>
+ </p>
+ <heading id="h-0021" level="1">Example 7</heading>
+ <heading id="h-0022" level="1">Optimization of Aged NOx Storage Capacity</heading>
+ <p id="p-0063" num="0062">Various samples were tested for aged NOx storage capacity for samples aged at 850&#xb0; C. in an oven with 10% steam in air. A sample prepared in accordance with comparative Example 1 having the NOx sorbent samples with BaCO<sub>3</sub>/CeO<sub>2 </sub>concentration of sample C in Table I but spray dried and calcined to different surface areas as indicated (Example 7A=41 m<sup>2</sup>/g and Example 7B=52 m<sup>2</sup>/g). In addition, samples and B and F from table III were tested after spray drying with barium, preparing in accordance with Example 1 and aging in a laboratory reactor. The results shown in <figref idref="DRAWINGS">FIG. 2</figref> demonstrate the spray dried and calcined material 7B, with a BET surface area of 52 m<sup>2</sup>/g exhibited the highest NOx storage capacity, while the other samples had similar performance. According to these tests, there is no benefit associated with doping ceria with 10% of La.</p>
+ <p id="p-0064" num="0063">Various samples were tested for aged NOx storage capacity for samples aged at 850&#xb0; C. for 50 hours in an engine at stoichiometric air fuel ratio. In this case, the evaluation has been done at an engine. Samples prepared in accordance with comparative Example 2 (NOx sorbent prepared by impregnation), by spray drying and by spray drying with optimized BET surface area were prepared. The results shown in <figref idref="DRAWINGS">FIG. 3</figref> demonstrate the spray-dried sample exhibited superior results, particularly the sample with optimized BET surface area.</p>
+ <heading id="h-0023" level="1">Example 8</heading>
+ <p id="p-0065" num="0064">The effect of the refractory oxide to support the precious metal component of the catalyst was also tested. Samples N (Example 8A) and O (Example 8B) from Table IV above were prepared into fully formulated catalysts and tested for NOx storage capacity after aging for 50 hours at 850&#xb0; C. under stoichiometric conditions. <figref idref="DRAWINGS">FIG. 4</figref> shows that the lanthana and zirconia doped sample (Example O) exhibited the best results between 250 and 400&#xb0; C. Similar results were observed for sample N aged 50 hours at 750&#xb0; C. (Example 8C) and sample O aged 50 hours at 750&#xb0; C. (Example 8D) at a lean air fuel ratio, and these results are shown in <figref idref="DRAWINGS">FIG. 5</figref>.</p>
+ <p id="p-0066" num="0065">It will be apparent to those skilled in the art that various modifications and variations can be made to the present invention without departing from the spirit or scope of the invention. Thus, it is intended that the present invention cover modifications and variations of this invention provided they come within the scope of the appended claims and their equivalents.</p>
+ <?DETDESC description="Detailed Description" end="tail"?>
+ </description>
+ <us-math idrefs="MATH-US-00001" nb-file="US08022010-20110920-M00001.NB">
+ <img id="EMI-M00001" he="7.79mm" wi="76.20mm" file="US08022010-20110920-M00001.TIF" alt="embedded image " img-content="math" img-format="tif"/>
+ </us-math>
+ <us-claim-statement>What is claimed is:</us-claim-statement>
+ <claims id="claims">
+ <claim id="CLM-00001" num="00001">
+ <claim-text>1. A method of making a nitrogen oxide storage material, comprising mixing a solution of barium with ceria, spray drying the solution of barium mixed with ceria to obtain a solid mixture of barium and ceria, and heating the solid mixture to obtain a material comprising ceria particles having barium supported thereon.</claim-text>
+ </claim>
+ <claim id="CLM-00002" num="00002">
+ <claim-text>2. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the ceria has a surface area of between about 50 and about 150 m<sup>2</sup>/g prior to spray drying.</claim-text>
+ </claim>
+ <claim id="CLM-00003" num="00003">
+ <claim-text>3. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the solution of barium comprises barium acetate.</claim-text>
+ </claim>
+ <claim id="CLM-00004" num="00004">
+ <claim-text>4. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the solution of barium mixed with ceria is spray dried at a temperature of between about 90&#xb0; C. and 120&#xb0; C.</claim-text>
+ </claim>
+ <claim id="CLM-00005" num="00005">
+ <claim-text>5. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the solid mixture is heated at a temperature of between about 550&#xb0; C. and 800&#xb0; C. for about 2 hours.</claim-text>
+ </claim>
+ <claim id="CLM-00006" num="00006">
+ <claim-text>6. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the barium in the nitrogen oxide storage material includes BaCO<sub>3</sub>, and the ceria in the nitrogen oxide storage material includes CeO<sub>2</sub>.</claim-text>
+ </claim>
+ <claim id="CLM-00007" num="00007">
+ <claim-text>7. The method of <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the barium carbonate and the ceria are present in the nitrogen oxide storage material in a weight ratio of between about 1:3 and 1:5.</claim-text>
+ </claim>
+ <claim id="CLM-00008" num="00008">
+ <claim-text>8. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the ceria in the nitrogen oxide storage material has a crystallite size of between about 10 and 20 nm.</claim-text>
+ </claim>
+ <claim id="CLM-00009" num="00009">
+ <claim-text>9. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the barium in the nitrogen oxide storage material has a crystallite size of between about 20 and 40 nm.</claim-text>
+ </claim>
+ <claim id="CLM-00010" num="00010">
+ <claim-text>10. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the nitrogen oxide storage material has a particle size between about 5 and 50 microns.</claim-text>
+ </claim>
+ <claim id="CLM-00011" num="00011">
+ <claim-text>11. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the nitrogen oxide storage material has a surface area between about 30 and 80 m<sup>2</sup>/g.</claim-text>
+ </claim>
+ <claim id="CLM-00012" num="00012">
+ <claim-text>12. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising mixing the nitrogen oxide storage material with a precious metal supported on a refractory oxide.</claim-text>
+ </claim>
+ <claim id="CLM-00013" num="00013">
+ <claim-text>13. The method of <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein the precious metal is selected from the group consisting of platinum, palladium, rhodium, iridium, and mixtures thereof; and wherein the refractory oxide is selected from the group consisting of aluminum oxide, mixed aluminum oxide and zirconium oxide, mixed aluminum oxide and lanthanum oxide, mixed aluminum oxide and cerium oxide, mixed aluminum oxide and magnesium oxide, aluminum oxide mixed with one or more of zirconia and lanthana, and mixtures thereof.</claim-text>
+ </claim>
+ <claim id="CLM-00014" num="00014">
+ <claim-text>14. The method of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the aluminum oxide has a surface area between 150 and 250 m<sup>2</sup>/g, a pore volume between 0.3 and 0.8 ml/g, and pore size of between 3 and 20 nm.</claim-text>
+ </claim>
+ <claim id="CLM-00015" num="00015">
+ <claim-text>15. The method of <claim-ref idref="CLM-00012">claim 12</claim-ref>, wherein the mixture of nitrogen oxide storage material and precious metal supported on a refractory oxide are milled to a D<sub>90 </sub>particle size of 11 microns.</claim-text>
+ </claim>
+ <claim id="CLM-00016" num="00016">
+ <claim-text>16. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising coating the nitrogen oxide storage material on a substrate.</claim-text>
+ </claim>
+ <claim id="CLM-00017" num="00017">
+ <claim-text>17. The method of <claim-ref idref="CLM-00016">claim 16</claim-ref>, wherein the substrate is a metallic or ceramic honeycomb structure.</claim-text>
+ </claim>
+ <claim id="CLM-00018" num="00018">
+ <claim-text>18. The method of <claim-ref idref="CLM-00017">claim 17</claim-ref>, further comprising placing the coated metallic or ceramic honeycomb structure in the fluid path of an exhaust gas stream comprising nitrogen oxide derived from a lean-burn gasoline or diesel engine.</claim-text>
+ </claim>
+ <claim id="CLM-00019" num="00019">
+ <claim-text>19. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the nitrogen oxide storage material exhibits an improved nitrogen oxide storage capacity after aging at 850&#xb0; C. for 50 hours at a stoichiometric air fuel ratio compared with a nitrogen storage material having non-spray-dried ceria particles having barium supported thereon.</claim-text>
+ </claim>
+ <claim id="CLM-00020" num="00020">
+ <claim-text>20. The method of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein the refractory oxide has a surface area of between about 5 and about 350 m<sup>2</sup>/g. </claim-text>
+ </claim>
+ </claims>
+ </us-patent-grant>
+ 

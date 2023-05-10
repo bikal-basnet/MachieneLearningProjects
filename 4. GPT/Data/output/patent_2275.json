@@ -1,0 +1,580 @@
+{
+    "meta": {
+        "doc_number": "08022010",
+        "invention_title": "NOx storage materials and traps resistant to thermal aging"
+    },
+    "measurement and values": [
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "MgO"
+                },
+                {
+                    "chemical compound": "CaO"
+                },
+                {
+                    "chemical compound": "SrO"
+                },
+                {
+                    "chemical compound": "BaO"
+                },
+                {
+                    "chemical compound": "LiO"
+                },
+                {
+                    "chemical compound": "NaO"
+                },
+                {
+                    "chemical compound": "KO"
+                },
+                {
+                    "chemical compound": "RbO"
+                },
+                {
+                    "chemical compound": "CsO"
+                },
+                {
+                    "chemical compound": "Rare Earth Metal Oxides"
+                }
+            ],
+            "dimension": "NOx storage",
+            "measurement unit": "",
+            "measured value low": "",
+            "measured value high": ""
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Baria"
+                }
+            ],
+            "dimension": "crystallite size",
+            "measurement unit": "nm",
+            "measured value low": "20",
+            "measured value high": "40"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Ceria"
+                }
+            ],
+            "dimension": "crystallite size",
+            "measurement unit": "nm",
+            "measured value low": "10",
+            "measured value high": "20"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Mg"
+                },
+                {
+                    "chemical compound": "Sr"
+                },
+                {
+                    "chemical compound": "Ca"
+                }
+            ],
+            "dimension": "crystallite size",
+            "measurement unit": "nm",
+            "measured value low": "20",
+            "measured value high": "40"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Aluminum Oxide"
+                },
+                {
+                    "chemical compound": "Mixed Aluminum Oxide"
+                },
+                {
+                    "chemical compound": "Zirconium Oxide"
+                },
+                {
+                    "chemical compound": "Mixed Aluminum Oxide and Lanthanum Oxide"
+                },
+                {
+                    "chemical compound": "Mixed Aluminum Oxide and Cerium Oxide"
+                },
+                {
+                    "chemical compound": "Mixed Aluminum Oxide and Magnesium Oxide"
+                },
+                {
+                    "chemical compound": "Alumina Oxide Mixed with one or more of Zirconia and Lanthana"
+                }
+            ],
+            "dimension": "BET surface area",
+            "measurement unit": "m<sup>2</sup>/g",
+            "measured value low": "30",
+            "measured value high": "80"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Platinum"
+                },
+                {
+                    "chemical compound": "Palladium"
+                },
+                {
+                    "chemical compound": "Rhodium"
+                },
+                {
+                    "chemical compound": "Iridium"
+                }
+            ],
+            "dimension": "precious metal catalytic component",
+            "measurement unit": "",
+            "measured value low": "",
+            "measured value high": ""
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "BaCO<sub>3"
+                }
+            ],
+            "dimension": "crystallite size",
+            "measurement unit": "nm",
+            "measured value low": "10",
+            "measured value high": "20"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "CeO<sub>2"
+                }
+            ],
+            "dimension": "crystallite size",
+            "measurement unit": "nm",
+            "measured value low": "20",
+            "measured value high": "40"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "BaCO<sub>3"
+                }
+            ],
+            "dimension": "NOx storage material",
+            "measurement unit": "",
+            "measured value low": "",
+            "measured value high": ""
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "CeO<sub>2"
+                }
+            ],
+            "dimension": "refractory metal oxide support",
+            "measurement unit": "m<sup>2</sup>/g",
+            "measured value low": "5",
+            "measured value high": "350"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Platinum"
+                },
+                {
+                    "chemical compound": "Palladium"
+                },
+                {
+                    "chemical compound": "Rhodium"
+                }
+            ],
+            "dimension": "precious metal component",
+            "measurement unit": "g/ft<sup>3</sup>",
+            "measured value low": "20",
+            "measured value high": "200"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "DOC"
+                },
+                {
+                    "chemical compound": "CSF"
+                }
+            ],
+            "dimension": "position",
+            "measurement unit": "",
+            "measured value low": "",
+            "measured value high": ""
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "NOx-trap catalyst"
+                }
+            ],
+            "dimension": "directly onto filter media",
+            "measurement unit": "",
+            "measured value low": "",
+            "measured value high": ""
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "refractory metal oxide support material"
+                },
+                {
+                    "chemical compound": "precious metal"
+                },
+                {
+                    "chemical compound": "noble metals"
+                },
+                {
+                    "chemical compound": "base metals"
+                },
+                {
+                    "chemical compound": "NOx storage material"
+                },
+                {
+                    "chemical compound": "sorbent"
+                },
+                {
+                    "chemical compound": "stabilizer precursor"
+                },
+                {
+                    "chemical compound": "base metal nitrate"
+                }
+            ],
+            "dimension": "manufacturing",
+            "measurement unit": "",
+            "measured value low": "",
+            "measured value high": ""
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "magnesium component"
+                },
+                {
+                    "chemical compound": "magnesium salt"
+                }
+            ],
+            "dimension": "immersed into slurry",
+            "measurement unit": "",
+            "measured value low": "",
+            "measured value high": ""
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "BaCO<sub>3"
+                }
+            ],
+            "dimension": "crystallite size",
+            "measurement unit": "nm",
+            "measured value low": "2",
+            "measured value high": "2"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "CeO<sub>2"
+                }
+            ],
+            "dimension": "crystallite size",
+            "measurement unit": "nm",
+            "measured value low": "2",
+            "measured value high": "2"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "BaCO<sub>3"
+                }
+            ],
+            "dimension": "particle size",
+            "measurement unit": "micron",
+            "measured value low": "5",
+            "measured value high": "50"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "BaCO<sub>3"
+                }
+            ],
+            "dimension": "BET surface area",
+            "measurement unit": "m<sup>2</sup>/g",
+            "measured value low": "30",
+            "measured value high": "80"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Pt"
+                },
+                {
+                    "chemical compound": "Rh"
+                }
+            ],
+            "dimension": "weight",
+            "measurement unit": "percent",
+            "measured value low": "1.8",
+            "measured value high": "1.8"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Pd"
+                }
+            ],
+            "dimension": "weight",
+            "measurement unit": "percent",
+            "measured value low": "0.1",
+            "measured value high": "0.1"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Al<sub>2</sub>O<sub>3"
+                }
+            ],
+            "dimension": "weight",
+            "measurement unit": "percent",
+            "measured value low": "34",
+            "measured value high": "34"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Pd"
+                }
+            ],
+            "dimension": "weight",
+            "measurement unit": "percent",
+            "measured value low": "9",
+            "measured value high": "9"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "ZrO<sub>2</sub>"
+                }
+            ],
+            "dimension": "weight",
+            "measurement unit": "percent",
+            "measured value low": "3",
+            "measured value high": "3"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "MgO"
+                }
+            ],
+            "dimension": "weight",
+            "measurement unit": "percent",
+            "measured value low": "9",
+            "measured value high": "9"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "BaCO<sub>3</sub>/CeO<sub>2</sub>"
+                }
+            ],
+            "dimension": "weight",
+            "measurement unit": "percent",
+            "measured value low": "45",
+            "measured value high": "45"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "BaCO<sub>3</sub>/CeO<sub>2</sub>"
+                }
+            ],
+            "dimension": "particle size",
+            "measurement unit": "micron",
+            "measured value low": "11",
+            "measured value high": "11"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Al<sub>2</sub>O<sub>3</sub>"
+                }
+            ],
+            "dimension": "particle size",
+            "measurement unit": "micron",
+            "measured value low": "1",
+            "measured value high": "20"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "BaCO<sub>3</sub>"
+                }
+            ],
+            "dimension": "loading",
+            "measurement unit": "g/in<sup>3</sup>",
+            "measured value low": "4",
+            "measured value high": "6.5"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "BaCO<sub>3</sub>"
+                }
+            ],
+            "dimension": "coating thickness",
+            "measurement unit": "micron",
+            "measured value low": "3",
+            "measured value high": "30"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "BaCO<sub>3"
+                }
+            ],
+            "dimension": "Ba concentration",
+            "measurement unit": "",
+            "measured value low": "",
+            "measured value high": ""
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "CeO<sub>2"
+                }
+            ],
+            "dimension": "calcination temperature",
+            "measurement unit": "\u00b0C",
+            "measured value low": "550",
+            "measured value high": "750"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "BaCO<sub>3"
+                }
+            ],
+            "dimension": "crystallite size",
+            "measurement unit": "nm",
+            "measured value low": "20",
+            "measured value high": "40"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "CeO<sub>2"
+                }
+            ],
+            "dimension": "crystallite size",
+            "measurement unit": "nm",
+            "measured value low": "10",
+            "measured value high": "20"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "BaCO<sub>3"
+                }
+            ],
+            "dimension": "particle size",
+            "measurement unit": "microns",
+            "measured value low": "5",
+            "measured value high": "50"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "BaCO<sub>3"
+                }
+            ],
+            "dimension": "BET surface area",
+            "measurement unit": "m<sup>2</sup>/g",
+            "measured value low": "40",
+            "measured value high": "60"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "CeO<sub>2"
+                }
+            ],
+            "dimension": "particle size",
+            "measurement unit": "microns",
+            "measured value low": "5",
+            "measured value high": "50"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "BaCO<sub>3"
+                }
+            ],
+            "dimension": "particle size",
+            "measurement unit": "nm",
+            "measured value low": "20",
+            "measured value high": "150"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "BaCO<sub>3"
+                }
+            ],
+            "dimension": "BET surface area",
+            "measurement unit": "m<sup>2</sup>/g",
+            "measured value low": "10",
+            "measured value high": "250"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "BaCO<sub>3"
+                }
+            ],
+            "dimension": "decomposition temperature",
+            "measurement unit": "\u00b0C",
+            "measured value low": "850",
+            "measured value high": "850"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "CeO<sub>2</sub>"
+                }
+            ],
+            "dimension": "BET surface area",
+            "measurement unit": "m<sup>2</sup>/g",
+            "measured value low": "41",
+            "measured value high": "52"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "La"
+                }
+            ],
+            "dimension": "concentration",
+            "measurement unit": "%",
+            "measured value low": "10",
+            "measured value high": "10"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "N"
+                },
+                {
+                    "chemical compound": "O"
+                }
+            ],
+            "dimension": "NOx storage capacity",
+            "measurement unit": "",
+            "measured value low": "250",
+            "measured value high": "400"
+        }
+    ]
+}

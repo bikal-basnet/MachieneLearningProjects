@@ -1,0 +1,286 @@
+{
+    "meta": {
+        "doc_number": "08022119",
+        "invention_title": "Epoxy and silane group-containing oligomers and polymers and a method for the production and the use thereof"
+    },
+    "measurement and values": [
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "low molecular mass, oligomeric or polymeric compound containing at least two epoxide groups"
+                },
+                {
+                    "chemical compound": "silane containing at least one at least divalent organic radical which per se is not hydrolyzable, at least one cyclic dicarboxylic anhydride group and at least one silane group containing at least one hydrolyzable group"
+                }
+            ],
+            "dimension": "equivalent ratio of epoxide groups to dicarboxylic anhydride groups",
+            "measurement unit": "-",
+            "measured value low": "0.7",
+            "measured value high": "100"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "3-(triethoxysilyl)propylsuccinic anhydride"
+                }
+            ],
+            "dimension": "amount",
+            "measurement unit": "",
+            "measured value low": "",
+            "measured value high": ""
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "aluminum chelate"
+                },
+                {
+                    "chemical compound": "titanium chelate"
+                },
+                {
+                    "chemical compound": "zirconium chelate"
+                }
+            ],
+            "dimension": "amount",
+            "measurement unit": "",
+            "measured value low": "",
+            "measured value high": ""
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "wet film thickness",
+            "measurement unit": "\u03bcm",
+            "measured value low": "10",
+            "measured value high": "70"
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "wet film thickness",
+            "measurement unit": "\u03bcm",
+            "measured value low": "10",
+            "measured value high": "150"
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "wet film thickness",
+            "measurement unit": "\u03bcm",
+            "measured value low": "5",
+            "measured value high": "50"
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "wet film thickness",
+            "measurement unit": "\u03bcm",
+            "measured value low": "30",
+            "measured value high": "120"
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "total coat thickness",
+            "measurement unit": "\u03bcm",
+            "measured value low": "15",
+            "measured value high": "40"
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "first basecoat thickness",
+            "measurement unit": "%",
+            "measured value low": "20",
+            "measured value high": "50"
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "thermal curing temperature",
+            "measurement unit": "\u00b0C",
+            "measured value low": "50",
+            "measured value high": "200"
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "thermal curing temperature",
+            "measurement unit": "\u00b0C",
+            "measured value low": "60",
+            "measured value high": "180"
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "thermal curing temperature",
+            "measurement unit": "\u00b0C",
+            "measured value low": "80",
+            "measured value high": "160"
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "thermal curing time",
+            "measurement unit": "minutes",
+            "measured value low": "1",
+            "measured value high": "120"
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "thermal curing time",
+            "measurement unit": "minutes",
+            "measured value low": "2",
+            "measured value high": "60"
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "thermal curing time",
+            "measurement unit": "minutes",
+            "measured value low": "3",
+            "measured value high": "30"
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "actinic radiation dose",
+            "measurement unit": "mJ/cm<sup>2</sup>",
+            "measured value low": "1000",
+            "measured value high": "3000"
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "actinic radiation dose",
+            "measurement unit": "mJ/cm<sup>2</sup>",
+            "measured value low": "1100",
+            "measured value high": "2900"
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "actinic radiation dose",
+            "measurement unit": "mJ/cm<sup>2</sup>",
+            "measured value low": "1200",
+            "measured value high": "2800"
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "actinic radiation dose",
+            "measurement unit": "mJ/cm<sup>2</sup>",
+            "measured value low": "1300",
+            "measured value high": "2700"
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "actinic radiation dose",
+            "measurement unit": "mJ/cm<sup>2</sup>",
+            "measured value low": "1400",
+            "measured value high": "2600"
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "actinic radiation intensity",
+            "measurement unit": "",
+            "measured value low": "1\u00d710<sup>0</sup>",
+            "measured value high": "3\u00d710<sup>5</sup>"
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "actinic radiation intensity",
+            "measurement unit": "",
+            "measured value low": "2\u00d710<sup>0</sup>",
+            "measured value high": "2\u00d710<sup>5</sup>"
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "actinic radiation intensity",
+            "measurement unit": "",
+            "measured value low": "3\u00d710<sup>0</sup>",
+            "measured value high": "1.5\u00d710<sup>5</sup>"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Solventnaphtha\u00ae"
+                },
+                {
+                    "chemical compound": "Vantico\u00ae 6334"
+                },
+                {
+                    "chemical compound": "Geniosil\u00ae GF 20"
+                },
+                {
+                    "chemical compound": "Ethomeen\u00ae C/25"
+                },
+                {
+                    "chemical compound": "aluminum sec-butoxide"
+                },
+                {
+                    "chemical compound": "ethyl acetoacetate"
+                }
+            ],
+            "dimension": "parts by weight",
+            "measurement unit": "parts by weight",
+            "measured value low": "13.5",
+            "measured value high": "20.43"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "epoxy resin"
+                },
+                {
+                    "chemical compound": "3-(triethoxysilyl)propylsuccinic anhydride"
+                },
+                {
+                    "chemical compound": "cocoalkylamine ethoxylate"
+                }
+            ],
+            "dimension": "parts by weight",
+            "measurement unit": "parts by weight",
+            "measured value low": "39.88",
+            "measured value high": "13.01"
+        },
+        {
+            "chemical compound list": [
+                {
+                    "chemical compound": "Solventnaphtha\u00ae"
+                }
+            ],
+            "dimension": "parts by weight",
+            "measurement unit": "parts by weight",
+            "measured value low": "10",
+            "measured value high": "90"
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "dry film thickness",
+            "measurement unit": "\u03bcm",
+            "measured value low": "25",
+            "measured value high": "25"
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "steel wool scratch test rating",
+            "measurement unit": "",
+            "measured value low": "3",
+            "measured value high": "3"
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "BART rating",
+            "measurement unit": "",
+            "measured value low": "1",
+            "measured value high": "4"
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "universal hardness",
+            "measurement unit": "N/mm<sup>2</sup>",
+            "measured value low": "25.6, 10, 5",
+            "measured value high": "25.6, 10, 5"
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "creep behavior",
+            "measurement unit": "%",
+            "measured value low": "25.6",
+            "measured value high": "25.6"
+        },
+        {
+            "chemical compound list": [],
+            "dimension": "relative elastic resilience",
+            "measurement unit": "%",
+            "measured value low": "",
+            "measured value high": ""
+        }
+    ]
+}

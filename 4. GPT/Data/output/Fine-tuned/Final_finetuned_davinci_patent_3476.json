@@ -1,0 +1,172 @@
+doc_number: 08023171,invention_title: Devices containing compositions comprising cathodically coloring electrochromic polymers and binder polymers , 
+
+
+
+
+
+
+{'measurement and values': [{'chemical compound list': [
+{'chemical compound': 'thiophene polymer'}, 
+{'chemical compound': 'copolymer'}], 'dimension': 'chemical compound list', 'measured value low': 'thiophene polymer', 'measured value high': 'thiophene polymer', 'measurement unit': 'chemical compound'}, 
+{'chemical compound list': [
+{'chemical compound': 'non-electrically conductive binder polymer'}, 
+{'chemical compound': 'acrylate'}], 'dimension': 'chemical compound list', 'measured value low': 'non-electrically conductive binder polymer', 'measured value high': 'non-electrically conductive binder polymer', 'measurement unit': 'chemical compound'}]}
+
+
+{'measurement and values': [{'chemical compound list': [
+{'chemical compound': 'polymers'}], 'dimension': 'chemical compound list', 'measured value low': 'polymers', 'measured value high': 'polymers', 'measurement unit': 'chemical compound list'}]} chemical compound list chemical compound polymers dimension chemical compound list measured value low polymers measured value high polymers measurement unit chemical compound list
+
+
+{'measurement and values': [{'chemical compound list': [
+{'chemical compound': 'cathodically coloring polymer'}], 'dimension': 'chemical compound list', 'measured value low': 'electrically active', 'measured value high': 'cathodically coloring polymer', 'measurement unit': 'chemical compound'}, 
+{'chemical compound list': [
+{'chemical compound': 'binder polymer'}], 'dimension': 'chemical compound list', 'measured value low': 'non-electrically conductive', 'measured value high': 'binder polymer', 'measurement unit': 'chemical compound'}]} and values: list of chemical compound list: [chemical compound: 'cathodically coloring polymer' dimension: chemical compound list measured value low: electrically active measured value high: cathodically coloring polymer measurement unit: chemical compound list] chemical compound list: [chemical compound: 'binder polymer' dimension: chemical compound list measured value low: non-electrically conductive measured value high: binder polymer measurement unit: chemical compound]
+
+
+
+
+
+
+
+{'measurement and values': [{'chemical compound list': [
+{'chemical compound': 'thiophene'}], 'dimension': 'chemical compound list', 'measured value low': 'thiophene', 'measured value high': 'thiophene', 'measurement unit': 'chemical compound'}, 
+{'chemical compound list': [
+{'chemical compound': 'carbazole'}], 'dimension': 'chemical compound list', 'measured value low': 'carbazole', 'measured value high': 'carbazole', 'measurement unit': 'chemical compound'}, 
+{'chemical compound list': [
+{'chemical compound': 'phenylene vinylene'}], 'dimension': 'chemical compound list', 'measured value low': 'phenylene vinylene', 'measured value high': 'phenylene vinylene', 'measurement unit': 'chemical compound'}, 
+{'chemical compound list': [
+{'chemical compound': 'acetylene'}], 'dimension': 'chemical compound list', 'measured value low': 'acetylene', 'measured value high': 'acetylene', 'measurement unit': 'chemical compound'}, 
+{'chemical compound list': [
+{'chemical compound': 'aniline'}], 'dimension': 'chemical compound list', 'measured value low': 'aniline', 'measured value high': 'aniline', 'measurement unit': 'chemical compound'}, 
+{'chemical compound list': [
+{'chemical compound': 'phenylenediamine'}], 'dimension': 'chemical compound list', 'measured value low': 'phenylenediamine', 'measured value high': 'phenylenediamine', 'measurement unit': 'chemical compound'}, 
+{'chemical compound list': [
+{'chemical compound': 'pyrrole'}], 'dimension': 'chemical compound list', 'measured value low': 'pyrrole', 'measured value high': 'pyrrole', 'measurement unit': 'chemical compound'}], 'dimension': 'chemical compound list', 'measured value low': '', 'measured value high': '', 'measurement unit': 'chemical compound'}]}
+
+
+{'measurement and values': [{'chemical compound list': [
+{'chemical compound': 'alkoxy, dialkoxy or alkylenedioxy substituted thiophene'}, 
+{'chemical compound list': [
+{'chemical compound': 'other heterocycles'}]}]}]}' and 'chemical compound list': [
+{'chemical compound': 'alkoxy, dialkoxy or alkylenedioxy substituted thiophene'}, 
+{'chemical compound': 'other heterocycles'}] and 'chemical compound': 'alkoxy, dialkoxy or alkylenedioxy substituted thiophene' and 'chemical compound list': [
+{'chemical compound': 'other heterocycles'}] and 'chemical compound': 'other heterocycles' at /chemical compound list' and 'chemical compound': 'alkoxy, dialkoxy or alkylenedioxy substituted thiophene' at /chemical compound' and 'chemical compound': 'other heterocycles' at /chemical compound'
+
+
+{'measurement and values': [{'chemical compound list': [
+{'chemical compound': 'coating polymer'}], 'dimension': 'chemical compound list', 'measured value low': 'coating polymer', 'measured value high': 'coating polymer', 'measurement unit': 'chemical compound'}, 
+{'chemical compound list': [
+{'chemical compound': 'thermoplastic'}], 'dimension': 'chemical compound list', 'measured value low': 'thermoplastic', 'measured value high': 'thermoplastic', 'measurement unit': 'chemical compound'}, 
+{'chemical compound list': [
+{'chemical compound': 'elastomeric'}], 'dimension': 'chemical compound list', 'measured value low': 'elastomeric', 'measured value high': 'elastomeric', 'measurement unit': 'chemical compound'}, 
+{'chemical compound list': [
+{'chemical compound': 'thermoset'}], 'dimension': 'chemical compound list', 'measured value low': 'thermoset', 'measured value high': 'thermoset', 'measurement unit': 'chemical compound'}], 'dimension': 'chemical compound list', 'measured value low': 'thermoplastic', 'measured value high': 'thermoplastic', 'measurement unit': 'chemical compound'}, 
+{'chemical compound list': [
+{'chemical compound': 'elastomeric'}], 'dimension': 'chemical compound list', 'measured value low': 'elastomeric', 'measured value high': 'elastomeric', 'measurement unit': 'chemical compound'}, 
+{'chemical compound list': [
+{'chemical compound': 'thermoset'}], 'dimension': 'chemical compound list', 'measured value low': 'thermoset', 'measured value high': 'thermoset', 'measurement unit': 'chemical compound'}], 'dimension': 'chemical compound list', 'measured value low': 'thermoplastic', 'measured value high': 'thermoplastic', 'measurement unit': 'chemical compound'}, 
+{'chemical compound list': [
+{'chemical compound': 'elastomeric'}], 'dimension': 'chemical compound list', 'measured value low':
+
+
+{'measurement and values': [{'chemical compound list': [
+{'chemical compound': 'coating'}, 
+{'chemical compound': 'binder'}, 
+{'chemical compound': 'silicon containing polymers'}, 
+{'chemical compound': 'fluorinated polymers'}, 
+{'chemical compound': 'unsaturated and saturated polyesters'}, 
+{'chemical compound': 'unsaturated and saturated polyamides'}, 
+{'chemical compound': 'polyimides'}, 
+{'chemical compound': 'crosslinkable acrylic resins derived from substituted acrylic esters'}, 
+{'chemical compound': 'e.g. from epoxy acrylates'}, 
+{'chemical compound': 'urethane acrylates'}, 
+{'chemical compound': 'polyester acrylates'}, 
+{'chemical compound': 'polymers of vinyl acetate'}, 
+{'chemical compound': 'vinyl alcohol'}, 
+{'chemical compound': 'vinyl amine'}], 'chemical compound list': [
+{'chemical compound': 'binder'}, 
+{'chemical compound': 'polymers'}, 
+{'chemical compound': 'co-polymers'}, 
+{'chemical compound': 'polymer blends'}, 
+{'chemical compound': 'composites'}], 'measured values': [{'measured value': 'crosslinker'}, 
+{'measurement unit': '% by weight'}, 
+{'measured value': 'up to 50'}, 
+{'chemical compound list': [
+{'chemical compound': 'crosslinker'}, 
+{'chemical compound': 'thermosetting resin'}]}]}]}
+
+
+{'measurement and values': [{'chemical compound list': [
+{'chemical compound': 'ethylenically unsaturated compounds'}, 
+{'chemical compound': 'monomeric or oligomeric compounds'}, 
+{'chemical compound': 'containing ethylenically unsaturated bonds'}], 'dimension': 'chemical compound list', 'measured value low': 'ethylenically unsaturated compounds', 'measured value high': 'containing ethylenically unsaturated bonds', 'measurement unit': 'chemical compound'}, 
+{'chemical compound list': [
+{'chemical compound': 'acrylate copolymers'}, 
+{'chemical compound': 'amine catalysts'}, 
+{'chemical compound': 'amine-containing acrylate copolymers'}], 'dimension': 'chemical compound list', 'measured value low': 'acrylate copolymers', 'measured value high': 'amine-containing acrylate copolymers', 'measurement unit': 'chemical compound'}, 
+{'chemical compound list': [
+{'chemical compound': 'amine catalysts'}, 
+{'chemical compound': 'amine-containing acrylate copolymers'}], 'dimension': 'chemical compound list', 'measured value low': 'amine catalysts', 'measured value high': 'amine-containing acrylate copolymers', 'measurement unit': 'chemical compound'}, 
+{'chemical compound list': [
+{'chemical compound': 'amine-containing acrylate copolymers'}], 'dimension': 'chemical compound list', 'measured value low': 'amine-containing acrylate copolymers', 'measured value high': 'amine-containing acrylate copolymers', 'measurement unit': 'chemical compound'}, 
+{'chemical compound list': [
+{'chemical compound': 'blocked or latent acids'}, 
+{'chemical compound': 'blocked phosphorous acid'}, 
+{'chemical compound': 'blocked phosphonic acid'}], 'dimension': 'chemical compound list', 'measured value low': 'blocked or latent acids', 'measured value high': 'blocked phosphorous acid', 'measurement unit': 'chemical compound'}, 
+{'chemical compound list': [
+{'chemical compound': 'blocked phosphorous acid'}, 
+{'chemical compound': 'blocked phosphonic acid'}], '
+
+
+{'measurement and values': [{'chemical compound list': [
+{'chemical compound': 'binder polymer'}], 'dimension': 'chemical compound list', 'measured value low': 'binder polymer', 'measured value high': 'binder polymer', 'measurement unit': 'chemical compound'}, 
+{'chemical compound list': [
+{'chemical compound': 'non-electrically conducting'}], 'dimension': 'chemical compound list', 'measured value low': 'non-electrically conducting', 'measured value high': 'non-electrically conducting', 'measurement unit': 'chemical compound'}, 
+{'chemical compound list': [
+{'chemical compound': 'ionically conducting'}], 'dimension': 'chemical compound list', 'measured value low': 'ionically conducting', 'measured value high': 'ionically conducting', 'measurement unit': 'chemical compound'}]}
+
+
+{'measurement and values': [{'chemical compound list': [
+{'chemical compound': 'cathodically coloring polymer'}], 'dimension': 'chemical compound list', 'measured value low': 'cathodically coloring polymer', 'measured value high': 'cathodically coloring polymer', 'measurement unit': 'chemical compound'}, 
+{'chemical compound list': [
+{'chemical compound': 'binder polymer'}], 'dimension': 'chemical compound list', 'measured value low': 'binder polymer', 'measured value high': 'binder polymer', 'measurement unit': 'chemical compound'}]}
+
+
+{'measurement and values': [{'chemical compound list': [
+{'chemical compound': 'elect'}], 'dimension': 'chemical compound list', 'measured value low': 'elect', 'measured value high': 'elect', 'measurement unit': 'chemical compound'}, 
+{'chemical compound list': [
+{'chemical compound': 'elect'}], 'dimension': 'chemical compound list', 'measured value low': 'elect', 'measured value high': 'elect', 'measurement unit': 'chemical compound'}]} chemical compound list chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical compound chemical compound list chemical
+
+
+{'measurement and values': [{'chemical compound list': [
+{'chemical compound': 'Polymer CC1'}], 'dimension': 'chemical compound list', 'measured value low': 'Polyme', 'measured value high': 'Polyme', 'measurement unit': 'chemical compound'}, 
+{'chemical compound list': [
+{'chemical compound': 'Polymer CC2'}], 'dimension': 'chemical compound list', 'measured value low': 'Polyme', 'measured value high': 'Polyme', 'measurement unit': 'chemical compound'}]}
+
+
+
+{'measurement and values': [{'chemical compound list': [
+{'chemical compound': 'Polymer CC1'}], 'dimension': 'chemical compound list', 'measured value low': 'Polyme', 'measured value high': 'Polyme', 'measurement unit': 'chemical compound'}, 
+{'chemical compound list': [
+{'chemical compound': 'Polymer CC2'}], 'dimension': 'chemical compound list', 'measured value low': 'Polyme', 'measured value high': 'Polyme', 'measurement unit': 'chemical compound'}]}
+
+
+
+{'measurement and values': [{'chemical compound list': [
+{'chemical compound': 'Polymer CC1'}], 'dimension': 'chemical compound list', 'measured value low': 'Polyme', 'measured value high': 'Polyme', 'measurement unit': 'chemical compound'}, 
+{'chemical compound list': [
+{'chemical compound': 'Polymer CC2'}], 'dimension': 'chemical compound list', 'measured value low': 'Polyme', 'measured value high': 'Polyme', 'measurement unit': 'chemical compound'}]}
+
+
+
+{'measurement and values': [{'chemical compound list': [
+{'chemical compound': 'Polymer CC1'}], 'dimension': 'chemical compound list', 'measured value low': 'Polyme', 'measured value high': 'Polyme', 'measurement unit': 'chemical compound'}, 
+{'chemical compound list': [
+{'chemical compound': 'Polymer CC2'}], 'dimension': 'chemical compound list', 'measured value low': 'Polyme', 'measured value high': '
+
+
+{'measurement and values': [{'chemical compound list': [
+{'chemical compound': 'CC1'}], 'dimension': 'chemical compound list', 'measured value low': 'CC1', 'measured value high': 'CC1', 'measurement unit': 'chemical compound'}, 
+{'chemical compound list': [
+{'chemical compound': 'CC2'}], 'dimension': 'chemical compound list', 'measured value low': 'CC2', 'measured value high': 'CC2', 'measurement unit': 'chemical compound'}]}
+

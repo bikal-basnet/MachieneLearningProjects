@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+ <us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US08022239-20110920.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110906" date-publ="20110920">
+ <us-bibliographic-data-grant>
+ <publication-reference>
+ <document-id>
+ <country>US</country>
+ <doc-number>08022239</doc-number>
+ <kind>B2</kind>
+ <date>20110920</date>
+ </document-id>
+ </publication-reference>
+ <application-reference appl-type="utility">
+ <document-id>
+ <country>US</country>
+ <doc-number>12572921</doc-number>
+ <date>20091002</date>
+ </document-id>
+ </application-reference>
+ <us-application-series-code>12</us-application-series-code>
+ <classifications-ipcr>
+ <classification-ipcr>
+ <ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+ <classification-level>A</classification-level>
+ <section>C</section>
+ <class>07</class>
+ <subclass>F</subclass>
+ <main-group>9</main-group>
+ <subgroup>147</subgroup>
+ <symbol-position>F</symbol-position>
+ <classification-value>I</classification-value>
+ <action-date><date>20110920</date></action-date>
+ <generating-office><country>US</country></generating-office>
+ <classification-status>B</classification-status>
+ <classification-data-source>H</classification-data-source>
+ </classification-ipcr>
+ </classifications-ipcr>
+ <classification-national>
+ <country>US</country>
+ <main-classification>558210</main-classification>
+ <further-classification>558 89</further-classification>
+ <further-classification>558206</further-classification>
+ </classification-national>
+ <invention-title id="d2e43">Mechanism-based inactivators of autotaxin</invention-title>
+ <references-cited>
+ <citation>
+ <patcit num="00001">
+ <document-id>
+ <country>US</country>
+ <doc-number>3989825</doc-number>
+ <kind>A</kind>
+ <name>Hogberg et al.</name>
+ <date>19761100</date>
+ </document-id>
+ </patcit>
+ <category>cited by examiner</category>
+ <classification-national><country>US</country><main-classification>514120</main-classification></classification-national>
+ </citation>
+ <citation>
+ <patcit num="00002">
+ <document-id>
+ <country>US</country>
+ <doc-number>5714361</doc-number>
+ <kind>A</kind>
+ <name>Widlanski</name>
+ <date>19980200</date>
+ </document-id>
+ </patcit>
+ <category>cited by examiner</category>
+ <classification-national><country>US</country><main-classification>435184</main-classification></classification-national>
+ </citation>
+ <citation>
+ <nplcit num="00003">
+ <othercit>Born et al, Journal of Biological Chemistry, vol. 270(43), pp. 25651-25655 (1995).</othercit>
+ </nplcit>
+ <category>cited by examiner</category>
+ </citation>
+ <citation>
+ <nplcit num="00004">
+ <othercit>Hata et al., JACS 91:16, pp. 4532-4535 (1969).</othercit>
+ </nplcit>
+ <category>cited by examiner</category>
+ </citation>
+ </references-cited>
+ <number-of-claims>7</number-of-claims>
+ <us-exemplary-claim>1</us-exemplary-claim>
+ <us-field-of-classification-search>
+ <classification-national>
+ <country>US</country>
+ <main-classification>None</main-classification>
+ </classification-national>
+ </us-field-of-classification-search>
+ <us-related-documents>
+ <us-provisional-application>
+ <document-id>
+ <country>US</country>
+ <doc-number>61102723</doc-number>
+ <date>20081003</date>
+ </document-id>
+ </us-provisional-application>
+ <related-publication>
+ <document-id>
+ <country>US</country>
+ <doc-number>20100136650</doc-number>
+ <kind>A1</kind>
+ <date>20100603</date>
+ </document-id>
+ </related-publication>
+ </us-related-documents>
+ <parties>
+ <applicants>
+ <applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+ <addressbook>
+ <last-name>Parrill-Baker</last-name>
+ <first-name>Abby Louise</first-name>
+ <address>
+ <city>Memphis</city>
+ <state>TN</state>
+ <country>US</country>
+ </address>
+ </addressbook>
+ <nationality>
+ <country>omitted</country>
+ </nationality>
+ <residence>
+ <country>US</country>
+ </residence>
+ </applicant>
+ <applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+ <addressbook>
+ <last-name>Baker</last-name>
+ <first-name>Daniel Lee</first-name>
+ <address>
+ <city>Memphis</city>
+ <state>TN</state>
+ <country>US</country>
+ </address>
+ </addressbook>
+ <nationality>
+ <country>omitted</country>
+ </nationality>
+ <residence>
+ <country>US</country>
+ </residence>
+ </applicant>
+ <applicant sequence="003" app-type="applicant-inventor" designation="us-only">
+ <addressbook>
+ <last-name>Montedonico</last-name>
+ <first-name>Louis Edward</first-name>
+ <address>
+ <city>Memphis</city>
+ <state>TN</state>
+ <country>US</country>
+ </address>
+ </addressbook>
+ <nationality>
+ <country>omitted</country>
+ </nationality>
+ <residence>
+ <country>US</country>
+ </residence>
+ </applicant>
+ </applicants>
+ <agents>
+ <agent sequence="01" rep-type="attorney">
+ <addressbook>
+ <orgname>Wyatt, Tarrant &#x26; Combs, LLP</orgname>
+ <address>
+ <country>unknown</country>
+ </address>
+ </addressbook>
+ </agent>
+ <agent sequence="02" rep-type="attorney">
+ <addressbook>
+ <last-name>Parks</last-name>
+ <first-name>William S.</first-name>
+ <address>
+ <country>unknown</country>
+ </address>
+ </addressbook>
+ </agent>
+ </agents>
+ </parties>
+ <assignees>
+ <assignee>
+ <addressbook>
+ <orgname>The University of Memphis Research Foundation</orgname>
+ <role>02</role>
+ <address>
+ <city>Memphis</city>
+ <state>TN</state>
+ <country>US</country>
+ </address>
+ </addressbook>
+ </assignee>
+ </assignees>
+ <examiners>
+ <primary-examiner>
+ <last-name>Saeed</last-name>
+ <first-name>Kamal</first-name>
+ <department>1626</department>
+ </primary-examiner>
+ <assistant-examiner>
+ <last-name>Grazier</last-name>
+ <first-name>Nyeemah A</first-name>
+ </assistant-examiner>
+ </examiners>
+ </us-bibliographic-data-grant>
+ <abstract id="abstract">
+ <p id="p-0001" num="0000">A novel class of compounds to inactivate autotaxin enzymes is provided. Such compounds include mono- and di-fluoromethylphenyl C<sub>12</sub>-C<sub>18 </sub>phosphodiesters and exhibit reactivity with autotaxin to ultimately reduce the size of the reactive sites thereon to prevent conversion of lysophosphatidyl choline to lysophophatidic acid. Furthermore, such compounds are non-cytotoxic, and can be incorporated within delivery forms for human ingestion. As such, these compounds accord an excellent manner of potentially reducing generation of certain cancers attributable to the presence of naturally occurring autotaxin within the human body. Methods of producing such novel compounds are encompassed within this invention as well as methods of inactivating autotaxin to certain degrees therewith.</p>
+ </abstract>
+ <description id="description">
+ <?RELAPP description="Other Patent Relations" end="lead"?>
+ <heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+ <p id="p-0002" num="0001">This application claims priority to and the benefit of U.S. Provisional Patent Application No. 61/102,723, filed Oct. 3, 2008. This provisional application is hereby incorporated entirely by reference.</p>
+ <?RELAPP description="Other Patent Relations" end="tail"?>
+ <?BRFSUM description="Brief Summary" end="lead"?>
+ <heading id="h-0002" level="1">FIELD OF THE INVENTION</heading>
+ <p id="p-0003" num="0002">A novel class of compounds to inactivate autotaxin enzymes is provided. Such compounds include mono- and di-fluoromethylphenyl C<sub>12</sub>-C<sub>18 </sub>phosphodiesters and exhibit reactivity with autotaxin to ultimately reduce the size of the reactive sites thereon to prevent conversion of lysophosphatidyl choline to lysophosphatidic acid. Furthermore, such compounds can be incorporated within delivery forms for human ingestion. As such, these compounds afford an excellent manner of potentially reducing generation of certain cancers attributable to the presence of naturally occurring autotaxin within the human body. Methods of producing such novel compounds are encompassed within this invention as well as methods of inactivating autotaxin to certain degrees therewith.</p>
+ <heading id="h-0003" level="1">BACKGROUND OF THE PRIOR ART</heading>
+ <p id="p-0004" num="0003">All U.S. patents cited within this specification are hereby incorporated by reference. Autotaxin, also known as ATX, ENPP2 or NPP2, short for Ectonucleotide pyrophosphatase phosphodiesterase 2 is an enzyme secreted within the human body. This molecule has been known for generating lysophosphatidic acid (LPA) through conversion of lysophosphatidyl choline (LPC) thereto via lysophospholipase D activity (the removal of choline from the base compound generates LPA). LPA has been realized to contribute to tumor cell growth, unfortunately, as the reactivity within the human body of LPA within certain tissues has resulted, in certain studies, of cancerous growths when present at certain levels. In this manner, then, it has been theorized that the greater the incidence of autotaxin activity within the human body, the greater the possibility of LPA generation. A reduction in the catalytic capabilities of autotaxin to convert the LPC molecule to LPA would theoretically permit an ultimate reduction in possibility of unwanted cell proliferation through reduced LPA presence within a subject's body.</p>
+ <p id="p-0005" num="0004">The mechanism of autotaxin in terms of enzymatic activity and catalysis to form LPA resides in its phosphodiesterase capability. LPA can be generated from the cleavage of the phophodiester bonds of LPC, as well as its function as a phospholipase D enzyme (as presented in Formula I):</p>
+ <p id="p-0006" num="0005"><chemistry id="CHEM-US-00001" num="00001">
+ <img id="EMI-C00001" he="84.50mm" wi="75.78mm" file="US08022239-20110920-C00001.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+ </chemistry>
+ <br/>
+ In extracellular fluids, this enzymatic catalysis removes the choline group from LPC, leaving LPA, which has a tendency to stimulate cell growth and proliferation as well as chemotaxis. From this, it appears that the motility of tumor cells is increased as well, resulting in properties and gene expression within certain cancers (such as, for instance, breast cancer cells), causing further processing into a form that is bioactive and potentially dangerous. Metastasis and oncogenesis of cancer cells appear to occur as well with elevated levels of LPA present within a targeted region.
+ </p>
+ <p id="p-0007" num="0006">It has thus been determined that the ability to prevent, or at least reduce, the amount of LPA within human body holds great promise at, likewise, reducing, if not preventing, the onset of certain cancers. It has been theorized, as noted above, that autotaxin modifications may prevent the undesirable conversion from LPC to LPA; the ability to actually accomplish such a result has been elusive, however, at least to the degree necessary for effective broad-scale utilization of such a method. Any modification thereof must exhibit an ability to drastically reduce the activity of autotaxin while also proving to be non-cytotoxic, or, at least, not as cancer promoting as LPA itself.</p>
+ <p id="p-0008" num="0007">Past work has been attempted at reducing activity of alkaline phosphatase enzymes, such as Myers and Widlanski (1993) <i>Mechanism</i>-<i>based Inactivation of Prostatic Acid Phosphatase</i>, Science, 262(5138):1451-1453, in terms of reacting 4-halomethylated aromatic phosphate esters therewith such molecules. Such has proven moderately successful, but has not contributed to any reduction in LPA generation as these prior studies were not directed at enzymes involved in LPA production, particularly in terms of LPC conversion thereto. Other suggested routes have been provided with regard to autotaxin inactivation, such as carbacyclic phosphatidic acid, as discussed in Baker, D. L. et al., (2006) <i>Carba Analogs of Cyclic Phosphatidic Acid Are Selective Inhibitors of Autotaxin and Cancer Invasion</i>, J. Biol. Chem. 281:22786-93, all to no avail, however, as these compounds exhibit no propensity to covalently modify autotaxin. Thus, the autotaxin modification reliability of such previously tested compounds has been rather low, unfortunately. Hence, to date, there exists a need to provide effective modifications to autotaxin enzymes for the reduction of LPC conversion to LPA readily and reliably. No such need has been met until now.</p>
+ <heading id="h-0004" level="1">ADVANTAGES AND BRIEF DESCRIPTION OF THE INVENTION</heading>
+ <p id="p-0009" num="0008">It is thus an advantage of the present invention to provide reliable autotaxin inactivators for the purpose of reducing the conversion of LPC to LPA through the utilization of a readily available and easily produced compound (or compounds) that does not pose any significant known health risks. Another advantage is the ability for treatment with such compounds for cancer prevention treatment regimens.</p>
+ <p id="p-0010" num="0009">Accordingly, this invention encompasses a compound conforming to the structure of Formula (II):</p>
+ <p id="p-0011" num="0010"><chemistry id="CHEM-US-00002" num="00002">
+ <img id="EMI-C00002" he="18.54mm" wi="57.91mm" file="US08022239-20110920-C00002.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+ </chemistry>
+ </p>
+ <p id="p-0012" num="0011">wherein R is C<sub>12-18 </sub>alkyl or alkenyl; X is mono- or difluoromethyl(CH<sub>2</sub>F or CHF<sub>2</sub>); and X is in either the 2 or 4 position (ortho- or para-substitution, in essence). For purposes of this disclosure, as it pertains to the R groups potentially present on the Formula II compound, the notation of 18:0 means octadecyl, 16:0 is hexadecyl, 14:0 is tetradecyl, 12:0 is dodecyl, and any notation with the number 1 includes (such as 16:1) indicates alkenyl, with the double bond present anywhere within the carbon chain.</p>
+ <p id="p-0013" num="0012">As well, this invention encompasses the utilization of a compound including a phosphodiester and either a monofluoromethylphenyl or difluoromethylphenyl group, preferably a compound as defined within the structure of Formula (II), above, to effectuate a reduction in activity of autotaxin in terms of potential conversion of LPC to LPA, particularly through structural modifications to prevent interaction of the LPC compound within the active site of the modified autotaxin enzyme. A method of producing such compounds is also encompassed within this invention, comprising the sequential steps of:</p>
+ <p id="p-0014" num="0013">a) reacting phosphorus oxychloride with a fatty alcohol;</p>
+ <p id="p-0015" num="0014">b) reacting the resultant compound of step &#x201c;a&#x201d; with a hydroxybenzaldehyde, thereby forming a phosphodiester compound;</p>
+ <p id="p-0016" num="0015">c) reacting said phosphodiester compound with a cyanoethanol to form a phosphotriester compound;</p>
+ <p id="p-0017" num="0016">d) reacting said phosphotriester compound with bis(2-methoxyethyl)-sulfur trifluoride, wherein said reaction with bis(2-methoxyethyl)-sulfur trifluoride is optionally preceded by reducing said phosphotriester compound with sodium borohydride, thereby producing a fluorinated compound; and</p>
+ <p id="p-0018" num="0017">e) deprotecting the resultant fluorinated compound of step &#x201c;d&#x201d;. Such a novel method is described in greater detail below.</p>
+ <?BRFSUM description="Brief Summary" end="tail"?>
+ <?DETDESC description="Detailed Description" end="lead"?>
+ <heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE INVENTION AND PREFERRED EMBODIMENTS</heading>
+ <p id="p-0019" num="0018">Basically, it has been realized that such compounds as listed above (di- and mono-fluoromethylphenyl C<sub>10</sub>-C<sub>18 </sub>phosphodiesters) exhibit excellent capability of reducing the activity of autotaxin such that the potential conversion of LPC to LPA thereby is compromised. The following scheme shows the general reaction leading to inactivation of the autotaxin enzyme through the utilization of the inventive compounds noted above:</p>
+ <p id="p-0020" num="0019"><chemistry id="CHEM-US-00003" num="00003">
+ <img id="EMI-C00003" he="107.36mm" wi="75.78mm" file="US08022239-20110920-C00003.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+ </chemistry>
+ </p>
+ <p id="p-0021" num="0020">The figure above shows how the mechanism-based inhibitors participate in the enzyme-catalyzed reaction to generate a reactive species that irreversibly inactivates the enzyme. The first step of the enzyme-catalyzed reaction is attack of the catalytic threonine upon the phosphate group of the substrate. Within the fluoro (or difluoro) methylphenyl leaving group, a fluoride ion is ejected, generating the reactive quinone methide. In the second step, the quinone methide reacts with an unknown nucleophilic amino acid sidechain (such as lysine, arginine, histidine, aspartate, glutamate, serine, threonine or cysteine). The irreversible modification of the active site prevents other substrate molecules from fitting into the reduced space remaining after modification, thus preventing generation of LPA from the natural substrate, LPC.</p>
+ <p id="p-0022" num="0021">In this manner, there is a strong possibility that such compounds may prove highly effective at reducing the chances of a target subject incurring cancerous growths typically due to the presence of LPA in their systems.</p>
+ <p id="p-0023" num="0022">The preferred compounds for this autotaxin inactivation function are those that conform to the structure of Formula (II), noted above. Preferably, though, the alkyl chain is 14 or 16 carbons in length, with either the di- or mono-fluoromethylphenyl group present. If the chain is 18 carbons in length, then it is preferable, though not required, for the pendant group to be CFH<sub>2</sub>. Such specific compounds have been found to provide the most effective autotaxin inactivation capability results and thus the greatest promise in terms of effective cancer prevention treatments.</p>
+ <p id="p-0024" num="0023">These compounds may be included in a composition of any type that is introduced within a patient's body intravenously, and, if possible, through ingestion.</p>
+ <p id="p-0025" num="0024">In terms of the form such compositions may take, any orally ingestible form is possible. This list includes, without limitation, liquids, liquid capsules, tablets, coated tablets, minitablets, capsules with individual beads, and the like. If in coated tablet form, such compositions may be of sustained release type, and may include a water insoluble but permeable film coating surrounding a core tablet and a particulate, water-soluble, pore-forming material dispersed within the film coating. Such a system thus provides an osmotic gradient and channel forming system. Typical coatings have included carnauba wax, cysteine hydrochloride, hydroxypropyl methylcellulose, magnesium stearate, microcrystalline cellulose, polyethylene glycol and titanium dioxide. Other therapeutic agents may be included with these anticancer agents as well, as long as neither interferes with the effectiveness of the other in the user's body.</p>
+ <p id="p-0026" num="0025">The general method of production of the inventive compounds involves an initial generation of benzaldehyde phosphodiester through the reaction of phosphorous oxychloride with a long chain alcohol (C<sub>10</sub>-C<sub>18</sub>), and subsequently with p-hydroxybenzaldehyde, and lastly with water. This initial precursor reacts with cyanoethanol in the presence of dicyclohexyl carbodiimide (DCC) and dimethyl aminopyridine (DMAP) to generate a phosphotriester, needed for the subsequent fluorination of the intermediary compound. Such a two-step process has proved to be excellent at permitting a simplified purification procedure for the production of the intermediary cyanoethanol-protected diester compound, thereby permitting more effective triester formation for easy fluorination thereof. Such fluorination is generally accomplished through the reaction of either bis(2-methoxyethyl)-sulfur trifluoride (e.g., DEOXO-FLUOR&#x2122; from Air Products and Chemicals, Inc.) to create the difluoromethyl compound, or through the initial reduction with sodium borohydride with subsequent fluorination with Deoxofluor to generate the monofluoromethyl compound. The general reaction scheme is:</p>
+ <p id="p-0027" num="0026"><chemistry id="CHEM-US-00004" num="00004">
+ <img id="EMI-C00004" he="137.67mm" wi="138.94mm" file="US08022239-20110920-C00004.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+ </chemistry>
+ </p>
+ <p id="p-0028" num="0027">In terms of reacting these novel compounds with autotaxin, they react upon mixing with autotaxin in aqueous solutions such as assay buffer or blood. The measured inhibition should increase upon preincubation time (inhibitor plus enzyme alone) prior to addition of substrate, thereby indicating the reduction of ability of the autotaxin to modify the substrate (such as LPC) to the undesired compound (such as LPA).</p>
+ <p id="p-0029" num="0028">The specific compounds below, as well as the following exemplified methods of producing such and methods of using such compounds are non-limiting in nature and are thus indicative of the preferred embodiments of this invention.</p>
+ <heading id="h-0006" level="1">PREFERRED EMBODIMENTS OF THE INVENTION</heading>
+ <p id="h-0007" num="0000">Compound Production</p>
+ <p id="p-0030" num="0029">The specific compounds were produced as noted below, in the following non-limiting examples:</p>
+ <heading id="h-0008" level="1">Example 1</heading>
+ <heading id="h-0009" level="1">(18:0)-p-difluorophosphodiester</heading>
+ <p id="p-0031" num="0030"><chemistry id="CHEM-US-00005" num="00005">
+ <img id="EMI-C00005" he="13.29mm" wi="56.30mm" file="US08022239-20110920-C00005.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+ </chemistry>
+ </p>
+ <p id="p-0032" num="0031">Phosphorous oxychloride (1 eq.) was added to a round bottom flask and dissolved in tetrahydrofuran (THF). The round bottom flask was then placed in an ice bath to maintain a 0&#xb0; C. temperature. Octadecanol (1 eq.) dissolved in THF with triethylamine (TEA) (1 eq.) was added dropwise to the phosphorous oxychloride/THF solution. Once all of the octadecanol/THF/TEA solution was added (&#x2dc;20 min.), the reaction mixture was stirred for an additional 40 minutes at 0&#xb0; C. A solution of p-hydroxybenzaldehyde (1 eq.) in THF with TEA (1 eq.) was added dropwise to the reaction flask and was stirred for an additional 40 minutes at 0&#xb0; C. Water (1 eq.) and TEA (1 eq.) were added to the reaction mixture which was allowed to stir for 60 minutes at 0&#xb0; C. The contents of the reaction flask were then vacuum filtered and dried in vacuo. After an extraction with chloroform/methanol/water 1:1.5:1 (v/v/v), the (18:0)-p-phosphodiester was dissolved in 40% ethyl acetate/hexane and centrifuged for 7 minutes. The supernatant was decanted and the insoluble fractions were combined.</p>
+ <p id="p-0033" num="0032">The relatively pure (18:0)-p-phosphodiester (1 eq.), DCC (2.2 eq.) and DMAP (0.1 eq.) were dried over phosphorous pentoxide for 12 hours. Cyanoethanol (1.1 eq.) was dissolved in dichloromethane and dried with magnesium sulfate for 12 hours. The (18:0)-p-phosphodiester was dissolved in dichloromethane and DCC and DMAP were added to the reaction flask. The flask was sealed with a septum and purged with nitrogen after adding the cyanoethanol solution. The reaction was stirred for 48 hours at room temperature. Water (5 eq.) was added and the reaction mixture was stirred for an additional 24 hours. The contents of the reaction flask were vacuum filtered and dried in vacuo. After an extraction with chloroform/brine 1:1 (v/v), the coupled product was purified by flash column chromatography using 40% ethyl acetate/hexane then switching to 80% ethyl acetate/hexane for a step gradient elution.</p>
+ <p id="p-0034" num="0033">After purification, the protected (18:0)-p-phosphodiester was split into two roughly equal portions. The first portion was used for direct fluorination and the second portion was used for reduction followed by fluorination (Example 2). Protected (18:0)-p-phosphodiester (1 eq.) was dried over phosphorous pentoxide for 12 hours and dissolved in dichloromethane. The reaction flask was sealed and placed in an ice bath to maintain 0&#xb0; C. temperature. Deoxofluor (2 eq.) in dichloromethane was slowly added (&#x2dc;2 minutes) and ethanol (0.2 eq.) was added to generate a catalyst, HF. The ice bath was removed and the reaction mixture was stirred for 16 hours. An extraction with dichloromethane/saturated sodium bicarbonate solution 1:1 (v/v) was performed and the organic layer was collected.</p>
+ <p id="p-0035" num="0034">After drying in vacuo, the protected (18:0)-p-difluorophosphodiester was purified by flash column chromatography using 40% ethyl acetate/hexane then switching to 80% ethyl acetate/hexane for a step gradient elution. For deprotection, the protected (18:0)-p-difluoro-phosphodiester (1 eq.) was dissolved in pyridine. N-propylamine (100 eq.) in pyridine was added to the reaction flask and the clear solution was stirred for 10 minutes at room temperature. All solvents were removed in vacuo to yield the n-propylammonium salt of the (18:0)-p-difluoro-phosphodiester. An extraction with chloroform/methanol/brine 1:1.5:1 was performed to generate the sodium salt of the (18:0)-p-difluorophosphodiester.</p>
+ <heading id="h-0010" level="1">Example 2</heading>
+ <heading id="h-0011" level="1">(18:0)-p-monofluorophosphodiester</heading>
+ <p id="p-0036" num="0035"><chemistry id="CHEM-US-00006" num="00006">
+ <img id="EMI-C00006" he="13.29mm" wi="56.39mm" file="US08022239-20110920-C00006.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+ </chemistry>
+ </p>
+ <p id="p-0037" num="0036">Phosphorous oxychloride (1 eq.) was added to a round bottom flask and dissolved in tetrahydrofuran (THF). The round bottom flask was then placed in an ice bath to maintain a 0&#xb0; C. temperature. Octadecanol (1 eq.) dissolved in THF with triethylamine (TEA) (1 eq.) was added dropwise to the phosphorous oxychloride/THF solution. Once all of the octadecanol/THF/TEA solution was added (&#x2dc;20 min.), the reaction mixture was stirred for an additional 40 minutes at 0&#xb0; C. A solution of p-hydroxybenzaldehyde (1 eq.) in THF with TEA (1 eq.) was added dropwise to the reaction flask and was stirred for an additional 40 minutes at 0&#xb0; C. Water (1 eq.) and TEA (1 eq.) were added to the reaction mixture which was allowed to stir for 60 minutes at 0&#xb0; C. The contents of the reaction flask were then vacuum filtered and dried in vacuo. After an extraction with chloroform/methanol/water 1:1.5:1 (v/v/v), the (18:0)-p-phosphodiester was dissolved in 40% ethyl acetate/hexane and centrifuged for 7 minutes. The supernatant was decanted and the insoluble fractions were combined.</p>
+ <p id="p-0038" num="0037">The relatively pure (18:0)-p-phosphodiester (1 eq.), DCC (2.2 eq.) and DMAP (0.1 eq.) were dried over phosphorous pentoxide for 12 hours. Cyanoethanol (1.1 eq.) was dissolved in dichloromethane and dried with magnesium sulfate for 12 hours. The (18:0)-p-phosphodiester was dissolved in dichloromethane and DCC and DMAP were added to the reaction flask. The flask was sealed with a septum and purged with nitrogen after adding the cyanoethanol solution. The reaction was stirred for 48 hours at room temperature. Water (5 eq.) was added and the reaction mixture was stirred for an additional 24 hours. The contents of the reaction flask were vacuum filtered and dried in vacuo. After an extraction with chloroform/brine 1:1 (v/v), the coupled product was purified by flash column chromatography using 40% ethyl acetate/hexane then switching to 80% ethyl acetate/hexane for a step gradient elution.</p>
+ <p id="p-0039" num="0038">After purification, the protected (18:0)-p-phosphodiester was split into two roughly equal portions. The first portion was used for direct fluorination (Example 1) and the second portion was used for reduction followed by fluorination. For reduction, the protected (18:0)-p-phosphodiester (1 eq.) was dissolved in THF/water 3:0.1 equivalents respectively and sodium borohydride (1 eq.) was added to the reaction flask. The reaction mixture was stirred until all sodium borohydride dissolved (&#x2dc;2 minutes) and continued stirring for an additional 10 minutes. Water (3 eq.) was added and the reaction mixture was stirred an additional 10 minutes. All solvents were removed in vacuo and the reduced, protected (18:0)-p-phosphodiester was purified by flash column chromatography using 40% ethyl acetate/hexane then switching to 80% ethyl acetate/hexane for a step gradient elution. The reduced, protected (18:0)-p-phosphodiester (1 eq.) was dried over phosphorous pentoxide for 12 hours and dissolved in dichloromethane. The reaction flask was sealed and placed in an ice bath to maintain 0&#xb0; C. temperature. Deoxofluor (2 eq.) in dichloromethane was slowly added (&#x2dc;2 minutes). The ice bath was removed and the reaction mixture was stirred for 12 hours. An extraction with dichloromethane/saturated sodium bicarbonate solution 1:1 (v/v) was performed and the organic layer was collected.</p>
+ <p id="p-0040" num="0039">After drying in vacuo, the protected (18:0)-p-monofluorophosphodiester was purified by flash column chromatography using 40% ethyl acetate/hexane then switching to 80% ethyl acetate/hexane for a step gradient elution. For deprotection, the protected (18:0)-p-monofluoro-phosphodiester (1 eq.) was dissolved in pyridine. N-propylamine (100 eq.) in pyridine was added to the reaction flask and the clear solution was stirred for 10 minutes at room temperature. All solvents were removed in vacuo to yield the n-propylammonium salt of the (18:0)-p-monofluoro-phosphodiester. An extraction with chloroform/methanol/brine 1:1.5:1 (v/v/v) was performed to generate the sodium salt of the (18:0)-p-monofluorophosphodiester.</p>
+ <heading id="h-0012" level="1">Example 3</heading>
+ <heading id="h-0013" level="1">(16:0)-p-difluorophosphodiester</heading>
+ <p id="p-0041" num="0040"><chemistry id="CHEM-US-00007" num="00007">
+ <img id="EMI-C00007" he="13.29mm" wi="56.30mm" file="US08022239-20110920-C00007.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+ </chemistry>
+ </p>
+ <p id="p-0042" num="0041">Phosphorous oxychloride (1 eq.) was added to a round bottom flask and dissolved in tetrahydrofuran (THF). The round bottom flask was then placed in an ice bath to maintain a 0&#xb0; C. temperature. Hexadecanol (1 eq.) dissolved in THF with triethylamine (TEA) (1 eq.) was added dropwise to the phosphorous oxychloride/THF solution. Once all of the hexadecanol/THF/TEA solution was added (&#x2dc;20 minutes), the reaction mixture was stirred for an additional 40 minutes at 0&#xb0; C. A solution of p-hydroxybenzaldehyde (1 eq.) in THF with TEA (1 eq.) was added dropwise to the reaction flask and was stirred for an additional 40 minutes at 0&#xb0; C. Water (1 eq.) and TEA (1 eq.) were added to the reaction mixture which was allowed to stir for 60 minutes at 0&#xb0; C. The contents of the reaction flask were then vacuum filtered and dried in vacuo. After an extraction with chloroform/methanol/water 1:1.5:1 (v/v/v), the (16:0)-p-phosphodiester was dissolved in 40% ethyl acetate/hexane and centrifuged for 7 minutes. The supernatant was decanted and the insoluble fractions were combined.</p>
+ <p id="p-0043" num="0042">The relatively pure (16:0)-p-phosphodiester (1 eq.), DCC (2.2 eq.) and DMAP (0.1 eq.) were dried over phosphorous pentoxide for 12 hours. Cyanoethanol (1.1 eq.) was dissolved in dichloromethane and dried with magnesium sulfate for 12 hours. The (16:0)-p-phosphodiester was dissolved in dichloromethane and DCC and DMAP were added to the reaction flask. The flask was sealed with a septum and purged with nitrogen after adding the cyanoethanol solution. The reaction was stirred for 48 hours at room temperature. Water (5 eq.) was added and the reaction mixture was stirred for an additional 24 hours. The contents of the reaction flask were vacuum filtered and dried in vacuo. After an extraction with chloroform/brine 1:1 (v/v), the coupled product was purified by flash column chromatography using 40% ethyl acetate/hexane then switching to 80% ethyl acetate/hexane for a step gradient elution.</p>
+ <p id="p-0044" num="0043">After purification, the protected (16:0)-p-phosphodiester was split into two roughly equal portions. The first portion was used for direct fluorination and the second portion was used for (Example 4) reduction followed by fluorination. Protected (16:0)-p-phosphodiester (1 eq.) was dried over phosphorous pentoxide for 12 hours and dissolved in dichloromethane. The reaction flask was sealed and placed in an ice bath to maintain 0&#xb0; C. temperature. Deoxofluor (2 eq.) in dichloromethane was slowly added (&#x2dc;2 minutes) and ethanol (0.2 eq.) was added to generate a catalyst, HF. The ice bath was removed and the reaction mixture was stirred for 16 hours. An extraction with dichloromethane/saturated sodium bicarbonate solution 1:1 (v/v) was performed and the organic layer was collected.</p>
+ <p id="p-0045" num="0044">After drying in vacuo, the protected (16:0)-p-difluorophosphodiester was purified by flash column chromatography using 40% ethyl acetate/hexane then switching to 80% ethyl acetate/hexane for a step gradient elution. For deprotection, the protected (16:0)-p-difluoro-phosphodiester (1 eq.) was dissolved in pyridine. N-propylamine (100 eq.) in pyridine was added to the reaction flask and the clear solution was stirred for 10 minutes at room temperature. All solvents were removed in vacuo to yield the n-propylammonium salt of the (16:0)-p-difluorophosphodiester. An extraction with chloroform/methanol/brine 1:1.5:1 (v/v/v) was performed to generate the sodium salt of the (16:0)-p-difluorophosphodiester.</p>
+ <heading id="h-0014" level="1">Example 4</heading>
+ <heading id="h-0015" level="1">(16:0)-p-monofluorophosphodiester</heading>
+ <p id="p-0046" num="0045"><chemistry id="CHEM-US-00008" num="00008">
+ <img id="EMI-C00008" he="13.29mm" wi="56.39mm" file="US08022239-20110920-C00008.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+ </chemistry>
+ </p>
+ <p id="p-0047" num="0046">Phosphorous oxychloride (1 eq.) was added to a round bottom flask and dissolved in tetrahydrofuran (THF). The round bottom flask was then placed in an ice bath to maintain a 0&#xb0; C. temperature. Hexadecanol (1 eq.) dissolved in THF with triethylamine (TEA) (1 eq.) was added dropwise to the phosphorous oxychloride/THF solution. Once all of the hexadecanol/THF/TEA solution was added (&#x2dc;20 minutes), the reaction mixture was stirred for an additional 40 minutes at 0&#xb0; C. A solution of p-hydroxybenzaldehyde (1 eq.) in THF with TEA (1 eq.) was added dropwise to the reaction flask and stirred for an additional 40 minutes at 0&#xb0; C. Water (1 eq.) and TEA (1 eq.) were added to the reaction mixture which was allowed to stir for 60 minutes at 0&#xb0; C. The contents of the reaction flask were then vacuum filtered and dried in vacuo. After an extraction with chloroform/methanol/water 1:1.5:1 (v/v/v), the (16:0)-p-phosphodiester was dissolved in 40% ethyl acetate/hexane and centrifuged for 7 minutes. The supernatant was decanted and the insoluble fractions were combined.</p>
+ <p id="p-0048" num="0047">The relatively pure (16:0)-p-phosphodiester (1 eq.), DCC (2.2 eq.) and DMAP (0.1 eq.) were dried over phosphorous pentoxide for 12 hours. Cyanoethanol (1.1 eq.) was dissolved in dichloromethane and dried with magnesium sulfate for 12 hours. The (16:0)-p-phosphodiester was dissolved in dichloromethane and DCC and DMAP were added to the reaction flask. The flask was sealed with a septum and purged with nitrogen after adding the cyanoethanol solution. The reaction was stirred for 48 hours at room temperature. Water (5 eq.) was added and the reaction mixture was stirred for an additional 24 hours. The contents of the reaction flask were vacuum filtered and dried in vacuo. After an extraction with chloroform/brine 1:1 (v/v), the coupled product was purified by flash column chromatography using 40% ethyl acetate/hexane then switching to 80% ethyl acetate/hexane for a step gradient elution.</p>
+ <p id="p-0049" num="0048">After purification, the protected (16:0)-p-phosphodiester was split into two roughly equal portions. The first portion was used for direct fluorination (Example 3) and the second portion was used for reduction followed by fluorination. For reduction, the protected (16:0)-p-phosphodiester (1 eq.) was dissolved in THF/water 3:0.1 equivalents respectively and sodium borohydride (1 eq.) was added to the reaction flask. The reaction mixture was stirred until all sodium borohydride dissolved (&#x2dc;2 minutes) and continued stirring for an additional 10 minutes. Water (3 eq.) was added and the reaction mixture was stirred an additional 10 minutes. All solvents were removed in vacuo and the reduced, protected (16:0)-p-phosphodiester was purified by flash column chromatography using 40% ethyl acetate/hexane then switching to 80% ethyl acetate/hexane for a step gradient elution.</p>
+ <p id="p-0050" num="0049">The reduced, protected (16:0)-p-phosphodiester (1 eq.) was dried over phosphorous pentoxide for 2 hours and dissolved in dichloromethane. The reaction flask was sealed and placed in an ice bath to maintain 0&#xb0; C. temperature. Deoxofluor (2 eq.) in dichloromethane was slowly added (&#x2dc;2 minutes). The ice bath was removed and the reaction mixture was stirred for 12 hours. An extraction with dichloromethane/saturated sodium bicarbonate solution 1:1 (v/v) was performed and the organic layer was collected.</p>
+ <p id="p-0051" num="0050">After drying in vacuo, the protected (16:0)-p-monofluorophosphodiester was purified by flash column chromatography using 40% ethyl acetate/hexane then switching to 80% ethyl acetate/hexane for a step gradient elution. For deprotection, the protected (16:0)-p-monofluoro-phosphodiester (1 eq.) was dissolved in pyridine. N-propylamine (100 eq.) in pyridine was added to the reaction flask and the clear solution was stirred for 10 minutes at room temperature. All solvents were removed in vacuo to yield the n-propylammonium salt of the (16:0)-p-monofluoro-phosphodiester. An extraction with chloroform/methanol/brine 1:1.5:1 (v/v/v) was performed to generate the sodium salt of the (16:0)-p-monofluorophosphodiester.</p>
+ <heading id="h-0016" level="1">Example 5</heading>
+ <heading id="h-0017" level="1">(14:0)-p-difluorophosphodiester</heading>
+ <p id="p-0052" num="0051"><chemistry id="CHEM-US-00009" num="00009">
+ <img id="EMI-C00009" he="13.29mm" wi="56.30mm" file="US08022239-20110920-C00009.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+ </chemistry>
+ </p>
+ <p id="p-0053" num="0052">Phosphorous oxychloride (1 eq.) was added to a round bottom flask and dissolved in tetrahydrofuran (THF). The round bottom flask was then placed in an ice bath to maintain a 0&#xb0; C. temperature. Tetradecanol (1 eq.) dissolved in THF with triethylamine (TEA) (1 eq.) was added dropwise to the phosphorous oxychloride/THF solution. Once all of the tetradecanol/THF/TEA solution was added (&#x2dc;20 minutes), the reaction mixture was stirred for an additional 40 minutes at 0&#xb0; C. A solution of p-hydroxybenzaldehyde (1 eq.) in THF with TEA (1 eq.) was added dropwise to the reaction flask and was stirred for an additional 40 minutes at 0&#xb0; C. Water (1 eq.) and TEA (1 eq.) were added to the reaction mixture which was allowed to stir for 60 minutes at 0&#xb0; C. The contents of the reaction flask were then vacuum filtered and dried in vacuo. After an extraction with chloroform/methanol/water 1:1.5:1 (v/v/v), the (14:0)-p-phosphodiester was dissolved in 40% ethyl acetate/hexane and centrifuged for 7 minutes. The supernatant was decanted and the insoluble fractions were combined.</p>
+ <p id="p-0054" num="0053">The relatively pure (14:0)-p-phosphodiester (1 eq.), DCC (2.2 eq.) and DMAP (0.1 eq.) were dried over phosphorous pentoxide for 12 hours. Cyanoethanol (1.1 eq.) was dissolved in dichloromethane and dried with magnesium sulfate for 12 hours. The (14:0)-p-phosphodiester was dissolved in dichloromethane and DCC and DMAP were added to the reaction flask. The flask was sealed with a septum and purged with nitrogen after adding the cyanoethanol solution. The reaction was stirred for 48 hours at room temperature. Water (5 eq.) was added and the reaction mixture was stirred for an additional 24 hours. The contents of the reaction flask were vacuum filtered and dried in vacuo. After an extraction with chloroform/brine 1:1 (v/v), the coupled product was purified by flash column chromatography using 40% ethyl acetate/hexane then switching to 80% ethyl acetate/hexane for a step gradient elution.</p>
+ <p id="p-0055" num="0054">After purification, the protected (14:0)-p-phosphodiester was split into two roughly equal portions. The first portion was used for direct fluorination and the second portion was used for reduction followed by fluorination (Example 6). Protected (14:0)-p-phosphodiester (1 eq.) was dried over phosphorous pentoxide for 12 hours and dissolved in dichloromethane. The reaction flask was sealed and placed in an ice bath to maintain 0&#xb0; C. temperature. Deoxofluor (2 eq.) in dichloromethane was slowly added (&#x2dc;2 minutes) and ethanol (0.2 eq.) was added to generate a catalyst, HF. The ice bath was removed and the reaction mixture was stirred for 16 hours. An extraction with dichloromethane/saturated sodium bicarbonate solution 1:1 (v/v) was performed and the organic layer was collected.</p>
+ <p id="p-0056" num="0055">After drying in vacuo, the protected (14:0)-p-difluorophosphodiester was purified by flash column chromatography using 40% ethyl acetate/hexane then switching to 80% ethyl acetate/hexane for a step gradient elution. For deprotection, the protected (14:0)-p-difluoro-phosphodiester (1 eq.) was dissolved in pyridine. N-propylamine (100 eq.) in pyridine was added to the reaction flask and the clear solution was stirred for 10 minutes at room temperature. All solvents were removed in vacuo to yield the n-propylammonium salt of the (14:0)-p-difluorophosphodiester. An extraction with chloroform/methanol/brine 1:1.5:1 (v/v/v) performed to generate the sodium salt of the (14:0)-p-difluorophosphodiester.</p>
+ <heading id="h-0018" level="1">Example 6</heading>
+ <heading id="h-0019" level="1">(14:0)-p-monofluorophosphodiester</heading>
+ <p id="p-0057" num="0056"><chemistry id="CHEM-US-00010" num="00010">
+ <img id="EMI-C00010" he="13.29mm" wi="56.39mm" file="US08022239-20110920-C00010.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+ </chemistry>
+ </p>
+ <p id="p-0058" num="0057">Phosphorous oxychloride (1 eq.) was added to a round bottom flask and dissolved in tetrahydrofuran (THF). The round bottom flask was then placed in an ice bath to maintain a 0&#xb0; C. temperature. Tetradecanol (1 eq.) dissolved in THF with triethylamine (TEA) (1 eq.) was added dropwise to the phosphorous oxychloride/THF solution. Once all of the tetradecanol/THF/TEA solution was added (&#x2dc;20 minutes), the reaction mixture was stirred for an additional 40 minutes at 0&#xb0; C. A solution of p-hydroxybenzaldehyde (1 eq.) in THF with TEA (1 eq.) was added dropwise to the reaction flask and was stirred for an additional 40 minutes at 0&#xb0; C. Water (1 eq.) and TEA (1 eq.) were added to the reaction mixture which was allowed to stir for 60 minutes at 0&#xb0; C. The contents of the reaction flask were then vacuum filtered and dried in vacuo. After an extraction with chloroform/methanol/water 1:1.5:1 (v/v/v), the (14:0)-p-phosphodiester was dissolved in 40% ethyl acetate/hexane and centrifuged for 7 minutes. The supernatant was decanted and the insoluble fractions were combined.</p>
+ <p id="p-0059" num="0058">The relatively pure (14:0)-p-phosphodiester (1 eq.), DCC (2.2 eq.) and DMAP (0.1 eq.) were dried over phosphorous pentoxide for 12 hours. Cyanoethanol (1.1 eq.) was dissolved in dichloromethane and dried with magnesium sulfate for 12 hours. The (14:0)-p-phosphodiester was dissolved in dichloromethane and DCC and DMAP were added to the reaction flask. The flask was sealed with a septum and purged with nitrogen after adding the cyanoethanol solution. The reaction was stirred for 48 hours at room temperature. Water (5 eq.) was added and the reaction mixture was stirred for an additional 24 hours. The contents of the reaction flask were vacuum filtered and dried in vacuo. After an extraction with chloroform/brine 1:1 (v/v), the coupled product was purified by flash column chromatography using 40% ethyl acetate/hexane then switching to 80% ethyl acetate/hexane for a step gradient elution.</p>
+ <p id="p-0060" num="0059">After purification, the protected (14:0)-p-phosphodiester was split into two roughly equal portions. The first portion was used for direct fluorination (Example 5) and the second portion was used for reduction followed by fluorination. For reduction, the protected (14:0)-p-phosphodiester (1 eq.) was dissolved in THF/water 3:0.1 (v/v) respectively and sodium borohydride (1 eq.) was added to the reaction flask. The reaction mixture was stirred until all sodium borohydride dissolved (&#x2dc;2 minutes) and continued stirring for an additional 10 minutes. Water (3 eq.) was added and the reaction mixture was stirred an additional 10 minutes. All solvents were removed in vacuo and the reduced, protected (14:0)-p-phosphodiester was purified by flash column chromatography using 40% ethyl acetate/hexane then switching to 80% ethyl acetate/hexane for a step gradient elution.</p>
+ <p id="p-0061" num="0060">The reduced, protected (14:0)-p-phosphodiester (1 eq.) was dried over phosphorous pentoxide for 12 hours and dissolved in dichloromethane. The reaction flask was sealed and placed in an ice bath to maintain 0&#xb0; C. temperature. Deoxofluor (2 eq.) in dichloromethane was slowly added (&#x2dc;2 minutes). The ice bath was removed and the reaction mixture was stirred for 12 hours. An extraction with dichloromethane/saturated sodium bicarbonate solution 1:1 (v/v) was performed and the organic layer was collected.</p>
+ <p id="p-0062" num="0061">After drying in vacuo, the protected (14:0)-p-monofluorophosphodiester was purified by flash column chromatography using 40% ethyl acetate/hexane then switching to 80% ethyl acetate/hexane for a step gradient elution. For deprotection, the protected (14:0)-p-monofluoro-phosphodiester (1 eq.) was dissolved in pyridine. N-propylamine (100 eq.) in pyridine was added to the reaction flask and the clear solution was stirred for 10 minutes at room temperature. All solvents were removed in vacuo to yield the n-propylammonium salt of the (14:0)-p-monofluoro-phosphodiester. An extraction with chloroform/methanol/brine 1:1.5:1 (v/v/v) was performed to generate the sodium salt of the (14:0)-p-monofluorophosphodiester.</p>
+ <heading id="h-0020" level="1">Example 7</heading>
+ <heading id="h-0021" level="1">(12:0)-p-difluorophosphodiester</heading>
+ <p id="p-0063" num="0062"><chemistry id="CHEM-US-00011" num="00011">
+ <img id="EMI-C00011" he="13.29mm" wi="56.30mm" file="US08022239-20110920-C00011.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+ </chemistry>
+ </p>
+ <p id="p-0064" num="0063">Phosphorous oxychloride (1 eq.) was added to a round bottom flask and dissolved in tetrahydrofuran (THF). The round bottom flask was then placed in an ice bath to maintain a 0&#xb0; C. temperature. Dodecanol (1 eq.) dissolved in THF with triethylamine (TEA) (1 eq.) was added dropwise to the phosphorous oxychloride/THF solution. Once all of the dodecanol/THF/TEA solution was added (&#x2dc;20 minutes), the reaction mixture was stirred for an additional 40 minutes at 0&#xb0; C. A solution of p-hydroxybenzaldehyde (1 eq.) in THF with TEA (1 eq.) was added dropwise to the reaction flask and was stirred for an additional 40 minutes at 0&#xb0; C. Water (1 eq.) and TEA (1 eq.) were added to the reaction mixture which was allowed to stir for 60 minutes at 0&#xb0; C. The contents of the reaction flask were then vacuum filtered and dried in vacuo. After an extraction with chloroform/methanol/water 1:1.5:1 (v/v/v), the (12:0)-p-phosphodiester was dissolved in 40% ethyl acetate/hexane and centrifuged for 7 minutes. The supernatant was decanted and the insoluble fractions were combined.</p>
+ <p id="p-0065" num="0064">The relatively pure (12:0)-p-phosphodiester (1 eq.), DCC (2.2 eq.) and DMAP (0.1 eq.) were dried over phosphorous pentoxide for 12 hours. Cyanoethanol (1.1 eq.) was dissolved in dichloromethane and dried with magnesium sulfate for 12 hours. The (12:0)-p-phosphodiester was dissolved in dichloromethane and DCC and DMAP were added to the reaction flask. The flask was sealed with a septum and purged with nitrogen after adding the cyanoethanol solution. The reaction was stirred for 48 hours at room temperature. Water (5 eq.) was added and the reaction mixture was stirred for an additional 24 hours. The contents of the reaction flask were vacuum filtered and dried in vacuo. After an extraction with chloroform/brine 1:1 (v/v), the coupled product was purified by flash column chromatography using 40% ethyl acetate/hexane then switching to 80% ethyl acetate/hexane for a step gradient elution.</p>
+ <p id="p-0066" num="0065">After purification, the protected (12:0)-p-phosphodiester was split into two roughly equal portions. The first portion was used for direct fluorination and the second portion was used for reduction followed by fluorination (Example 8). Protected (12:0)-p-phosphodiester (1 eq.) was dried over phosphorous pentoxide for 12 hours and dissolved in dichloromethane. The reaction flask was sealed and placed in an ice bath to maintain 0&#xb0; C. temperature. Deoxofluor (2 eq.) in dichloromethane was slowly added (&#x2dc;2 minutes) and ethanol (0.2 eq.) was added to generate a catalyst, HF. The ice bath was removed and the reaction mixture was stirred for 16 hours. An extraction with dichloromethane/saturated sodium bicarbonate solution 1:1 (v/v) was performed and the organic layer was collected.</p>
+ <p id="p-0067" num="0066">After drying in vacuo, the protected (12:0)-p-difluorophosphodiester was purified by flash column chromatography using 40% ethyl acetate/hexane then switching to 80% ethyl acetate/hexane for a step gradient elution. For deprotection, the protected (12:0)-p-difluoro-phosphodiester (1 eq.) was dissolved in pyridine. N-propylamine (100 eq.) in pyridine was added to the reaction flask and the clear solution was stirred for 10 minutes at room temperature. All solvents were removed in vacuo to yield the n-propylammonium salt of the (12:0)-p-difluorophosphodiester. An extraction with chloroform/methanol/brine 1:1.5:1 (v/v/v) was performed to generate the sodium salt of the (12:0)-p-difluorophosphodiester.</p>
+ <heading id="h-0022" level="1">Example 8</heading>
+ <heading id="h-0023" level="1">(12:0)-p-monofluorophosphodiester</heading>
+ <p id="p-0068" num="0067"><chemistry id="CHEM-US-00012" num="00012">
+ <img id="EMI-C00012" he="13.29mm" wi="56.39mm" file="US08022239-20110920-C00012.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+ </chemistry>
+ </p>
+ <p id="p-0069" num="0068">Phosphorous oxychloride (1 eq.) was added to a round bottom flask and dissolved in tetrahydrofuran (THF). The round bottom flask was then placed in an ice bath to maintain a 0&#xb0; C. temperature. Dodecanol (1 eq.) dissolved in THF with triethylamine (TEA) (1 eq.) was added dropwise to the phosphorous oxychloride/THF solution. Once all of the dodecanol/THF/TEA solution was added (&#x2dc;20 minutes), the reaction mixture was stirred for an additional 40 minutes at 0&#xb0; C. A solution of p-hydroxybenzaldehyde (1 eq.) in THF with TEA (1 eq.) was added dropwise to the reaction flask and was stirred for an additional 40 minutes at 0&#xb0; C. Water (1 eq.) and TEA (1 eq.) were added to the reaction mixture which was allowed to stir for 60 minutes at 0&#xb0; C. The contents of the reaction flask were then vacuum filtered and dried in vacuo. After an extraction with chloroform/methanol/water 1:1.5:1 (v/v/v), the (14:0)-p-phosphodiester was dissolved in 40% ethyl acetate/hexane and centrifuged for 7 minutes. The supernatant was decanted and the insoluble fractions were combined.</p>
+ <p id="p-0070" num="0069">The relatively pure (12:0)-p-phosphodiester (1 eq.), DCC (2.2 eq.) and DMAP (0.1 eq.) were dried over phosphorous pentoxide for 12 hours. Cyanoethanol (1.1 eq.) was dissolved in dichloromethane and dried with magnesium sulfate for 12 hours. The (12:0)-p-phosphodiester was dissolved in dichloromethane and DCC and DMAP were added to the reaction flask. The flask was sealed with a septum and purged with nitrogen after adding the cyanoethanol solution. The reaction was stirred for 48 hours at room temperature. Water (5 eq.) was added and the reaction mixture was stirred for an additional 24 hours. The contents of the reaction flask were vacuum filtered and dried in vacuo. After an extraction with chloroform/brine 1:1 (v/v), the coupled product was purified by flash column chromatography using 40% ethyl acetate/hexane then switching to 80% ethyl acetate/hexane for a step gradient elution.</p>
+ <p id="p-0071" num="0070">After purification, the protected (12:0)-p-phosphodiester was split into two roughly equal portions. The first portion was used for direct fluorination (Example 7) and the second portion was used for reduction followed by fluorination. For reduction, the protected (12:0)-p-phosphodiester (1 eq.) was dissolved in THF/water 3:0.1 equivalents respectively and sodium borohydride (1 eq.) was added to the reaction flask. The reaction mixture was stirred until all sodium borohydride dissolved (&#x2dc;2 minutes) and continued stirring for an additional 10 minutes. Water (3 eq.) was added and the reaction mixture was stirred an additional 10 minutes. All solvents were removed in vacuo and the reduced, protected (12:0)-p-phosphodiester was purified by flash column chromatography using 40% ethyl acetate/hexane then switching to 80% ethyl acetate/hexane for a step gradient elution.</p>
+ <p id="p-0072" num="0071">The reduced, protected (12:0)-p-phosphodiester (1 eq.) was dried over phosphorous pentoxide for 12 hours and dissolved in dichloromethane. The reaction flask was sealed and placed in an ice bath to maintain 0&#xb0; C. temperature. Deoxofluor (2 eq.) in dichloromethane was slowly added (&#x2dc;2 minutes). The ice bath was removed and the reaction mixture was stirred for 12 hours. An extraction with dichloromethane/saturated sodium bicarbonate solution 1:1 (v/v) was performed and the organic layer was collected.</p>
+ <p id="p-0073" num="0072">After drying in vacuo, the protected (12:0)-p-monofluorophosphodiester was purified by flash column chromatography using 40% ethyl acetate/hexane then switching to 80% ethyl acetate/hexane for a step gradient elution. For deprotection, the protected (12:0)-p-monofluoro-phosphodiester (1 eq.) was dissolved in pyridine. N-propylamine (100 eq.) in pyridine was added to the reaction flask and the clear solution was stirred for 10 minutes at room temperature. All solvents were removed in vacuo to yield the n-propylammonium salt of the (12:0)-p-monofluoro-phosphodiester. An extraction with chloroform/methanol/brine 1:1.5:1 (v/v/v) was performed to generate the sodium salt of the (12:0)-p-monofluorophosphodiester.</p>
+ <heading id="h-0024" level="1">Example 9</heading>
+ <heading id="h-0025" level="1">(16:0)-o-difluorophosphodiester</heading>
+ <p id="p-0074" num="0073"><chemistry id="CHEM-US-00013" num="00013">
+ <img id="EMI-C00013" he="17.95mm" wi="45.89mm" file="US08022239-20110920-C00013.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+ </chemistry>
+ </p>
+ <p id="p-0075" num="0074">Phosphorous oxychloride (1 eq.) was added to a round bottom flask and dissolved in tetrahydrofuran (THF). The round bottom flask was then placed in an ice bath to maintain a 0&#xb0; C. temperature. Hexadecanol (1 eq.) dissolved in THF with triethylamine (TEA) (1 eq.) was added dropwise to the phosphorous oxychloride/THF solution. Once all of the hexadecanol/THF/TEA solution was added (&#x2dc;20 min.), the reaction mixture was stirred for an additional 40 minutes at 0&#xb0; C. A solution of o-hydroxybenzaldehyde (1 eq.) in THF was added dropwise to the reaction flask followed by TEA (1 eq.) in THF. The reaction mixture was stirred for an additional 40 minutes at 0&#xb0; C. Water (1 eq.) and TEA (1 eq.) were added to the reaction mixture which was allowed to stir for 60 minutes at 0&#xb0; C. The contents of the reaction flask were then vacuum filtered and dried in vacuo. An extraction with chloroform/methanol/water 1:1.5:1 (v/v/v) respectively was performed and the (16:0)-o-phosphodiester was used without further purification.</p>
+ <p id="p-0076" num="0075">The relatively pure (16:0)-o-phosphodiester (1 eq.), DCC (2.2 eq.) and DMAP (0.1 eq.) were dried over phosphorous pentoxide for 12 hours. Cyanoethanol (1.1 eq.) was dissolved in dichloromethane and dried with magnesium sulfate for 12 hours. The (16:0)-o-phosphodiester was dissolved in dichloromethane and DCC and DMAP were added to the reaction flask. The flask was sealed with a septum and purged with nitrogen after adding the cyanoethanol solution. The reaction was stirred for 48 hours at room temperature. Water (5 eq.) was added and the reaction mixture was stirred for an additional 24 hours. The contents of the reaction flask were vacuum filtered and dried in vacuo. After an extraction with chloroform/brine 1:1 (v/v), the coupled product was purified by flash column chromatography using 40% ethyl acetate/hexane then switching to 80% ethyl acetate/hexane for a step gradient elution.</p>
+ <p id="p-0077" num="0076">After purification, the protected (16:0)-o-phosphodiester was split into two roughly equal portions. The first portion was used for direct fluorination and the second portion was used for reduction followed by fluorination (Example 10). Protected (16:0)-o-phosphodiester (1 eq.) was dried over phosphorous pentoxide for 12 hours and dissolved in dichloromethane. The reaction flask was sealed and placed in an ice bath to maintain 0&#xb0; C. temperature. Deoxofluor (2 eq.) in dichloromethane was slowly added (&#x2dc;2 minutes) and ethanol (0.2 eq.) was added to generate a catalyst, HF. The ice bath was removed and the reaction mixture was stirred for 16 hours. An extraction with dichloromethane/saturated sodium bicarbonate solution 1:1 (v/v) was performed and the organic layer was collected.</p>
+ <p id="p-0078" num="0077">After drying in vacuo, the protected (16:0)-o-difluorophosphodiester was purified by flash column chromatography using 40% ethyl acetate/hexane then switching to 80% ethyl acetate/hexane for a step gradient elution. For deprotection, the protected (16:0)-o-difluoro-phosphodiester (1 eq.) was dissolved in pyridine. N-propylamine (100 eq.) in pyridine was added to the reaction flask and the clear solution was stirred for 10 minutes at room temperature. All solvents were removed in vacuo to yield the n-propylammonium salt of the (16:0)-o-difluorophosphodiester. An extraction with chloroform/methanol/brine 1:1.5:1 (v/v/v) was performed to generate the sodium salt of the (16:0)-o-difluorophosphodiester.</p>
+ <heading id="h-0026" level="1">Example 10</heading>
+ <heading id="h-0027" level="1">(16:0)-o-monofluorophosphodiester</heading>
+ <p id="p-0079" num="0078"><chemistry id="CHEM-US-00014" num="00014">
+ <img id="EMI-C00014" he="17.95mm" wi="45.89mm" file="US08022239-20110920-C00014.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+ </chemistry>
+ </p>
+ <p id="p-0080" num="0079">Phosphorous oxychloride (1 eq.) was added to a round bottom flask and dissolved in tetrahydrofuran (THF). The round bottom flask was then placed in an ice bath to maintain a 0&#xb0; C. temperature. Hexadecanol (1 eq.) dissolved in THF with triethylamine (TEA) (1 eq.) was added dropwise to the phosphorous oxychloride/THF solution. Once all of the hexadecanol/THF/TEA solution was added (&#x2dc;20 min.), the reaction mixture was stirred for an additional 40 minutes at 0&#xb0; C. A solution of o-hydroxybenzaldehyde (1 eq.) in THF was added dropwise to the reaction flask followed by TEA (1 eq.) in THF. The reaction mixture was stirred for an additional 40 minutes at 0&#xb0; C. Water (1 eq.) and TEA (1 eq.) were added to the reaction mixture which was allowed to stir for 60 minutes at 0&#xb0; C. The contents of the reaction flask were then vacuum filtered and dried in vacuo. An extraction with chloroform/methanol/water 1:1.5:1 (v/v/v) respectively was performed and the (16:0)-o-phosphodiester was used without further purification.</p>
+ <p id="p-0081" num="0080">The relatively pure (16:0)-o-phosphodiester (1 eq.), DCC (2.2 eq.) and DMAP (0.1 eq.) were dried over phosphorous pentoxide for 12 hours. Cyanoethanol (1.1 eq.) was dissolved in dichloromethane and dried with magnesium sulfate for 12 hours. The (16:0)-o-phosphodiester was dissolved in dichloromethane and DCC and DMAP were added to the reaction flask. The flask was sealed with a septum and purged with nitrogen after adding the cyanoethanol solution. The reaction was stirred for 48 hours at room temperature. Water (5 eq.) was added and the reaction mixture was stirred for an additional 24 hours. The contents of the reaction flask were vacuum filtered and dried in vacuo. After an extraction with chloroform/brine 1:1 (v/v), the coupled product was purified by flash column chromatography using 40% ethyl acetate/hexane then switching to 80% ethyl acetate/hexane for a step gradient elution.</p>
+ <p id="p-0082" num="0081">After purification, the protected (16:0)-o-phosphodiester was split into two roughly equal portions. The first portion was used for direct fluorination (Example 9) and the second portion was used for reduction followed by fluorination. For reduction, the protected (16:0)-o-phosphodiester (1 eq.) was dissolved in THF/water 3:0.1 equivalents respectively and sodium borohydride (1 eq.) was added to the reaction flask. The reaction mixture was stirred until all sodium borohydride dissolved (&#x2dc;2 minutes) and continued stirring for an additional 10 minutes. Water (3 eq.) was added and the reaction mixture was stirred an additional 10 minutes. All solvents were removed in vacuo and the reduced, protected (16:0)-o-phosphodiester was purified by flash column chromatography using 40% ethyl acetate/hexane then switching to 80% ethyl acetate/hexane for a step gradient elution. The reduced, protected (16:0)-o-phosphodiester (1 eq.) was dried over phosphorous pentoxide for 12 hours and dissolved in dichloromethane. The reaction flask was sealed and placed in an ice bath to maintain 0&#xb0; C. temperature. Deoxofluor (2 eq.) in dichloromethane was slowly added (&#x2dc;2 minutes). The ice bath was removed and the reaction mixture was stirred for 12 hours. An extraction with dichloromethane/saturated sodium bicarbonate solution 1:1 (v/v) was performed and the organic layer was collected.</p>
+ <p id="p-0083" num="0082">After drying in vacuo, the protected (16:0)-o-monofluorophosphodiester was purified by flash column chromatography using 40% ethyl acetate/hexane then switching to 80% ethyl acetate/hexane for a step gradient elution. For deprotection, the protected (16:0)-o-monofluoro-phosphodiester (1 eq.) was dissolved in pyridine. N-propylamine (100 eq.) in pyridine was added to the reaction flask and the clear solution was stirred for 10 minutes at room temperature. All solvents were removed in vacuo to yield the n-propylammonium salt of the (16:0)-o-monofluoro-phosphodiester. An extraction with chloroform/methanol/brine (v/v/v) was performed to generate the sodium salt of the (16:0)-o-monofluorophosphodiester.</p>
+ <p id="p-0084" num="0083">These compounds were then introduced into an aqueous solution for reaction with autotaxin.</p>
+ <p id="h-0028" num="0000">Autotaxin Inactivation Analysis</p>
+ <p id="p-0085" num="0084">The efficacy of these compounds was determined by evaluating autotaxin-mediated hydrolysis of the synthetic LPC analog FS3 at specific excitation and emission wavelengths resulting from cleavage of FS-3 by autotaxin. The test protocol was as follows:</p>
+ <p id="p-0086" num="0085">MDA-MB-435 cells were cultured at 37&#xb0; C. and 5% CO<sub>2 </sub>in Dulbecco's Modified Eagle Medium (DMEM) (MediaTech, Herndon, Va.) containing 5% fetal bovine serum (Hyclone, Logan, Utah), 100 U/ml penicillin, 100 &#x3bc;g/ml streptomycin (Hyclone, Logan, Utah) and 292 &#x3bc;g/ml L-glutamine (Hyclone, Logan, Utah). Cells were grown to &#x2dc;80% confluence at which time the cells were washed twice with sterile phosphate buffered saline prior to the addition of serum free DMEM containing L-glutamine. Conditioned medium was collected after 24-30 hours, supplemented with 20% ethylene glycol and was clarified by centrifugation at 3000&#xd7;g and 4&#xb0; C. for 10 min. The media was concentrated &#x2dc;10 fold and buffer exchanged into Tris (50 mM, pH 7.4) containing 20% ethylene glycol using an Amicon 8050 cell fitted with a PM30 filter (MILLIPORE&#xae;, Billerica, Mass.). Aliquots of concentrated conditioned media were stored at 4&#xb0; C. until needed.</p>
+ <p id="p-0087" num="0086">ATX inhibition was assayed using FS-3 (Echelon Biosciences, Inc., Salt Lake City, Utah, USA) as a substrate and &#x2dc;10 times concentrated conditioned serum-free medium (CCM) from MDA MB-435 cells as the source of ATX. Assays were performed in 96-well plates with CCM comprising one-third of the total volume and final FS-3 and charcoal-stripped fatty acid free BSA concentrations of 1 and 30 &#x3bc;M in assay buffer (1 mM each CaCl<sub>2 </sub>and MgCl<sub>2</sub>, 5 mM KCl, 140 mM NaCl, 50 mM Tris pH 8.0). Fluorescence was read at 5 minute intervals by a Synergy2 system (BioTek, Winooski, Vt.) with excitation and emission wavelengths of 485 and 538 nm, respectively. Results are shown at 1 hour, at which point all fluorescence changes as a function of time were linear. Fluorescence readings were normalized to vehicle control after subtraction of fluorescence in the absence of CCM. Data are shown as the mean&#xb1;S.D. of at least three wells. The inhibition levels are inversely related to the fluorescence change over time and concentration and converted to percentage fluorescence response to show the effectiveness of the compounds tested (low % response reflects effective inhibition). The control was LPA alone. The results of these tests for the Example compounds from above were as follows:</p>
+ <p id="p-0088" num="0087">
+ <tables id="TABLE-US-00001" num="00001">
+ <table frame="none" colsep="0" rowsep="0">
+ <tgroup align="left" colsep="0" rowsep="0" cols="1">
+ <colspec colname="1" colwidth="217pt" align="center"/>
+ <thead>
+ <row>
+ <entry namest="1" nameend="1" rowsep="1">TABLE 2</entry>
+ </row>
+ </thead>
+ <tbody valign="top">
+ <row>
+ <entry namest="1" nameend="1" align="center" rowsep="1"/>
+ </row>
+ <row>
+ <entry>Autotaxin Activity Reduction of Exemplified Compounds</entry>
+ </row>
+ </tbody>
+ </tgroup>
+ <tgroup align="left" colsep="0" rowsep="0" cols="4">
+ <colspec colname="1" colwidth="42pt" align="center"/>
+ <colspec colname="2" colwidth="56pt" align="center"/>
+ <colspec colname="3" colwidth="35pt" align="center"/>
+ <colspec colname="4" colwidth="84pt" align="center"/>
+ <tbody valign="top">
+ <row>
+ <entry>Example</entry>
+ <entry>Concentration</entry>
+ <entry>Time</entry>
+ <entry>Fluorescence (% Response)</entry>
+ </row>
+ <row>
+ <entry namest="1" nameend="4" align="center" rowsep="1"/>
+ </row>
+ </tbody>
+ </tgroup>
+ <tgroup align="left" colsep="0" rowsep="0" cols="6">
+ <colspec colname="1" colwidth="42pt" align="char" char="."/>
+ <colspec colname="2" colwidth="28pt" align="right"/>
+ <colspec colname="3" colwidth="28pt" align="left"/>
+ <colspec colname="4" colwidth="14pt" align="right"/>
+ <colspec colname="5" colwidth="21pt" align="left"/>
+ <colspec colname="6" colwidth="84pt" align="char" char="."/>
+ <tbody valign="top">
+ <row>
+ <entry>1</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>0</entry>
+ <entry>hour</entry>
+ <entry>96.1</entry>
+ </row>
+ <row>
+ <entry>1</entry>
+ <entry>100</entry>
+ <entry>uM</entry>
+ <entry>0</entry>
+ <entry>hour</entry>
+ <entry>94.1</entry>
+ </row>
+ <row>
+ <entry>2</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>6</entry>
+ <entry>hours</entry>
+ <entry>25.0</entry>
+ </row>
+ <row>
+ <entry>2</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>3</entry>
+ <entry>hours</entry>
+ <entry>28.1</entry>
+ </row>
+ <row>
+ <entry>2</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>1</entry>
+ <entry>hour</entry>
+ <entry>47.9</entry>
+ </row>
+ <row>
+ <entry>2</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>0</entry>
+ <entry>hour</entry>
+ <entry>83.3</entry>
+ </row>
+ <row>
+ <entry>2</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>6</entry>
+ <entry>hours</entry>
+ <entry>&#x2212;2.1</entry>
+ </row>
+ <row>
+ <entry>2</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>3</entry>
+ <entry>hours</entry>
+ <entry>9.4</entry>
+ </row>
+ <row>
+ <entry>2</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>1</entry>
+ <entry>hour</entry>
+ <entry>35.4</entry>
+ </row>
+ <row>
+ <entry>2</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>0</entry>
+ <entry>hour</entry>
+ <entry>57.3</entry>
+ </row>
+ <row>
+ <entry>3</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>6</entry>
+ <entry>hours</entry>
+ <entry>34.4</entry>
+ </row>
+ <row>
+ <entry>3</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>3</entry>
+ <entry>hours</entry>
+ <entry>44.8</entry>
+ </row>
+ <row>
+ <entry>3</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>1</entry>
+ <entry>hour</entry>
+ <entry>60.4</entry>
+ </row>
+ <row>
+ <entry>3</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>0</entry>
+ <entry>hour</entry>
+ <entry>94.8</entry>
+ </row>
+ <row>
+ <entry>3</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>6</entry>
+ <entry>hours</entry>
+ <entry>10.4</entry>
+ </row>
+ <row>
+ <entry>3</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>3</entry>
+ <entry>hours</entry>
+ <entry>19.0</entry>
+ </row>
+ <row>
+ <entry>3</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>1</entry>
+ <entry>hour</entry>
+ <entry>37.5</entry>
+ </row>
+ <row>
+ <entry>3</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>0</entry>
+ <entry>hour</entry>
+ <entry>71.9</entry>
+ </row>
+ <row>
+ <entry>4</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>6</entry>
+ <entry>hours</entry>
+ <entry>21.9</entry>
+ </row>
+ <row>
+ <entry>4</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>3</entry>
+ <entry>hours</entry>
+ <entry>33.3</entry>
+ </row>
+ <row>
+ <entry>4</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>1</entry>
+ <entry>hour</entry>
+ <entry>50.0</entry>
+ </row>
+ <row>
+ <entry>4</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>0</entry>
+ <entry>hour</entry>
+ <entry>81.3</entry>
+ </row>
+ <row>
+ <entry>4</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>6</entry>
+ <entry>hours</entry>
+ <entry>&#x2212;2.1</entry>
+ </row>
+ <row>
+ <entry>4</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>3</entry>
+ <entry>hours</entry>
+ <entry>5.2</entry>
+ </row>
+ <row>
+ <entry>4</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>1</entry>
+ <entry>hour</entry>
+ <entry>12.5</entry>
+ </row>
+ <row>
+ <entry>4</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>0</entry>
+ <entry>hour</entry>
+ <entry>26.0</entry>
+ </row>
+ <row>
+ <entry>5</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>6</entry>
+ <entry>hours</entry>
+ <entry>31.2</entry>
+ </row>
+ <row>
+ <entry>5</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>3</entry>
+ <entry>hours</entry>
+ <entry>42.7</entry>
+ </row>
+ <row>
+ <entry>5</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>1</entry>
+ <entry>hour</entry>
+ <entry>57.1</entry>
+ </row>
+ <row>
+ <entry>5</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>0</entry>
+ <entry>hour</entry>
+ <entry>92.5</entry>
+ </row>
+ <row>
+ <entry>5</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>6</entry>
+ <entry>hours</entry>
+ <entry>9.6</entry>
+ </row>
+ <row>
+ <entry>5</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>3</entry>
+ <entry>hours</entry>
+ <entry>12.9</entry>
+ </row>
+ <row>
+ <entry>5</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>1</entry>
+ <entry>hour</entry>
+ <entry>14.3</entry>
+ </row>
+ <row>
+ <entry>5</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>0</entry>
+ <entry>hour</entry>
+ <entry>24.5</entry>
+ </row>
+ <row>
+ <entry>6</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>6</entry>
+ <entry>hours</entry>
+ <entry>32.7</entry>
+ </row>
+ <row>
+ <entry>6</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>3</entry>
+ <entry>hours</entry>
+ <entry>45.7</entry>
+ </row>
+ <row>
+ <entry>6</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>1</entry>
+ <entry>hour</entry>
+ <entry>61.9</entry>
+ </row>
+ <row>
+ <entry>6</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>0</entry>
+ <entry>hour</entry>
+ <entry>95.9</entry>
+ </row>
+ <row>
+ <entry>6</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>6</entry>
+ <entry>hours</entry>
+ <entry>18.5</entry>
+ </row>
+ <row>
+ <entry>6</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>3</entry>
+ <entry>hours</entry>
+ <entry>25.0</entry>
+ </row>
+ <row>
+ <entry>6</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>1</entry>
+ <entry>hour</entry>
+ <entry>31.3</entry>
+ </row>
+ <row>
+ <entry>6</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>0</entry>
+ <entry>hour</entry>
+ <entry>48.9</entry>
+ </row>
+ <row>
+ <entry>7</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>6</entry>
+ <entry>hours</entry>
+ <entry>37.0</entry>
+ </row>
+ <row>
+ <entry>7</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>3</entry>
+ <entry>hours</entry>
+ <entry>48.3</entry>
+ </row>
+ <row>
+ <entry>7</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>1</entry>
+ <entry>hour</entry>
+ <entry>64.5</entry>
+ </row>
+ <row>
+ <entry>7</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>0</entry>
+ <entry>hour</entry>
+ <entry>93.9</entry>
+ </row>
+ <row>
+ <entry>7</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>6</entry>
+ <entry>hours</entry>
+ <entry>24.9</entry>
+ </row>
+ <row>
+ <entry>7</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>3</entry>
+ <entry>hours</entry>
+ <entry>29.4</entry>
+ </row>
+ <row>
+ <entry>7</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>1</entry>
+ <entry>hour</entry>
+ <entry>36.2</entry>
+ </row>
+ <row>
+ <entry>7</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>0</entry>
+ <entry>hour</entry>
+ <entry>52.0</entry>
+ </row>
+ <row>
+ <entry>8</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>6</entry>
+ <entry>hours</entry>
+ <entry>40.6</entry>
+ </row>
+ <row>
+ <entry>8</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>3</entry>
+ <entry>hours</entry>
+ <entry>52.2</entry>
+ </row>
+ <row>
+ <entry>8</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>1</entry>
+ <entry>hour</entry>
+ <entry>70.0</entry>
+ </row>
+ <row>
+ <entry>8</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>0</entry>
+ <entry>hour</entry>
+ <entry>99.4</entry>
+ </row>
+ <row>
+ <entry>8</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>6</entry>
+ <entry>hours</entry>
+ <entry>37.7</entry>
+ </row>
+ <row>
+ <entry>8</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>3</entry>
+ <entry>hours</entry>
+ <entry>48.4</entry>
+ </row>
+ <row>
+ <entry>8</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>1</entry>
+ <entry>hour</entry>
+ <entry>63.0</entry>
+ </row>
+ <row>
+ <entry>8</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>0</entry>
+ <entry>hour</entry>
+ <entry>89.1</entry>
+ </row>
+ <row>
+ <entry>9</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>6</entry>
+ <entry>hours</entry>
+ <entry>42.1</entry>
+ </row>
+ <row>
+ <entry>9</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>3</entry>
+ <entry>hours</entry>
+ <entry>51.0</entry>
+ </row>
+ <row>
+ <entry>9</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>1</entry>
+ <entry>hour</entry>
+ <entry>74.5</entry>
+ </row>
+ <row>
+ <entry>9</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>0</entry>
+ <entry>hour</entry>
+ <entry>97.6</entry>
+ </row>
+ <row>
+ <entry>9</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>6</entry>
+ <entry>hours</entry>
+ <entry>38.4</entry>
+ </row>
+ <row>
+ <entry>9</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>3</entry>
+ <entry>hours</entry>
+ <entry>44.2</entry>
+ </row>
+ <row>
+ <entry>9</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>1</entry>
+ <entry>hour</entry>
+ <entry>61.4</entry>
+ </row>
+ <row>
+ <entry>9</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>0</entry>
+ <entry>hour</entry>
+ <entry>81.8</entry>
+ </row>
+ <row>
+ <entry>10</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>6</entry>
+ <entry>hours</entry>
+ <entry>4.7</entry>
+ </row>
+ <row>
+ <entry>10</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>3</entry>
+ <entry>hours</entry>
+ <entry>10.6</entry>
+ </row>
+ <row>
+ <entry>10</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>1</entry>
+ <entry>hour</entry>
+ <entry>29.3</entry>
+ </row>
+ <row>
+ <entry>10</entry>
+ <entry>3</entry>
+ <entry>uM</entry>
+ <entry>0</entry>
+ <entry>hour</entry>
+ <entry>86.6</entry>
+ </row>
+ <row>
+ <entry>10</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>6</entry>
+ <entry>hours</entry>
+ <entry>&#x2212;17.0</entry>
+ </row>
+ <row>
+ <entry>10</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>3</entry>
+ <entry>hours</entry>
+ <entry>&#x2212;18.7</entry>
+ </row>
+ <row>
+ <entry>10</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>1</entry>
+ <entry>hour</entry>
+ <entry>&#x2212;16.8</entry>
+ </row>
+ <row>
+ <entry>10</entry>
+ <entry>30</entry>
+ <entry>uM</entry>
+ <entry>0</entry>
+ <entry>hour</entry>
+ <entry>0.4</entry>
+ </row>
+ <row>
+ <entry>LPA</entry>
+ <entry>1</entry>
+ <entry>uM</entry>
+ <entry>6</entry>
+ <entry>hours</entry>
+ <entry>1.0</entry>
+ </row>
+ <row>
+ <entry>LPA</entry>
+ <entry>1</entry>
+ <entry>uM</entry>
+ <entry>3</entry>
+ <entry>hours</entry>
+ <entry>1.0</entry>
+ </row>
+ <row>
+ <entry>LPA</entry>
+ <entry>1</entry>
+ <entry>uM</entry>
+ <entry>1</entry>
+ <entry>hour</entry>
+ <entry>10.4</entry>
+ </row>
+ <row>
+ <entry>LPA</entry>
+ <entry>1</entry>
+ <entry>uM</entry>
+ <entry>0</entry>
+ <entry>hour</entry>
+ <entry>15.6</entry>
+ </row>
+ <row>
+ <entry namest="1" nameend="6" align="center" rowsep="1"/>
+ </row>
+ </tbody>
+ </tgroup>
+ </table>
+ </tables>
+ </p>
+ <p id="p-0089" num="0088">A decrease in % response upon increasing time reflects irreversible inhibition of autotaxin, and is exhibited by the majority of examples studied (eg. Example 3 at 3 uM showed a reduction from 94.8% response at hour 0 to 34.4% response at hour 6). Thus, it is evident that the inventive compounds exhibit excellent potential for autotaxin inactivation, particularly within an aqueous system, as compared with the LPA control (1 uM showed a minimal change from 15.6% response at hour 0 to 1.0% response at hour 6), at least.</p>
+ <p id="p-0090" num="0089">There are, of course, many alternative embodiments and modifications of the present invention which are intended to be included within the spirit and scope of this invention.</p>
+ <?DETDESC description="Detailed Description" end="tail"?>
+ </description>
+ <us-chemistry idref="CHEM-US-00001" cdx-file="US08022239-20110920-C00001.CDX" mol-file="US08022239-20110920-C00001.MOL"/>
+ <us-chemistry idref="CHEM-US-00002" cdx-file="US08022239-20110920-C00002.CDX" mol-file="US08022239-20110920-C00002.MOL"/>
+ <us-chemistry idref="CHEM-US-00003" cdx-file="US08022239-20110920-C00003.CDX" mol-file="US08022239-20110920-C00003.MOL"/>
+ <us-chemistry idref="CHEM-US-00004" cdx-file="US08022239-20110920-C00004.CDX" mol-file="US08022239-20110920-C00004.MOL"/>
+ <us-chemistry idref="CHEM-US-00005" cdx-file="US08022239-20110920-C00005.CDX" mol-file="US08022239-20110920-C00005.MOL"/>
+ <us-chemistry idref="CHEM-US-00006" cdx-file="US08022239-20110920-C00006.CDX" mol-file="US08022239-20110920-C00006.MOL"/>
+ <us-chemistry idref="CHEM-US-00007" cdx-file="US08022239-20110920-C00007.CDX" mol-file="US08022239-20110920-C00007.MOL"/>
+ <us-chemistry idref="CHEM-US-00008" cdx-file="US08022239-20110920-C00008.CDX" mol-file="US08022239-20110920-C00008.MOL"/>
+ <us-chemistry idref="CHEM-US-00009" cdx-file="US08022239-20110920-C00009.CDX" mol-file="US08022239-20110920-C00009.MOL"/>
+ <us-chemistry idref="CHEM-US-00010" cdx-file="US08022239-20110920-C00010.CDX" mol-file="US08022239-20110920-C00010.MOL"/>
+ <us-chemistry idref="CHEM-US-00011" cdx-file="US08022239-20110920-C00011.CDX" mol-file="US08022239-20110920-C00011.MOL"/>
+ <us-chemistry idref="CHEM-US-00012" cdx-file="US08022239-20110920-C00012.CDX" mol-file="US08022239-20110920-C00012.MOL"/>
+ <us-chemistry idref="CHEM-US-00013" cdx-file="US08022239-20110920-C00013.CDX" mol-file="US08022239-20110920-C00013.MOL"/>
+ <us-chemistry idref="CHEM-US-00014" cdx-file="US08022239-20110920-C00014.CDX" mol-file="US08022239-20110920-C00014.MOL"/>
+ <us-chemistry idref="CHEM-US-00015" cdx-file="US08022239-20110920-C00015.CDX" mol-file="US08022239-20110920-C00015.MOL"/>
+ <us-claim-statement>What we claimed is:</us-claim-statement>
+ <claims id="claims">
+ <claim id="CLM-00001" num="00001">
+ <claim-text>1. A compound conforming to the structure of Formula (II):</claim-text>
+ <claim-text><chemistry id="CHEM-US-00015" num="00015">
+ <img id="EMI-C00015" he="18.54mm" wi="57.91mm" file="US08022239-20110920-C00015.TIF" alt="embedded image" img-content="chem" img-format="tif"/>
+ </chemistry>
+ <claim-text>wherein R is C<sub>12-18 </sub>alkyl or alkenyl, X is CH<sub>2</sub>F or CHF<sub>2</sub>, and X is located at either position 2 or 4.</claim-text>
+ </claim-text>
+ </claim>
+ <claim id="CLM-00002" num="00002">
+ <claim-text>2. The compound of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein X is located in the 4 position and X is CH<sub>2</sub>F.</claim-text>
+ </claim>
+ <claim id="CLM-00003" num="00003">
+ <claim-text>3. The compound of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein X is located in the 2 position and X is CH<sub>2</sub>F.</claim-text>
+ </claim>
+ <claim id="CLM-00004" num="00004">
+ <claim-text>4. A method of reducing autotaxin activity in its ability to react with lysophosphatidyl choline to form lysophosphatidic acid, said method comprising the introduction of the compound of <claim-ref idref="CLM-00001">claim 1</claim-ref> within an aqueous system including an amount of autotaxin and an amount of a lysophosphatidyl choline.</claim-text>
+ </claim>
+ <claim id="CLM-00005" num="00005">
+ <claim-text>5. A method of reducing autotaxin activity in its ability to react with lysophosphatidyl choline to form lysophosphatidic acid, said method comprising the introduction of the compound of <claim-ref idref="CLM-00002">claim 2</claim-ref> within an aqueous system including an amount of autotaxin and an amount of a lysophosphatidyl choline.</claim-text>
+ </claim>
+ <claim id="CLM-00006" num="00006">
+ <claim-text>6. A method of reducing autotaxin activity in its ability to react with lysophosphatidyl choline to form lysophosphatidic acid, said method comprising the introduction of the compound of <claim-ref idref="CLM-00003">claim 3</claim-ref> within an aqueous system including an amount of autotaxin and an amount of a lysophosphatidyl choline.</claim-text>
+ </claim>
+ <claim id="CLM-00007" num="00007">
+ <claim-text>7. A method of producing the compound of <claim-ref idref="CLM-00001">claim 1</claim-ref> comprising the sequential steps of:
+ <claim-text>a) reacting phosphorus oxychloride with a C<sub>12-18 </sub>fatty alcohol;</claim-text>
+ <claim-text>b) reacting the resultant compound of step &#x201c;a&#x201d; with a hydroxybenzaldehyde, thereby forming a phosphodiester compound;</claim-text>
+ <claim-text>c) reacting said phosphodiester compound with a cyanoethanol to form a phosphotriester compound;</claim-text>
+ <claim-text>d) reacting said phosphotriester compound with Deoxofluor, wherein said reaction with Deoxofluor is optionally preceded by reducing said phosphotriester compound with sodium borohydride, thereby producing a fluorinated compound; and</claim-text>
+ <claim-text>e) deprotecting the resultant fluorinated compound of step &#x201c;d&#x201d;.</claim-text>
+ </claim-text>
+ </claim>
+ </claims>
+ </us-patent-grant>
+ 

@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v42-2006-08-23.dtd" [ ]>
+ <us-patent-grant lang="EN" dtd-version="v4.2 2006-08-23" file="US08020398-20110920.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20110906" date-publ="20110920">
+ <us-bibliographic-data-grant>
+ <publication-reference>
+ <document-id>
+ <country>US</country>
+ <doc-number>08020398</doc-number>
+ <kind>B2</kind>
+ <date>20110920</date>
+ </document-id>
+ </publication-reference>
+ <application-reference appl-type="utility">
+ <document-id>
+ <country>US</country>
+ <doc-number>12243983</doc-number>
+ <date>20081002</date>
+ </document-id>
+ </application-reference>
+ <us-application-series-code>12</us-application-series-code>
+ <us-term-of-grant>
+ <us-term-extension>540</us-term-extension>
+ </us-term-of-grant>
+ <classifications-ipcr>
+ <classification-ipcr>
+ <ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+ <classification-level>A</classification-level>
+ <section>C</section>
+ <class>23</class>
+ <subclass>F</subclass>
+ <main-group>1</main-group>
+ <subgroup>00</subgroup>
+ <symbol-position>F</symbol-position>
+ <classification-value>I</classification-value>
+ <action-date><date>20110920</date></action-date>
+ <generating-office><country>US</country></generating-office>
+ <classification-status>B</classification-status>
+ <classification-data-source>H</classification-data-source>
+ </classification-ipcr>
+ </classifications-ipcr>
+ <classification-national>
+ <country>US</country>
+ <main-classification> 622592</main-classification>
+ <further-classification>15634527</further-classification>
+ <further-classification>118724</further-classification>
+ <further-classification>279128</further-classification>
+ <further-classification>361699</further-classification>
+ </classification-national>
+ <invention-title id="d2e53">Fluid delivery mechanism for vacuum wafer processing system</invention-title>
+ <references-cited>
+ <citation>
+ <patcit num="00001">
+ <document-id>
+ <country>US</country>
+ <doc-number>7363082</doc-number>
+ <kind>B2</kind>
+ <name>Ransbury et al.</name>
+ <date>20080400</date>
+ </document-id>
+ </patcit>
+ <category>cited by examiner</category>
+ <classification-national><country>US</country><main-classification>607 36</main-classification></classification-national>
+ </citation>
+ <citation>
+ <patcit num="00002">
+ <document-id>
+ <country>US</country>
+ <doc-number>2005/0085077</doc-number>
+ <kind>A1</kind>
+ <name>Ogawa et al.</name>
+ <date>20050400</date>
+ </document-id>
+ </patcit>
+ <category>cited by examiner</category>
+ <classification-national><country>US</country><main-classification>438689</main-classification></classification-national>
+ </citation>
+ </references-cited>
+ <number-of-claims>14</number-of-claims>
+ <us-exemplary-claim>1</us-exemplary-claim>
+ <us-field-of-classification-search>
+ <classification-national>
+ <country>US</country>
+ <main-classification> 622592</main-classification>
+ </classification-national>
+ <classification-national>
+ <country>US</country>
+ <main-classification>15634527</main-classification>
+ </classification-national>
+ <classification-national>
+ <country>US</country>
+ <main-classification>118724</main-classification>
+ </classification-national>
+ <classification-national>
+ <country>US</country>
+ <main-classification>279128</main-classification>
+ </classification-national>
+ <classification-national>
+ <country>US</country>
+ <main-classification>361699</main-classification>
+ </classification-national>
+ </us-field-of-classification-search>
+ <figures>
+ <number-of-drawing-sheets>18</number-of-drawing-sheets>
+ <number-of-figures>23</number-of-figures>
+ </figures>
+ <us-related-documents>
+ <related-publication>
+ <document-id>
+ <country>US</country>
+ <doc-number>20100084579</doc-number>
+ <kind>A1</kind>
+ <date>20100408</date>
+ </document-id>
+ </related-publication>
+ </us-related-documents>
+ <parties>
+ <applicants>
+ <applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+ <addressbook>
+ <last-name>Fish</last-name>
+ <first-name>Roger B.</first-name>
+ <address>
+ <city>Bedford</city>
+ <state>MA</state>
+ <country>US</country>
+ </address>
+ </addressbook>
+ <nationality>
+ <country>omitted</country>
+ </nationality>
+ <residence>
+ <country>US</country>
+ </residence>
+ </applicant>
+ <applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+ <addressbook>
+ <last-name>Mitchell</last-name>
+ <first-name>Robert J.</first-name>
+ <address>
+ <city>Winchester</city>
+ <state>MA</state>
+ <country>US</country>
+ </address>
+ </addressbook>
+ <nationality>
+ <country>omitted</country>
+ </nationality>
+ <residence>
+ <country>US</country>
+ </residence>
+ </applicant>
+ </applicants>
+ </parties>
+ <assignees>
+ <assignee>
+ <addressbook>
+ <orgname>Varian Semiconductor Equipment Associates, Inc.</orgname>
+ <role>02</role>
+ <address>
+ <city>Gloucester</city>
+ <state>MA</state>
+ <country>US</country>
+ </address>
+ </addressbook>
+ </assignee>
+ </assignees>
+ <examiners>
+ <primary-examiner>
+ <last-name>Tyler</last-name>
+ <first-name>Cheryl J</first-name>
+ <department>3744</department>
+ </primary-examiner>
+ <assistant-examiner>
+ <last-name>Bradford</last-name>
+ <first-name>Jonathan</first-name>
+ </assistant-examiner>
+ </examiners>
+ </us-bibliographic-data-grant>
+ <abstract id="abstract">
+ <p id="p-0001" num="0000">The fluid delivery mechanism of the present disclosure provides a solution for use in a single axis of motion that allows the connection of one or more fluid flow paths over a wide range of temperatures into a vacuum environment. The mechanism does not employ flexible tubing that is prone to fatigue, especially at very low temperatures. In one embodiment, a tube is axially moved within a sealed piston to allow for fluid delivery. In a second embodiment, bellows are used to provide the required functionality. In another embodiment, it is possible to achieve movement in two or more axis of motion by utilizing two or more appropriately configured mechanisms.</p>
+ </abstract>
+ <drawings id="DRAWINGS">
+ <figure id="Fig-EMI-D00000" num="00000">
+ <img id="EMI-D00000" he="157.82mm" wi="203.88mm" file="US08020398-20110920-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+ </figure>
+ <figure id="Fig-EMI-D00001" num="00001">
+ <img id="EMI-D00001" he="166.20mm" wi="134.79mm" orientation="landscape" file="US08020398-20110920-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+ </figure>
+ <figure id="Fig-EMI-D00002" num="00002">
+ <img id="EMI-D00002" he="206.76mm" wi="174.41mm" orientation="landscape" file="US08020398-20110920-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+ </figure>
+ <figure id="Fig-EMI-D00003" num="00003">
+ <img id="EMI-D00003" he="138.35mm" wi="127.42mm" file="US08020398-20110920-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+ </figure>
+ <figure id="Fig-EMI-D00004" num="00004">
+ <img id="EMI-D00004" he="135.81mm" wi="137.50mm" file="US08020398-20110920-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+ </figure>
+ <figure id="Fig-EMI-D00005" num="00005">
+ <img id="EMI-D00005" he="135.55mm" wi="148.93mm" file="US08020398-20110920-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+ </figure>
+ <figure id="Fig-EMI-D00006" num="00006">
+ <img id="EMI-D00006" he="159.26mm" wi="159.77mm" file="US08020398-20110920-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+ </figure>
+ <figure id="Fig-EMI-D00007" num="00007">
+ <img id="EMI-D00007" he="159.51mm" wi="249.85mm" file="US08020398-20110920-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+ </figure>
+ <figure id="Fig-EMI-D00008" num="00008">
+ <img id="EMI-D00008" he="120.99mm" wi="210.14mm" file="US08020398-20110920-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+ </figure>
+ <figure id="Fig-EMI-D00009" num="00009">
+ <img id="EMI-D00009" he="122.09mm" wi="216.32mm" file="US08020398-20110920-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+ </figure>
+ <figure id="Fig-EMI-D00010" num="00010">
+ <img id="EMI-D00010" he="117.35mm" wi="208.11mm" file="US08020398-20110920-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+ </figure>
+ <figure id="Fig-EMI-D00011" num="00011">
+ <img id="EMI-D00011" he="172.97mm" wi="119.38mm" file="US08020398-20110920-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+ </figure>
+ <figure id="Fig-EMI-D00012" num="00012">
+ <img id="EMI-D00012" he="148.59mm" wi="192.79mm" file="US08020398-20110920-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+ </figure>
+ <figure id="Fig-EMI-D00013" num="00013">
+ <img id="EMI-D00013" he="154.52mm" wi="185.25mm" file="US08020398-20110920-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+ </figure>
+ <figure id="Fig-EMI-D00014" num="00014">
+ <img id="EMI-D00014" he="156.46mm" wi="227.50mm" file="US08020398-20110920-D00014.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+ </figure>
+ <figure id="Fig-EMI-D00015" num="00015">
+ <img id="EMI-D00015" he="174.33mm" wi="170.77mm" file="US08020398-20110920-D00015.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+ </figure>
+ <figure id="Fig-EMI-D00016" num="00016">
+ <img id="EMI-D00016" he="155.36mm" wi="257.98mm" file="US08020398-20110920-D00016.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+ </figure>
+ <figure id="Fig-EMI-D00017" num="00017">
+ <img id="EMI-D00017" he="187.20mm" wi="183.56mm" file="US08020398-20110920-D00017.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+ </figure>
+ <figure id="Fig-EMI-D00018" num="00018">
+ <img id="EMI-D00018" he="170.18mm" wi="152.57mm" file="US08020398-20110920-D00018.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+ </figure>
+ </drawings>
+ <description id="description">
+ <?BRFSUM description="Brief Summary" end="lead"?>
+ <heading id="h-0001" level="1">BACKGROUND OF THE INVENTION</heading>
+ <p id="p-0002" num="0001">Ion implanters are commonly used in the production of semiconductor wafers. An ion source is used to create an ion beam, which is then directed toward the wafer. As the ions strike the wafer, they dope a particular region of the wafer. The configuration of doped regions defines their functionality, and through the use of conductive interconnects, these wafers can be transformed into complex circuits.</p>
+ <p id="p-0003" num="0002">A block diagram of a representative ion implanter <b>100</b> is shown in <figref idref="DRAWINGS">FIG. 1</figref>. An ion source <b>110</b> generates ions of a desired species. In some embodiments, these species are atomic ions, which may be best suited for high implant energies. In other embodiments, these species are molecular ions, which may be better suited for low implant energies. These ions are formed into a beam, which then passes through a source filter <b>120</b>. The source filter is preferably located near the ion source. The ions within the beam are accelerated/decelerated in column <b>130</b> to the desired energy level. A mass analyzer magnet <b>140</b>, having an aperture <b>145</b>, is used to remove unwanted components from the ion beam, resulting in an ion beam <b>150</b> having the desired energy and mass characteristics passing through resolving aperture <b>145</b>.</p>
+ <p id="p-0004" num="0003">In certain embodiments, the ion beam <b>150</b> is a spot beam. In this scenario, the ion beam passes through a scanner <b>160</b>, which can be either an electrostatic or magnetic scanner, which deflects the ion beam <b>150</b> to produce a scanned beam <b>155</b>-<b>157</b>. In certain embodiments, the scanner <b>160</b> comprises separated scan plates in communication with a scan generator. The scan generator creates a scan voltage waveform, such as a sine, sawtooth or triangle waveform having amplitude and frequency components, which is applied to the scan plates. In a preferred embodiment, the scanning waveform is typically very close to being a triangle wave (constant slope), so as to leave the scanned beam at every position for nearly the same amount of time. Deviations from the triangle are used to make the beam uniform. The resultant electric field causes the ion beam to diverge as shown in <figref idref="DRAWINGS">FIG. 1</figref>.</p>
+ <p id="p-0005" num="0004">In an alternate embodiment, the ion beam <b>150</b> is a ribbon beam. In such an embodiment, there is no need for a scanner, so the ribbon beam is already properly shaped.</p>
+ <p id="p-0006" num="0005">An angle corrector <b>170</b> is adapted to deflect the divergent ion beamlets <b>155</b>-<b>157</b> into a set of beamlets having substantially parallel trajectories. Preferably, the angle corrector <b>170</b> comprises a magnet coil and magnetic pole pieces that are spaced apart to form a gap, through which the ion beamlets pass. The coil is energized so as to create a magnetic field within the gap, which deflects the ion beamlets in accordance with the strength and direction of the applied magnetic field. The magnetic field is adjusted by varying the current through the magnet coil. Alternatively, other structures, such as parallelizing lenses, can also be utilized to perform this function.</p>
+ <p id="p-0007" num="0006">Following the angle corrector <b>170</b>, the scanned beam is targeted toward the workpiece <b>175</b>. The workpiece is attached to a workpiece support. The workpiece support provides a variety of degrees of movement.</p>
+ <p id="p-0008" num="0007">The workpiece support is used to both hold the wafer in position, and to orient the wafer so as to be properly implanted by the ion beam. To effectively hold the wafer in place, most workpiece supports typically use a circular surface on which the workpiece rests, known as a platen. Often, the platen uses electrostatic force to hold the workpiece in position. By creating a strong electrostatic force on the platen, also known as the electrostatic chuck, the workpiece or wafer can be held in place without any mechanical fastening devices. This minimizes contamination and also improves cycle time, since the wafer does not need to be unfastened after it has been implanted. These chucks typically use one of two types of force to hold the wafer in place: coulombic or Johnson-Rahbeck force.</p>
+ <p id="p-0009" num="0008">The workpiece support typically is capable of moving the workpiece in one or more directions. For example, in ion implantation, the ion beam is typically a scanned or ribbon beam, having a width much greater than its height. Assume that the width of the beam is defined as the x axis, the height of the beam is defined as the y axis, and the path of travel of the beam is defined as the z axis. The width of the beam is typically wider than the workpiece, such that the workpiece does not have to be moved in the x direction. However, it is common to move the workpiece along the y axis to expose the entire workpiece to the beam.</p>
+ <p id="p-0010" num="0009">In some applications, it is necessary to pass fluids, in the form of gas and/or liquid into the vacuum environment. For example, in some embodiments, the platen is maintained at a constant, or nearly constant temperature, by running fluid through conduits located within the platen. Depending on the type of ion implantation being performed, this fluid may be for the purpose of heating the workpiece or cooling the workpiece.</p>
+ <p id="p-0011" num="0010">This entire system is typically maintained at very low pressure, such as less than 100 mTorr. Although the pressure is greater than 0, this environment is commonly referred to as a vacuum. The task to delivering fluids to a vacuum environment is further complicated by several factors. First, in many instances, the fluid must be delivered to a terminus or endpoint that is not stationary. As described above, it is typical for the workpiece support to move along the y axis to irradiate the entire surface of the workpiece. The movement of the terminus typically necessitates the use of flexible tubing or some other moveable conduit. Making this endeavor even more difficult, at times the fluids that are being delivered are at very low temperatures, such as cryogenic temperatures. In extremely low temperatures, the flexible tubing is susceptible to fatigue due to the bending stresses from the cyclic movement, and therefore cannot be used. Alternative coupling mechanisms, such as rotary or linear sliding seals, are difficult to produce without leakage. They are also typically physically quite large and hence difficult to package near the moving workpiece.</p>
+ <p id="p-0012" num="0011">As an example, for cryogenic ion implantation, it is necessary to maintain the temperature of wafer at very low temperatures, despite the fact that constant ion bombardment tends to increase its temperature. One method of achieving this is to pass low temperature fluids through conduits in the platen. By keeping the platen extremely cold, the wafer, by virtue of its contact with the platen, preserves its low operating temperature. However, as explained above, the wafer (and therefore the platen) is typically moved axially through the ion beam so as to insure that the entire wafer is exposed to the ion beam. Reliably delivering cryogenic fluid to a moving platen in a vacuum environment is extremely difficult.</p>
+ <p id="p-0013" num="0012">These constraints make it very different to provide a fluid delivery system to a workpiece support, such as a platen, in a vacuum wafer processing system. Therefore, a system that allows the delivery of fluid, such as extremely cold fluid, into a vacuum environment would be extremely beneficial, especially if delivered to a non-stationary terminus.</p>
+ <heading id="h-0002" level="1">SUMMARY OF THE INVENTION</heading>
+ <p id="p-0014" num="0013">The problems of the prior art are overcome by the fluid delivery mechanism described in the present disclosure. In some embodiments, this mechanism provides a solution for use in a single axis of motion that allows the connection of one or more fluid flow paths over a wide range of temperatures into a vacuum environment. The mechanism does not employ flexible tubing that is prone to fatigue, especially at very low temperatures. In one particular embodiment, a tube is axially moved within a sealed piston to allow for fluid delivery. In a second particular embodiment, bellows are used to provide the required functionality. In another embodiment, it is possible to achieve movement in two or three axis of motion by utilizing two or more mechanisms configured appropriately.</p>
+ <?BRFSUM description="Brief Summary" end="tail"?>
+ <?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+ <description-of-drawings>
+ <heading id="h-0003" level="1">BRIEF DESCRIPTION OF FIGURES</heading>
+ <p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 1</figref> represents a traditional ion implanter;</p>
+ <p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 2</figref> represents a linear fluid sliding seal having a single fluid path;</p>
+ <p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 3</figref> represents the sliding seal of <figref idref="DRAWINGS">FIG. 2</figref> as used when connected to a moving apparatus;</p>
+ <p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 4</figref> represents the side view of a process chamber layout utilizing two of the sliding seals of <figref idref="DRAWINGS">FIG. 2</figref>;</p>
+ <p id="p-0019" num="0018"><figref idref="DRAWINGS">FIGS. 5</figref><i>a</i>-<b>5</b><i>b </i>represent cross-sectional views of tubes having multiple conduits;</p>
+ <p id="p-0020" num="0019"><figref idref="DRAWINGS">FIGS. 6</figref><i>a</i>-<b>6</b><i>c </i>represents embodiments of a linear fluid sliding seal having a plurality of fluid conduits, using the tubes shown in <figref idref="DRAWINGS">FIGS. 5</figref><i>a </i>and <b>5</b><i>b; </i></p>
+ <p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 7</figref> represents the side view of a process chamber layout utilizing embodiments of the sliding seals shown in <figref idref="DRAWINGS">FIGS. 6</figref><i>a</i>-<b>6</b><i>c; </i></p>
+ <p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 8</figref><i>a</i>-<i>c </i>show the various elements used in a second embodiment;</p>
+ <p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 9</figref> shows the operation of an embodiment utilizing bellows;</p>
+ <p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 10</figref> shows the front view of a process chamber using the embodiment of <figref idref="DRAWINGS">FIG. 8</figref>;</p>
+ <p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 11</figref> shows a second embodiment utilizing bellows;</p>
+ <p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 12</figref> shows a third embodiment utilizing bellows; and</p>
+ <p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 13</figref> shows an embodiment that provides movement along two axis.</p>
+ </description-of-drawings>
+ <?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+ <?DETDESC description="Detailed Description" end="lead"?>
+ <heading id="h-0004" level="1">DETAILED DESCRIPTION OF THE INVENTION</heading>
+ <p id="p-0028" num="0027">As described above, delivering fluids, particularly extremely cold fluids, into a vacuum environment is very difficult. This is further complicated when the destination for that delivered fluid is not stationary. In one embodiment, the present mechanism provides a delivery system that allows movement along one axis of motion. This allows fluids to be delivered to devices or termini that are being moved along one axis of motion.</p>
+ <p id="p-0029" num="0028">One such application of this device is the process chamber of an ion implantation system. In certain embodiments, the wafer must be maintained within a certain temperature range. To accomplish this, the platen, which holds the wafer, is cooled (or heated) by a fluid being passed through conduits located within it. For example, in ion implantations that occur at extremely low temperatures, it is essential to continuously cool the platen, since the ions being directed at the wafer tend to heat the wafer and, indirectly, the platen. To maintain the temperature of the wafer within the desired range, it is necessary to pass cryogenic fluids to and from the platen. These fluids may be gasses, such as helium, nitrogen or CDA (clean dry air), or may be liquids, such as liquid nitrogen, Flourinert or other low temperature coolants.</p>
+ <p id="p-0030" num="0029">As stated above, in many applications, the wafer is scanned by an ion beam. This beam is very narrow and therefore, it is necessary to move the wafer to insure that all portions of the wafer are exposed to the beam. This is typically done by moving the platen, to which the wafer is attached, in a linear manner to subject different parts of the wafer to the beam. Therefore, to cool or heat the platen as described above, it is essential that the device used to carry the fluid to the platen be capable of adapting to the varying position of the platen.</p>
+ <p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 2</figref> shows one embodiment of the present device. The device comprises a column or cylinder <b>200</b>, which is separated into one or more chambers <b>210</b> through the use of sealing elements <b>220</b>. The column is preferably constructed of stainless steel, although other suitable materials may be used. The sealing elements, which are made from Teflon&#xae; or another suitable material, create seals that are nearly fluid and airtight. These sealing elements define adjacent chambers <b>210</b> within the column <b>200</b>. Within the column or cylinder <b>200</b> is a tube <b>230</b>, having a hollow center, which allows the passage of fluid. Each of the sealing elements <b>220</b> also has a hole, preferably in its center, through which the tube <b>230</b> passes. The interface between the sealing elements <b>220</b> and the tube <b>230</b> is also nearly fluid and air tight.</p>
+ <p id="p-0032" num="0031">One end of the tube <b>230</b> exits cylinder <b>200</b>, while the opposite end remains within the tube, and preferably is confined within one chamber <b>210</b><i>a</i>. To insure that the tube <b>230</b> remains within a single compartment, the proximate end of the tube is preferably made wider, such as through the use of a flange <b>235</b>, so that it cannot pass through the opening in the sealing element <b>220</b>. Thus, the length of travel of the tube <b>230</b> is confined to the length of the chamber <b>210</b><i>a</i>, where the wider end of tube <b>230</b> is located. While a flange is illustrated in this figure, those skilled in the art will appreciate that other mechanisms can be used to insure that the proximate end of central tube <b>230</b> remains within chamber <b>210</b><i>a</i>. Those mechanisms are within the scope of this disclosure.</p>
+ <p id="p-0033" num="0032">As noted above, the column <b>200</b> can be separated into any number of chambers <b>210</b>, each separated and defined by sealing elements <b>220</b>. The open end of the column <b>200</b> is preferably closed with a sealing element <b>220</b><i>d</i>, similar to those used to separate the chambers.</p>
+ <p id="p-0034" num="0033">In one embodiment, the fluid (either gas or liquid) enters the column <b>200</b> via fluid inlet <b>240</b>. Since the tube <b>230</b> is hollow, the fluid passes from the compartment <b>210</b><i>a</i>, into the tube <b>230</b> and flows to the terminus. Since the sealing elements <b>220</b> provide nearly fluid and air tight barriers, a small amount of fluid may be introduced into the adjacent compartment. To address this, each compartment is in communication with a differential pump, which serves to lower the pressure of each compartment, relative to the one adjacent to it. Thus, the pressure within chamber <b>210</b><i>b </i>is lower than that within chamber <b>210</b><i>a</i>, but higher than that in chamber <b>210</b><i>c</i>. The pressure within each chamber is reduced as the chambers near the open end of the cylinder <b>200</b>.</p>
+ <p id="p-0035" num="0034">Often, the fluid introduced into compartment <b>210</b><i>a </i>is at or near normal atmospheric pressure. The environment outside of the column <b>200</b>, and specifically on the exterior of sealing element <b>220</b><i>d</i>, is near vacuum pressure. Therefore, it may be beneficial to include a number of chambers <b>210</b><i>b</i>-<i>d</i>, which serve to reduce the differential pressure across sealing elements <b>220</b><i>a</i>-<i>d</i>. In other words, in the case where only one chamber is used, the differential pressure across with lone seal is equal to the difference in the pressure of the fluid in the chamber and the external vacuum. By utilizing four chambers, as shown in <figref idref="DRAWINGS">FIG. 2</figref>, the differential pressure across any sealing element is reduced by 75%. To achieve this, differential pumps are used to regulate the pressure within each chamber via inlets <b>250</b>. In the column shown in <figref idref="DRAWINGS">FIG. 2</figref>, the pressure within each chamber decreases moving from top to bottom, as the pressure at the uppermost chamber is near atmospheric pressure, and the pressure below the bottommost chamber is near vacuum. While four chambers <b>210</b> are shown in <figref idref="DRAWINGS">FIG. 2</figref>, any number (either more or less) can be used, as required. For example, if sealing element <b>220</b><i>d </i>can provide a fluid and airtight seal, it is not necessary to provide any additional chambers <b>210</b> within cylinder <b>200</b>.</p>
+ <p id="p-0036" num="0035"><figref idref="DRAWINGS">FIGS. 3</figref><i>a</i>-<i>c </i>show the device of <figref idref="DRAWINGS">FIG. 2</figref> as used with a terminus, such as a workpiece support <b>350</b> The workpiece support <b>350</b> includes a stationary portion <b>345</b> and a movable portion <b>343</b>. At the distal end of the moveable portion <b>343</b> is the platen <b>300</b>. As described earlier, the platen <b>300</b> is moved in the vertical direction in order that the ion beam can scan the entire attached wafer. To do this, the movable portion <b>343</b> of the workpiece support <b>350</b> moves up and down. The three figures illustrate 3 representative positions of the movable portion <b>343</b> and the platen <b>300</b>. It should be obvious to one skilled in the art that the platen <b>300</b> moves in a continuous motion, and therefore there are an arbitrary number of positions for the platen <b>300</b>. This figure simply attempts to describe the operation of the device by showing 3 distinct positions. In the <figref idref="DRAWINGS">FIG. 3</figref><i>a</i>, the platen <b>300</b> is in the middle of its range of motion, or midrange position. Therefore, the tube <b>230</b> is partially extended from the cylinder <b>200</b>. Thus, the proximate end of the tube <b>230</b> is located approximately in the middle of the chamber <b>210</b><i>a</i>. In <figref idref="DRAWINGS">FIG. 3</figref><i>b</i>, the platen <b>300</b> has moved downward to its lowest point, and further away from the cylinder <b>200</b>. This motion by the moveable portion <b>343</b> forces the tube <b>230</b> to extend further from the cylinder <b>200</b>. In this position, the tube <b>230</b> is in its most extended position, as the wider end of the tube <b>230</b> is in contact, or nearly in contact with sealing element <b>220</b><i>a</i>. <figref idref="DRAWINGS">FIG. 3</figref><i>c </i>shows the movable portion <b>343</b> and the platen at its highest point, where the tube <b>230</b> is in its least extended position. Thus, the wider proximate end of tube <b>230</b> is in contact, or nearly in contact with, the closed end of the cylinder <b>200</b>. <figref idref="DRAWINGS">FIGS. 3</figref><i>b </i>and <b>3</b><i>c </i>define the range of motion for the tube <b>230</b> and the platen <b>300</b>. This length of this range of motion must be less than, or equal to, the height of the first chamber <b>210</b><i>a</i>. The length of chamber <b>210</b><i>a </i>may be much longer than the range of motion of the platen, if desired. The sole requirement is that its length must be at least the same as the required range of motion of the tube.</p>
+ <p id="p-0037" num="0036">Although not shown in <figref idref="DRAWINGS">FIG. 3</figref>, tube <b>230</b> is preferably affixed to movable portion <b>343</b>, such as through a weld, a screw type fitting or other attachment means. Conduits within the movable portion <b>343</b> lead from that point of attachment to the platen <b>300</b>.</p>
+ <p id="p-0038" num="0037">As described above, in certain embodiments, the platen <b>300</b> is cooled by passing a fluid through it. In such embodiments, there is a need for at least two fluid delivery paths; a first path to bring fluid to the platen <b>300</b>, and a second path to serve as a return path for that delivered fluid.</p>
+ <p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. 4</figref> shows a side view of a process chamber layout. In this embodiment, two cylinders <b>260</b><i>a</i>, <b>260</b><i>b </i>are used, where one serves to deliver the fluid to the platen <b>300</b> and the other serves as the return path. The chamber <b>270</b>, defined by wall <b>275</b>, is kept at near vacuum pressure, while the exterior environment <b>278</b> is maintained at atmospheric pressure. Two devices, as described in conjunction with <figref idref="DRAWINGS">FIG. 2</figref>, are used to circulate fluid through the platen <b>300</b>. In <figref idref="DRAWINGS">FIG. 4</figref>, these devices are shown with the tubes <b>280</b><i>a</i>, <b>280</b><i>b </i>in their most extended positions. The movable portion <b>343</b> and the platen <b>300</b> can move upwardly until the tubes <b>280</b> reaches the closed end of the cylinders <b>260</b>. In this embodiment, the distal ends of the two tubes <b>280</b> are affixed to the movable portion <b>343</b> of the workpiece support <b>350</b>. Within the movable portion, 2 conduits <b>341</b><i>a</i>, <b>341</b><i>b </i>are used to direct the paths of the fluid flow so as to contact the proper locations on the platen <b>300</b>. Other methods of attaching the tubes to the workpiece support are well known and within the scope of this disclosure.</p>
+ <p id="p-0040" num="0039">In operation, fluid enters the upper chamber of cylinder <b>260</b><i>a </i>via inlet <b>265</b><i>a</i>. This fluid passes through tube <b>280</b><i>a </i>and into the fluid conduits <b>341</b><i>a </i>in movable portion <b>343</b>. The fluid then passes through the platen <b>300</b> and returns via fluid conduits <b>341</b><i>b </i>to tube <b>280</b><i>b</i>. The fluid travels up the tube <b>280</b><i>b </i>and into the upper chamber of cylinder <b>260</b><i>b</i>. The fluid then exits via outlet <b>265</b><i>b</i>. The source and terminus of the fluid path is kept outside the vacuum environment. In some embodiments, the fluid is recirculated and is pumped from the outlet <b>265</b><i>b </i>back to the inlet <b>265</b><i>a</i>. In some embodiments, the fluid is conditioned, such as cooled, before being reused.</p>
+ <p id="p-0041" num="0040">Cylinders <b>260</b><i>a</i>, <b>260</b><i>b </i>are partially in the vacuum environment <b>270</b>, and partially outside of the vacuum. To maintain the integrity of the vacuum environment <b>270</b>, sealing elements <b>267</b> are used to provide a fluid and airtight seal between the wall <b>275</b> and the cylinders <b>260</b><i>a</i>, <b>260</b><i>b</i>. In <figref idref="DRAWINGS">FIG. 4</figref>, conduits <b>261</b> are used to attach the differential pumps to the various chambers within the cylinders <b>260</b><i>a</i>, <b>260</b><i>b</i>. Preferably the differential pumps are kept in normal atmospheric environment <b>278</b>, and thus, seals are also used to maintain the integrity of the vacuum between the conduits <b>261</b> and the wall <b>275</b>.</p>
+ <p id="p-0042" num="0041">As explained above, in many embodiments, it is typical and necessary to have two separate fluid paths (as shown in <figref idref="DRAWINGS">FIG. 4</figref>). <figref idref="DRAWINGS">FIG. 5</figref><i>a </i>shows the cross section of a single tube that accomplishes this. In this embodiment, the central tube <b>600</b>, rather than having a single conduit, has a plurality of conduits <b>602</b>, <b>604</b>. This can be accomplished using numerous techniques. In one embodiment, shown in <figref idref="DRAWINGS">FIG. 5</figref><i>a</i>, a coaxial tube <b>600</b> is used, which has an inner conduit <b>602</b>, and an outer conduit <b>604</b> that surrounds the inner conduit <b>602</b>. These conduits can be dimensioned such that they are of equal cross-sectional area, or can be dimensioned in any other suitable ratio. In one embodiment, shown in <figref idref="DRAWINGS">FIG. 6</figref><i>a</i>, these conduits terminate in different chambers. The inner conduit <b>602</b> terminates in the rightmost chamber <b>210</b><i>a</i>, while the outer conduit <b>604</b> terminates in the adjacent chamber <b>210</b><i>b</i>. These two chambers <b>210</b><i>a</i>, <b>210</b><i>b </i>are preferably of equal length, and the inner conduit <b>602</b> extends beyond the outer conduit <b>604</b> by this length, such that each conduit terminates in the same relative position within its respective chamber. Inlet <b>290</b><i>a </i>is used to supply fluid to the mechanism, while outlet <b>290</b><i>b </i>is used to remove the return fluid from chamber <b>210</b><i>b</i>. Note that sealing element <b>620</b><i>a </i>is different from the remaining sealing elements in that it has an opening to accommodate only the inner conduit <b>602</b>. Alternatively, the outer conduit <b>604</b> may extend the length of the tube and be sealed at the far end, as shown in <figref idref="DRAWINGS">FIG. 6</figref><i>b</i>. In this embodiment, the outer conduit <b>604</b> may contain an opening <b>605</b> along its circumference in the second chamber <b>210</b><i>b</i>. The inner conduit <b>602</b> is in communication with the chamber <b>210</b><i>a </i>through an opening <b>607</b> on the proximate end of the tube <b>600</b>. In this embodiment, all sealing elements <b>620</b> are identical in size.</p>
+ <p id="p-0043" num="0042">In this embodiment, the inner conduit <b>602</b> is used to provide fluid to the destination, such as a platen, while the outer conduit <b>604</b> is used as the return path. Those skilled in the art will appreciate that the conduits can be employed in other ways. While <figref idref="DRAWINGS">FIG. 5</figref><i>a </i>shows coaxial conduits, the disclosure is not limited to this embodiment. For example, the conduits can be disposed adjacent to one another in the tube as shown in <figref idref="DRAWINGS">FIG. 5</figref><i>b</i>. <figref idref="DRAWINGS">FIG. 6</figref><i>c </i>shows an embodiment using the tube shown in <figref idref="DRAWINGS">FIG. 5</figref><i>b</i>. In this figure, an opening <b>608</b> exists in one side of the tube <b>600</b> in the first chamber <b>210</b><i>a </i>for allowing fluid to enter the tube <b>600</b> and a second opening <b>609</b> exists on the opposite side of the tube <b>600</b> in the second chamber <b>210</b><i>b </i>to serve as the fluid outlet. As described above, fluid enters and exits the cylinder through inlet <b>290</b><i>a </i>and outlet <b>290</b><i>b</i>, respectively.</p>
+ <p id="p-0044" num="0043">While the tubes shown in <figref idref="DRAWINGS">FIGS. 5</figref><i>a </i>and <b>5</b><i>b </i>illustrate embodiments with 2 fluid conduits, other embodiments are envisioned. For example, an arbitrary number of coaxial conduits can be employed in the tube of <figref idref="DRAWINGS">FIG. 5</figref><i>a</i>. Similarly, the tube shown in <figref idref="DRAWINGS">FIG. 5</figref><i>b </i>can be divided into as many conduits as are desired.</p>
+ <p id="p-0045" num="0044">In all embodiments, multiple sealing elements <b>620</b> and compartments are used to alleviate the pressure differential experienced at the sealing elements, and to accommodate the fact that each sealing element is not perfectly airtight.</p>
+ <p id="p-0046" num="0045"><figref idref="DRAWINGS">FIG. 7</figref> shows a front view of a process chamber layout that utilizes the tube having multiple conduits as shown in <figref idref="DRAWINGS">FIGS. 5 and 6</figref>. In this embodiment, fluid enters chamber <b>210</b><i>a </i>through inlet <b>290</b><i>a</i>. The fluid travels through tube <b>600</b>, specifically the inner conduit <b>602</b> of tube <b>600</b>, and is affixed to the movable portion <b>343</b> of workpiece support <b>350</b>. As explained above, internal conduit <b>341</b><i>a </i>passes the fluid from the tube attachment point to the platen <b>300</b>. After the fluid circulates through the platen <b>300</b>, it returns through a second internal conduit <b>341</b><i>b </i>to the attachment point. The fluid then passes through the outer conduit <b>604</b> in tube <b>600</b>, and exits the cylinder via outlet <b>290</b><i>b</i>. As described earlier, the sealing elements <b>620</b><i>b</i>-<i>e </i>serve to separate the cylinder into chambers, where each chamber is maintained at a lower pressure than the adjacent chamber.</p>
+ <p id="p-0047" num="0046">Other embodiments other than those disclosed in <figref idref="DRAWINGS">FIGS. 2-7</figref> can also be employed to create the fluid delivery mechanism.</p>
+ <p id="p-0048" num="0047"><figref idref="DRAWINGS">FIG. 8</figref><i>a </i>shows the various components of a bellows mechanism. The bellows <b>800</b> is compressible unit, preferably made of metal such as stainless steel, Inconel&#xae; or Monel&#xae;, which can expand and contract within a specified range. The bellows <b>800</b> attach to the coupler <b>810</b> and form a fluid and airtight seal. Couplers <b>810</b> are used to link together a number of bellows to create a longer structure. One end of a bellows <b>800</b><i>a </i>attaches to the coupler <b>810</b>, and the end of a second bellows <b>800</b><i>b </i>attaches to the opposite side of the coupler <b>810</b>. An arbitrary number of bellows <b>800</b> can be joined together using couplers <b>810</b>.</p>
+ <p id="p-0049" num="0048">A side view of the coupler <b>810</b> is shown in <figref idref="DRAWINGS">FIG. 8</figref><i>b</i>. Typically, the coupler <b>810</b> has a central opening or passage <b>820</b>, adapted to allow a tube <b>830</b> to pass through it. This tube <b>830</b> is fitted into the passage <b>820</b> so as to create a fluid and airtight seal. In certain embodiments, the coupler <b>810</b> also has a number of additional openings or passages <b>822</b>. These passages <b>822</b> are preferably in communication with the interior volume <b>825</b> of the bellows <b>810</b>. Thus, when two or more bellows <b>800</b> are joined together using couplers, the interior volume <b>825</b> of all of the bellows is in communication, due to the presence of the additional openings <b>822</b> on all of the couplers.</p>
+ <p id="p-0050" num="0049"><figref idref="DRAWINGS">FIG. 8</figref><i>c </i>shows a cross section of a bellows <b>800</b> with two couplers <b>810</b> and a tube <b>830</b>. In one embodiment, the fluid is supplied via tube <b>830</b> from its source to a terminus. The return path for the fluid is via the additional passages <b>822</b> in the coupler <b>810</b>, so that the interior volume of the bellows is filled with fluid returning from the terminus.</p>
+ <p id="p-0051" num="0050">The bellows configuration can be used to supply fluid to a movable terminus within the vacuum environment, as shown in <figref idref="DRAWINGS">FIGS. 9</figref><i>a </i>and <b>9</b><i>b</i>. In one embodiment, the fluid is supplied in the non-pressurized environment <b>278</b>. The tube <b>830</b> and a portion of coupler <b>810</b><i>a </i>pass through the wall <b>275</b> that defines the vacuum environment <b>270</b>. Sealing elements are used to insure a fluid and airtight seal between the coupler <b>810</b> and the wall <b>275</b>. The fluid passes through the tube <b>830</b> and into the vacuum environment <b>270</b>, where it eventually reaches the workpiece support (not shown). As the workpiece moves further from the wall <b>275</b>, the tube <b>830</b> is pulled into the vacuum environment <b>270</b>, as best shown in <figref idref="DRAWINGS">FIG. 9</figref><i>b</i>. As the workpiece support moves toward the wall <b>275</b>, the tube <b>830</b> extends further into the non-pressurized environment <b>278</b>, as shown in <figref idref="DRAWINGS">FIG. 9</figref><i>a</i>. The coupler located near the distal end of the tube <b>830</b> is also affixed to the workpiece support, and therefore tracks the movements of the tube <b>830</b>. However, since bellows <b>800</b> terminate within the vacuum environment <b>270</b>, the bellows are forced to extend and compress as the workpiece support (not shown) moves relative to the wall <b>275</b>. <figref idref="DRAWINGS">FIG. 9</figref><i>a </i>shows the bellows maximally compressed, while <figref idref="DRAWINGS">FIG. 9</figref><i>b </i>shows the bellows maximally extended. As described above, the return path for the fluid is via the interior volume <b>825</b> of the bellows <b>800</b>. The fluid is then passed through the wall <b>275</b> either via the coupler <b>810</b>, or a separate conduit in the wall itself.</p>
+ <p id="p-0052" num="0051"><figref idref="DRAWINGS">FIG. 10</figref> shows a front view of a process chamber layout using the bellows system of <figref idref="DRAWINGS">FIGS. 8 and 9</figref>. In the embodiment shown, one or more bellows <b>800</b> are joined together using couplers <b>810</b>. The bellows is located within the vacuum environment <b>270</b>, with one end preferably pressed against the wall <b>275</b> of the chamber. In this embodiment, the opposite end of the bellows <b>800</b> attached to the workpiece support <b>350</b>. The central tube <b>830</b> is in communication with the movable portion <b>343</b> of the workpiece support <b>350</b>, with its distal end extending outside the vacuum environment <b>270</b>. The lowest coupler <b>810</b><i>a </i>is in communication with the workpiece support <b>350</b>, and is sealed to form a fluid and airtight seal. As explained in conjunction with <figref idref="DRAWINGS">FIG. 3</figref>, the workpiece support and platen <b>300</b> moves in an up and down (vertical) direction. The bellows, being constrained by the chamber wall <b>275</b> and the movable portion <b>343</b> compresses and expands in response to this movement. As the movable portion <b>343</b> moves upward, the central tube <b>830</b> simply extends further out into the non-vacuum environment. In this configuration, there is a fluid and airtight seal between the coupler <b>810</b> and the tube <b>830</b>. Thus, the differential pumps described in conjunction with the previous embodiment are not required.</p>
+ <p id="p-0053" num="0052"><figref idref="DRAWINGS">FIGS. 11</figref><i>a</i>-<i>c </i>shows a second embodiment utilizing bellows. In this embodiment, the lowest coupler <b>810</b><i>a </i>is not in direct contact with the movable portion <b>343</b>. Rather, a tube <b>835</b> connects the lowest coupler <b>810</b><i>a </i>to the movable portion <b>343</b>. This tube <b>835</b> is much shorter than central tube <b>830</b>. In this embodiment, the bellows <b>800</b> is confined between the chamber wall <b>275</b> and the end of tube <b>835</b>. Thus, as the movable portion <b>343</b> moves, the tube <b>835</b> moves accordingly. This action then causes the bellows to expand or contract as required.</p>
+ <p id="p-0054" num="0053">As the wafer is being scanned, the workpiece support <b>350</b> moves in the vertical direction. When the platen reaches its lowest point, as shown in <figref idref="DRAWINGS">FIG. 11</figref><i>a</i>, the bellows <b>800</b> is maximally extended. The proximate end of the bellows assembly is in communication, preferably via a fluid and airtight seal, with the wall <b>275</b> of the chamber. Thus, as the platen moves downward, the bellows assembly is extended. The central tube <b>830</b> moves in accordance with the movable portion <b>830</b> and therefore, in this position, the tube is mostly within the vacuum environment <b>270</b>.</p>
+ <p id="p-0055" num="0054">When the platen moves in the upward direction, as shown in <figref idref="DRAWINGS">FIG. 11</figref><i>b</i>, the bellows <b>800</b> begins to compress, and the central tube <b>830</b> extends further outside of the vacuum chamber <b>270</b>.</p>
+ <p id="p-0056" num="0055">When the platen reaches its highest point, as shown in <figref idref="DRAWINGS">FIG. 11</figref><i>c</i>, the central tube <b>830</b> is maximally extended out of the vacuum environment <b>270</b> and the bellows is maximally compressed.</p>
+ <p id="p-0057" num="0056">While the sequence shown in <figref idref="DRAWINGS">FIG. 11</figref> utilizes a tube <b>835</b> to connect the movable portion <b>343</b> to the bellows <b>810</b>, the explanation is equally applicable to the embodiment illustrated in <figref idref="DRAWINGS">FIG. 10</figref>, where the bellows is in direct contact with the movable portion <b>343</b>.</p>
+ <p id="p-0058" num="0057">It should be noted that while two fluid paths to the platen, one for supply and one for return are typical, other embodiments are possible. For example, in some applications, it may be necessary to supply backside gas into the vacuum environment. Backside gas refers to a gas injected between the wafer and the platen. This gas is in the cooling path for heat that must be removed from the wafer. The mechanisms described in the present disclosure can be used to provide this gas. For example, <figref idref="DRAWINGS">FIG. 12</figref> shows an embodiment utilizing 2 bellows assemblies <b>900</b><i>a</i>, <b>900</b><i>b</i>. The first bellows assembly <b>900</b><i>a </i>can be used to provide fluid to the platen as described above. The second bellows assembly can be used to supply a second fluid to the workpiece support. In certain embodiments, this fluid is the backside gas described above. In other embodiments, this fluid may be a second fluid that is passed through the platen. For example, assume the implant process requires that a portion of the ion implantation be performed at a first temperature and a second portion of the implantation be performed at a second temperature, where one of these temperatures is cryogenic. The first bellows assembly <b>900</b><i>a </i>may provide the supply and return path for liquid nitrogen (or other cryogenic fluids). This path is enabled while the ion implantation is being performed at low temperature. The second bellows assembly <b>900</b><i>b </i>is used to supply a second fluid (such as water or CDA), which is used during the implantation performed at the higher temperature. Valves, such as within the workpiece support <b>350</b>, can be used to enable the appropriate fluid path. While the delivery of a cryogenic fluid is contemplated, it is not a requirement of the present disclosure. For example, the two fluids may be used for two different temperature ranges, where neither is cryogenic.</p>
+ <p id="p-0059" num="0058">The previous figures show a fluid delivery mechanism that provides axial movement in one dimension. By combining several of these mechanisms, as shown in <figref idref="DRAWINGS">FIG. 13</figref>, it is possible to achieve movement along two axis. <figref idref="DRAWINGS">FIG. 13</figref> shows a vacuum chamber <b>270</b> that has two fluid delivery mechanisms <b>950</b><i>a</i>, <b>950</b><i>b</i>. Each can be of either of the embodiments described above, or of another embodiment with the same functionality. The first fluid delivery mechanism <b>950</b><i>a </i>is located partly within the vacuum environment <b>270</b>, as described above. However, instead of connecting to the workpiece support, it is connected to a second fluid delivery mechanism <b>950</b><i>b</i>, oriented in a different direction. In the embodiment shown in <figref idref="DRAWINGS">FIG. 13</figref>, the two fluid delivery mechanisms are oriented perpendicular to one another, however, this is not a requirement. In this embodiment, the platen can be moved vertically, as in the previous embodiments. However, the platen can also move horizontally, thereby allowing any desired motion in the x-y plane.</p>
+ <?DETDESC description="Detailed Description" end="tail"?>
+ </description>
+ <us-claim-statement>What is claimed is:</us-claim-statement>
+ <claims id="claims">
+ <claim id="CLM-00001" num="00001">
+ <claim-text>1. A mechanism for maintaining a workpiece at a desired temperature, comprising:
+ <claim-text>a. a platen upon which said workpiece is positioned, having a conduit therein;</claim-text>
+ <claim-text>b. a first fluid delivery mechanism, comprising:
+ <claim-text>i. a hollow cylinder having a closed end and an open end;</claim-text>
+ <claim-text>ii. a tube, having a proximate end positioned within said cylinder, a distal end extending from said open end of said cylinder, and a first conduit between said proximate and distal ends, wherein said first conduit is in fluid communication with said conduit in said platen;</claim-text>
+ <claim-text>iii. a first sealing element located within said cylinder, and positioned between an outer surface of said tube and an inner surface of said cylinder, such that said tube can move relative to said cylinder and said first sealing element and wherein the volume within said cylinder between said closed end and said first sealing element defines a first chamber wherein said proximate end of said tube is located in said first chamber; and</claim-text>
+ <claim-text>iv. a fluid passageway in communication with said first chamber and an outer surface of said cylinder, adapted to supply or remove fluid into said first chamber.</claim-text>
+ </claim-text>
+ </claim-text>
+ </claim>
+ <claim id="CLM-00002" num="00002">
+ <claim-text>2. The mechanism of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+ <claim-text>a. a second sealing element, located within said cylinder between said first sealing element and said open end of said cylinder, and positioned between said outer surface of said tube and said inner surface of said cylinder, such that said tube can move relative to said cylinder and said second sealing element and wherein the volume within said cylinder between said first sealing element and said second sealing element defines a second chamber; and</claim-text>
+ <claim-text>b. a differential pump in communication with said second chamber.</claim-text>
+ </claim-text>
+ </claim>
+ <claim id="CLM-00003" num="00003">
+ <claim-text>3. The mechanism of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising:
+ <claim-text>a. a second sealing element, located within said cylinder between said first sealing element and said open end of said cylinder, and positioned between said outer surface of said tube and said inner surface of said cylinder, such that said tube can move relative to said cylinder and said second sealing element and wherein the volume within said cylinder between said first sealing element and said second sealing element defines a second chamber;</claim-text>
+ <claim-text>b. a second conduit in said tube, in fluid communication with said second chamber and said distal end; and</claim-text>
+ <claim-text>c. a second fluid passageway in communication with said second chamber and said outer surface of said cylinder adapted to supply or move fluid from said second chamber.</claim-text>
+ </claim-text>
+ </claim>
+ <claim id="CLM-00004" num="00004">
+ <claim-text>4. The mechanism of <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein said conduit in said platen comprises an inlet and an outlet and said first conduit in said tube is in communication with said inlet and said second conduit in said tube is in communication with said outlet.</claim-text>
+ </claim>
+ <claim id="CLM-00005" num="00005">
+ <claim-text>5. The mechanism of <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein said conduit in said platen comprises an inlet and an outlet and said first conduit in said tube is in communication with said outlet and said second conduit in said tube is in communication with said inlet.</claim-text>
+ </claim>
+ <claim id="CLM-00006" num="00006">
+ <claim-text>6. The mechanism of <claim-ref idref="CLM-00003">claim 3</claim-ref>, further comprising:
+ <claim-text>a. a third sealing element, located within said cylinder between said second sealing element and said open end of said cylinder, and positioned between said outer surface of said tube and said inner surface of said cylinder, such that said tube can move relative to said cylinder and said third sealing element and wherein the volume within said cylinder between said second sealing element and said third sealing element defines a third chamber; and</claim-text>
+ <claim-text>b. a differential pump in communication with said third chamber.</claim-text>
+ </claim-text>
+ </claim>
+ <claim id="CLM-00007" num="00007">
+ <claim-text>7. The mechanism of <claim-ref idref="CLM-00003">claim 3</claim-ref>, further comprising:
+ <claim-text>a. a plurality of sealing elements, located within said cylinder between said second sealing element and said open end of said cylinder, and positioned between said outer surface of said tube and said inner surface of said cylinder, such that said tube can move relative to said cylinder and each of said plurality of sealing elements and wherein said plurality of sealing elements defines a plurality of additional chambers; and</claim-text>
+ <claim-text>b. a plurality of differential pumps, each in communication with a respective one of said additional chambers.</claim-text>
+ </claim-text>
+ </claim>
+ <claim id="CLM-00008" num="00008">
+ <claim-text>8. The mechanism of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a second fluid delivery mechanism, comprising:
+ <claim-text>a. a second hollow cylinder having a second closed end and a second open end;</claim-text>
+ <claim-text>b. a second tube, having a second proximate end positioned within said second cylinder, a second distal end extending from said second open end of said second cylinder, and a second conduit between said second proximate and second distal ends, wherein said second conduit is in fluid communication with said passageway in said first fluid delivery mechanism;</claim-text>
+ <claim-text>c. a second sealing element located within said second cylinder, and positioned between an outer surface of said second tube and an inner surface of said second cylinder, such that said second tube can move relative to said second cylinder and said second sealing element and wherein the volume within said second cylinder between said second closed end and said second sealing element defines a second chamber wherein said second proximate end of said second tube is located in said second chamber; and</claim-text>
+ <claim-text>d. a second fluid passageway in communication with said second chamber and an outer surface of said second cylinder, adapted to supply or remove fluid into said second chamber.</claim-text>
+ </claim-text>
+ </claim>
+ <claim id="CLM-00009" num="00009">
+ <claim-text>9. The mechanism of <claim-ref idref="CLM-00008">claim 8</claim-ref>, wherein said tube and said second tube of said first and second fluid delivery mechanisms are oriented in different directions, so as to provide two degrees of motion.</claim-text>
+ </claim>
+ <claim id="CLM-00010" num="00010">
+ <claim-text>10. The mechanism of <claim-ref idref="CLM-00001">claim 1</claim-ref>, further comprising a second fluid delivery mechanism, comprising:
+ <claim-text>a. a second hollow cylinder having a second closed end and a second open end;</claim-text>
+ <claim-text>b. a second tube, having a second proximate end positioned within said second cylinder, a second distal end extending from said second open end of said second cylinder, and a second conduit between said second proximate end and second distal end, wherein said second conduit is in fluid communication with said conduit in said platen;</claim-text>
+ <claim-text>c. a second sealing element located within said second cylinder, and positioned between an outer surface of said second tube and an inner surface of said second cylinder, such that said second tube can move relative to said second cylinder and said second sealing element and wherein the volume within said second cylinder between said second closed end and said second sealing element defines a second chamber wherein said second proximate end of said second tube is located in said second chamber; and</claim-text>
+ <claim-text>d. a second fluid passageway in communication with said second chamber and an outer surface of said second cylinder, adapted to supply or remove fluid into said second chamber, and wherein said first and second fluid delivery mechanisms supply different fluids to said platen.</claim-text>
+ </claim-text>
+ </claim>
+ <claim id="CLM-00011" num="00011">
+ <claim-text>11. A mechanism for maintaining a workpiece at a desired temperature, comprising:
+ <claim-text>a. a platen upon which said workpiece is positioned, having a conduit therein;</claim-text>
+ <claim-text>b. a first fluid delivery mechanism, comprising:
+ <claim-text>i. a bellows having first and second ends;</claim-text>
+ <claim-text>ii. couplers, located in each of said ends of said bellows, each having a central passageway; and</claim-text>
+ <claim-text>iii. a tube, passing through said central passageways in said couplers and through said bellows, having a proximate end extending from said first end and a distal end extending from said second end of said bellows, and a first conduit between said proximate and distal ends, wherein said first conduit is in fluid communication with said conduit in said platen;</claim-text>
+ </claim-text>
+ <claim-text>c. a second fluid delivery system, comprising:
+ <claim-text>i. a second bellows having first and second ends;</claim-text>
+ <claim-text>ii. second couplers, located in each of said ends of said second bellows, each having a second central passageway; and</claim-text>
+ <claim-text>iii. a second tube, passing through said second central passageways in said second couplers and through said second bellows, having a proximate end extending from said first end and a distal end extending from said second end of said second bellows, and a second conduit between said proximate and distal ends of said second tube, wherein said second conduit is in fluid communication with either said conduit in said platen or with said first conduit in said first fluid delivery system.</claim-text>
+ </claim-text>
+ </claim-text>
+ </claim>
+ <claim id="CLM-00012" num="00012">
+ <claim-text>12. The mechanism of <claim-ref idref="CLM-00011">claim 11</claim-ref>, wherein said tube and said second tube of said first and second fluid delivery mechanisms are oriented in different directions, so as to provide two degrees of motion.</claim-text>
+ </claim>
+ <claim id="CLM-00013" num="00013">
+ <claim-text>13. A mechanism for maintaining a workpiece at a desired temperature, comprising:
+ <claim-text>a. a platen upon which said workpiece is positioned, having a conduit therein;</claim-text>
+ <claim-text>b. a first fluid delivery mechanism, comprising:
+ <claim-text>i. a bellows having first and second ends;</claim-text>
+ <claim-text>ii. couplers, located in each of said ends of said bellows, each having a central passageway; and</claim-text>
+ <claim-text>iii. a tube, passing through said central passageways in said couplers and through said bellows, having a proximate end extending from said first end and a distal end extending from said second end of said bellows, and a first conduit between said proximate and distal ends, wherein said first conduit is in fluid communication with said conduit in said platen;</claim-text>
+ </claim-text>
+ <claim-text>c. a second fluid delivery system, comprising:
+ <claim-text>i. a hollow cylinder having a closed end and an open end;</claim-text>
+ <claim-text>ii. a second tube, having a proximate end positioned within said cylinder, a distal end extending from said open end of said cylinder, and a second conduit between said proximate and distal ends of said second tube, wherein said second conduit is in fluid communication with said first conduit in said first fluid delivery mechanism;</claim-text>
+ <claim-text>iii. a sealing element located within said cylinder, and positioned between an outer surface of said second tube and an inner surface of said cylinder, such that said second tube can move relative to said cylinder and said sealing element and wherein the volume within said cylinder between said closed end and said sealing element defines a chamber wherein said proximate end of said second tube is located in said chamber; and</claim-text>
+ <claim-text>iv. a fluid passageway in communication with said chamber and an outer surface of said cylinder, adapted to supply or remove fluid into said chamber.</claim-text>
+ </claim-text>
+ </claim-text>
+ </claim>
+ <claim id="CLM-00014" num="00014">
+ <claim-text>14. The mechanism of <claim-ref idref="CLM-00013">claim 13</claim-ref>, wherein said tube and said second tube of said first and second fluid delivery mechanisms are oriented in different directions, so as to provide two degrees of motion. </claim-text>
+ </claim>
+ </claims>
+ </us-patent-grant>
+ 

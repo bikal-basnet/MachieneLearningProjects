@@ -1,0 +1,99 @@
+---
+title: "M3  Competition - time series forecast"
+output: html_document
+---
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r}
+#install.packages('Mcomp')
+#install.packages('forecast')
+
+library(Mcomp)
+library(forecast)
+# M3 data set's N1 series  yearly data
+M3[[1]]
+M3[[1998]]
+M3[[1998]]$x
+
+# indicates additive error,  additive trend, aditive seasonality
+model <- ets(M3[[1998]]$x, model = "AAA")
+
+model <- ets(M3[[1]]$x, model = "AAN")
+summary(ets(M3[[1]]$x, model = "AAN"))   # rmse 115
+summary(ets(M3[[1]]$x, model = "MAN"))    # rmse 97
+summary(ets(M3[[1]]$x, model = "MMN"))    # rmse 116
+summary(ets(M3[[1]]$x, model = "MMN"))    #rmse  116
+summary(ets(M3[[1]]$x, model = "AAN"))    # rmse 115
+summary(ets(M3[[1]]$x))
+
+summary(model)
+
+plot(model)
+forecast.ets(model  )
+M3[[1]]
+plot(forecast.ets(model))
+
+```
+# http://www.forecastingprinciples.com/paperpdf/Makridakia-The%20M3%20Competition.pdf
+*Exponential Time smoothing performed on our Sales demand forecast data*
+```{r}
+
+product_a_sales_train_preprocessed_ma_2step_data = c(0.03156026,0.10212763,0.1762411 ,0.27872336,0.20815599,0.1762411 ,0.17695032,0.2049645 ,0.17411345,0.12198581,0.17943261,0.30425529,0.30886521,0.35035459,0.34432622,0.48156025,0.47269497,0.46914889,0.4404255 ,0.59574467,0.59858153,0.60531912,0.55496448,0.66666661,0.81347511,0.75638292,0.70957444,0.59113473,0.7049645 ,0.81879427,0.83510635,0.81737588,0.79751772,0.88936168,0.62730495)
+
+product_A_ts_data <- ts(product_a_sales_train_preprocessed_ma_2step_data, start=c(1950), frequency=1) 
+plot(product_A_ts_data)
+product_A_ts_data
+product_A_ts_model = ets(product_A_ts_data, model = "AAN")
+#product_A_ts_model = ets(product_A_ts_data, model = "MAN")
+#product_A_ts_model = ets(product_A_ts_data, model = "MMN")
+
+summary(product_A_ts_model)
+#summary(ets(myts, model = "AAN"))
+#summary(ets(myts, model = "MAN"))
+#summary(ets(myts, model = "MMN"))
+# Generate 20  future predictions
+pred_for_product_A = forecast(product_A_ts_model, 20)
+pred_for_product_A
+
+
+#Calculate rmse erro on the held out test data
+pred_for_product_A_vectorised = (unclass( pred_for_product_A)$mean)
+actual_future_data_for_product_A_from_data_scaled = c(0.91276592,0.96914893,0.54361695,0.68510634,0.8255319 ,0.96489352,0.88404256,0.46170205,0.63723403,0.80425531,0.96063823,0.76914889,0.2914893 ,0.39255315,0.50319141,0.75106376,0.44893616,0.09148937,0.21702129,0.34680849)
+rmse(pred_for_product_A_vectorised, actual_future_data_for_product_A_from_data_scaled)  # 0.5
+
+pred_for_product_A_vectorised
+# simple rmse calculation
+#install.packages('hydroGOF')
+library(hydroGOF)
+sim = c(10,9)
+obs = c(9,8) # rmse 1
+obs = c(8,7) # rmse 2
+rmse(sim, obs, na.rm=TRUE)
+
+pred[0][0][0]
+
+```
+
+*Exponential Time smoothing perofmed on sample data*
+```{r}
+myvector = c(10,11,12,13,14,15)
+myts <- ts(myvector, start=c(2009), end=c(2014), frequency=1) 
+plot(myts)
+myts
+mytsmodel = ets(myts, model = "AAN")
+summary(mytsmodel)
+forecast(mytsmodel, 4)
+```
+
+
+
+You can also embed plots, for example:
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

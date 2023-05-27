@@ -1,0 +1,336 @@
+Assignment 2 :
+========================================================
+
+The main objective of the assignment is to find the relationship between the interest rate and the loan variables considering the Fico score.
+
+Action Plan 
+--------------------------------------------
+
+1. First do exploratory analysis
+2. Make some exploratory plots where you focus on the other variables . You can probably then divide those into 2 groups : those with little influence and those that have some. 
+3. At that point you can do some more detailed investigation on the latter group. 
+4. You might then do some formal tests on their correlation, both with the interest rate and with each other (confounders).
+5. Then perhaps see if you can build a model where FICO and your selected variables can be used to predict interest rates. Does that tell you anything ? 
+
+6. Then write up your methods, findings and results, paying close attention to the rubric (marking script). 
+
+PS . One other point - it may be useful to have FICO both as categorical (binned) variable and as a continuous numeric variable. Plenty of other threads on this and how to do it if you wish.
+
+
+When you click the **Knit HTML** button a web page will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r}
+loan <-read.csv("loan.csv")
+summary(loan)
+```
+
+
+Action Plan Step 1: Exploratory Analysis
+--------------------------------------------
+
+Purpose : To find out the relationship between the interest rate and other variables  and their significance.
+Action Plan : 2. Make some exploratory plots where you focus on the other variables . You can probably then divide those into 2 groups : those with little influence and those that have some. 
+
+ ****Open Credit Lines vs Interest rate****
+ 
+ Inspect data distribution for open credit lines
+ ```{r fig.width=10, fig.height=6}
+ par(mfrow=c(1,2))
+ hist(loan$open.credit.lines)
+ plot(loan$interest.rate ~ loan$open.credit.lines)
+ ```
+ 
+ Data inspection difficult, hence we take the log. Further log is also used to transform the skewed data distribution to normal data distribution.
+ ```{r fig.width=10, fig.height=6}
+ par(mfrow=c(1,2))
+ hist(log10(loan$open.credit.lines+1))
+ plot(loan$interest.rate ~ log10(loan$open.credit.lines+1)) 
+ ````
+ Conclusion : **NO RELN OBSERVED** No pattern is observed during visual inspection. Hence the varaible open credit lines is concluded to be the variable with very slight relation with the interest rate.
+ 
+ ****VARIABLE : Revolving Credit Balance vs Interest rate****
+ 
+ Inspect data distribution for open credit lines
+ ```{r fig.width=10, fig.height=6}
+ par(mfrow=c(1,2))
+ hist(loan$revolving.credit.balance)
+ plot(loan$interest.rate ~ loan$revolving.credit.balance)
+ ```
+ 
+ Data inspection difficult, hence we take the log. Further log is also used to transform the skewed data distribution to normal data distribution.
+ 
+ ````{r fig.width=10, fig.height=6}
+ par(mfrow=c(1,2))
+ hist(log10(loan$revolving.credit.balance+1))
+ plot(loan$interest.rate ~ log10(loan$revolving.credit.balance+1))
+ ````
+ Visual inspection too difficult, so we plot linear model line to better see the reln
+ 
+ ````{r}
+ plot(loan$interest.rate ~ log10(loan$revolving.credit.balance+1))
+ lm <- lm(loan$interest.rate ~ log10(loan$revolving.credit.balance+1))
+ lines(log10(loan$revolving.credit.balance+1), lm$fitted, col = "red", lwd = 3)
+ ````
+ 
+ Conclusion : **OKAY**, Shows slightly more impact, hence considered for detail analysis for later part.
+ 
+ 
+ ****VARIABLE : Inquiries in the last 6 month vs Interest rate****
+ 
+ Inspect data distribution for open credit lines
+ 
+ ```{r fig.width=10, fig.height=6}
+ par(mfrow=c(1,2))
+ hist(loan$inquiries.in.the.last.6.months)
+ plot(loan$interest.rate ~ loan$inquiries.in.the.last.6.months)
+ ```
+ 
+ Data inspection difficult, hence take log
+ 
+ ```{r fig.width=10, fig.height=6}
+ par(mfrow=c(1,2))
+ hist(log10(loan$inquiries.in.the.last.6.months+1))
+ plot(loan$interest.rate ~ log10(loan$inquiries.in.the.last.6.months+1))
+ ```
+ 
+ Visual inspection too difficult, so we plot linear model line to better see the reln
+ 
+ ````{r}
+ par(mfrow=c(1,2))
+ hist(log10(loan$inquiries.in.the.last.6.months+1))
+ lm <- lm(loan$interest.rate ~ log10(loan$inquiries.in.the.last.6.months+1))
+ plot(loan$interest.rate ~ log10(loan$inquiries.in.the.last.6.months+1))
+ lines(log10(loan$inquiries.in.the.last.6.months+1), lm$fitted, col = "red", lwd = 3)
+ ```
+ 
+ Conclusion : **OKAY**, Shows slightly more impact, hence considered for detail analysis for later part.
+ 
+***Attach the loan data to the data frame so that the columsn can then be acessed directly ***
+dont forget to detach later using detach(loan)
+```{r}
+attach(loan)
+```
+
+
+****VARIABLE : Employement length vs Interest rate****
+ 
+**Reformating of the data**
+we can convert the emp lenth to ordered factor  and then treat or plot  the varaible as numeric
+or we can  convert the pordered employement length to numeric.
+
+```{r}
+employment.length <- as.numeric(employment.length)
+employment.length[is.na(employment.length)] <- 0
+table(employment.length)
+```
+
+
+Inspect data distribution for open credit lines
+ 
+ ```{r fig.width=10, fig.height=6}
+ par(mfrow=c(1,2))
+ hist(employment.length)
+ plot(interest.rate ~ employment.length)
+ lm_emplen <- lm(interest.rate ~ employment.length)
+ lines(employment.length, lm_emplen$fitted, col = "red")
+ ```
+
+
+ Conclusion : **NOT RELEVANT**, Shows almost no impact on the interest rate, when the line was plotted.
+ 
+**1. Amount.requested vs inerest.rate**
+
+Inspect data distribution for open credit lines
+ 
+ ```{r fig.width=10, fig.height=6}
+ par(mfrow=c(1,2))
+ hist(amount.requested)
+ plot(interest.rate ~ amount.requested)
+ lm_amtreq <- lm(interest.rate ~ amount.requested)
+ lines(amount.requested, lm_amtreq$fitted, col = "red")
+ lm_amtreq
+ summary(lm_amtreq)
+ ```
+**1. fico.range vs inerest.rate**
+
+Inspect data and plot
+ 
+ ```{r fig.width=10, fig.height=6} 
+ par(mfrow=c(1,2))
+ range <- as.numeric(fico.range)
+ hist(range)
+ plot(interest.rate ~ range)
+ lm_amtreq <- lm(interest.rate ~ range)
+ lines(range, lm_amtreq$fitted, col = "red")
+ lm_amtreq
+ summary(lm_amtreq)
+ ```
+convert fico range to numeric with  fico.low value
+
+```{r}
+fico.low <-  as.numeric(lapply(strsplit(as.character(fico.range),"-"),"[",1))
+loan$fico.low <- fico.low
+hist(fico.low)
+ plot(interest.rate ~ fico.low)
+ lm_amtreq <- lm(interest.rate ~ fico.low)
+ lines(fico.low, lm_amtreq$fitted, col = "red")
+ lm_amtreq
+ summary(lm_amtreq)
+
+```
+
+
+Plot fico as categrorical val
+ 
+ ```{r fig.width=10, fig.height=6}
+ par(mfrow=c(1,2))  
+ plot(interest.rate ~ fico.range, varwidth = T)
+ lm_amtreq <- lm(interest.rate ~ fico.range) 
+ lm_amtreq
+ summary(lm_amtreq)
+ ```
+
+
+ACtion STEP 2: Divide those into 2 groups : those with little influence and those that have some. 
+----------------------------------------------------------------------------------
+
+                                  T val        slope       p
+1. amount,requested -------------- 14.85 -------- 0.00017 -------- 2e-16 \n
+2. amoiunt.funde.by.investors -----17.95 --------0.00018 -------- "
+3. loan.length --------------------23.34 -------- 4.27204 -------- <2e-16 
+4. loan.purpose  -------- -------- yes important, qualitative data
+5. debt.to.income.ration ----------8.6 -------- 0.095 -------- "
+6. state --------  --------  ------Fval = 1.21
+7. home.ownership --------  ------Fval = 5.87 yes
+8. open.credit.lines --------  no reln observed during exploratory graph
+9. revolving.credit.balance  -------- go for further exploration 
+10.----------------------------3.13    0.000015   0.0018 (**REjected** , cause low T val, with very very low slope val and relatively high p val)
+11. inquiries in the last.6.moths further explore
+12.                            8.398   0.56332          <2e-16 
+13. employement.length          no
+
+REordering by tval 
+                            T val        slope       p
+1. loan.length                 23.34     4.27204    <2e-16 
+2. amoiunt.funde.by.investors  17.95     0.00018     "
+3. amount,requested            14.85     0.00017    2e-16
+4. inquiries in the last.6.moths further explore
+5.                             8.398   0.56332          <2e-16 
+6. debt.to.income.ration       8.6       0.095       "
+7. loan.purpose                yes important, qualitative data
+8. home.ownership              Fval = 5.87 yes
+9. state                       Fval = 1.21
+
+```{r}
+#Rejected factors
+#
+#1. open.credit.lines           no reln observed during exploratory graph
+#2. revolving.credit.balance    go for further exploration 
+#3.                             3.13    0.000015   0.0018 (**REjected** , cause low T val, with very very low 4. #slope val and relatively high p val)
+#4. employement.length          no
+
+```
+
+
+*** Further analyse few variables ***
+
+***Revolving.credit.balance vs interest rate***
+
+  ```{r fig.width=10, fig.height=6}
+ par(mfrow=c(1,2))
+ hist(log10(revolving.credit.balance))
+ plot(interest.rate ~ log10(revolving.credit.balance+1))
+ lm_amtreq <- lm(interest.rate ~ log10(revolving.credit.balance+1))
+ lines(log10(revolving.credit.balance+1), lm_amtreq$fitted, col = "red")
+ lm_amtreq
+ summary(lm_amtreq)
+ ```
+
+without log, distribution
+
+ ```{r fig.width=10, fig.height=6}
+ par(mfrow=c(1,2))
+ hist(revolving.credit.balance)
+ plot(interest.rate ~ revolving.credit.balance)
+ lm_amtreq <- lm(interest.rate ~ revolving.credit.balance)
+ lines(revolving.credit.balance, lm_amtreq$fitted, col = "red")
+ lm_amtreq
+ summary(lm_amtreq)
+ ```
+
+***Inquiries.in.the.last.6.months vs interest rate***
+
+
+without log, distribution
+
+ ```{r fig.width=10, fig.height=6}
+ par(mfrow=c(1,2))
+ hist(inquiries.in.the.last.6.months)
+ plot(interest.rate ~ inquiries.in.the.last.6.months)
+ lm_amtreq <- lm(interest.rate ~ inquiries.in.the.last.6.months)
+ lines(inquiries.in.the.last.6.months, lm_amtreq$fitted, col = "red")
+ lm_amtreq
+ summary(lm_amtreq)
+ ```
+
+
+ACTION STEP 4 : do some formal tests on their correlation, both with the interest rate and with each other (confounders).
+-------------------------------------------------------------------
+
+calculating correlation across all numerical values. We should remove variable if they are too much co related. It implies that the bariables are possible similar
+```{r  fig.width=15}
+
+numeric.columns <- names(loan)[unlist(lapply(loan,"class")) %in% c("numeric", "integer")]
+dn <- as.matrix(loan[,numeric.columns])
+cordn <- cor( dn[complete.cases(dn),] )  
+cordn
+```
+
+Conclusion :Observed Confounding varaible, amount requested and amount funded.
+strong correlation, almost perfect correlation betn amount requested and amount funded. hence during analysis, we would include amount_requested. This makes mer sense logically as well.
+
+
+
+ACTION STEP 5 : Build a model where FICO and your selected variables can be used to predict interest rates. Does that tell you anything ? 
+---------------------------------------------------------
+variables we would inspect
+1. fico.low
+2. loan.length                 23.34     4.27204    <2e-16 
+3. amount,requested            14.85     0.00017    2e-16
+4. inquiries in the last.6.moths further explore
+5.                           8.398   0.56332          <2e-16 
+6. debt.to.income.ration       8.6       0.095       "
+7. loan.purpose                yes important, qualitative data
+8. home.ownership              Fval = 5.87 yes
+9. state                       Fval = 1.21
+
+**building linear model with  interest rate, fico.low score and loan.length**
+
+```{r}
+attach(loan)
+lm1 <- lm(interest.rate ~ fico.low + loan.length)
+par(mfrow = c(1, 2))
+plot(fico.low, lm1$residuals, pch = 19, col = loan.length)
+plot(lm1$fitted, lm1$residuals, pch = 19, col = loan.length)
+lm1
+summary(lm1)
+```
+
+**building linear model with  interest rate, fico.low score and loan.length**
+
+```{r}
+attach(loan)
+lm2 <- lm(interest.rate ~  loan.length + fico.low )
+par(mfrow = c(1, 2))
+plot(fico.low, lm2$residuals, pch = 19, col = loan.length)
+plot(lm2$fitted, lm2$residuals, pch = 19, col = loan.length)
+lm2
+summary(lm2)
+```
+
+
+
+
+6. Then write up your methods, findings and results, paying close attention to the rubric (marking script). 
+
+PS . One other point - it may be useful to have FICO both as categorical (binned) variable and as a continuous numeric variable. Plenty of other threads on this and how to do it if you wish.

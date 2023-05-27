@@ -1,34 +1,49 @@
 # Machine Learning Projects
-All the Data Science / Machine Learning Projects are included in this repository.
+The Machine learning projects covers all the areas of the Machine Learning ranging from Supervised Learning, Unsupervised Learning, Reinforcement Learning. It includes projects across diverse domain from structured data, to image, time-series and text unstructured data.
 
-#Description: 
-The Machine learning projects covers all the areas of the Machine Learning ranging from Supervised Learning, Unsupervised Learning, Reinforcement Learning to the state of the art Deep Neural Network technologies.
-This Readme serves mainly as the "Table of Contents", with "Prerequisites" and "Getting Started Guides" for each of the respective projects added to each project specific sub directories.
+## List of Projects
+The following are the list of projects included in this repository
 
-## Getting Started Guide:
-The Pre-requisite and the usage guide are project specific and hence included in the project specific README files in their respective directories.
+----
+100. House Price Predictor  - Supervised Learning
+101. Interest Rate Predictor - Supervised Learning
+103. Human Activity Predictor - Supervised Learning
+103. Student Intervention Detector - Supervised Learning
+104. Customer Churn Predictor - Supervised Learning
+105. Taxi Trip Predictor - Supervised Learning
+106. Fraud Detector - Supervised Learning
+107. Customer Account Opening Propensity Predictor - Supervised Learning
+108. Classification - Supervised Learning
+----
+200. Alphabet Recogniser - Computer Vision
+----
+300. Sales Demand Forecaster - LSTM - Time Series
+----
+400. LanguageModel - CBOW, Skipgram WordVectors - NLP 
+401. ChatBot NLG - Seq2Seq Encoder Decoder - NLP 
+402. Sentiment Classifier - Convolution Neural Network + Glove - NLP 
+403. Sentiment Classifier - LSTM + Glove - NLP 
+404. User Intention Classification - FineTuning LLM with ULMFit - NLP 
+405. User Intention Classification - FineTuned BERT - NLP 
+-------
+500. Reinforcement Learning - Traffic Rules Learning Agent
+-------
+600. Product Delivery Optimiser -  Clustering
+------
+800. MLOps Architecture
+-----
+900. AutoML - SciOpt - Auto Parameter Tuning
+901. AutoML - Genetic Algorithm - Auto Parameter Tuning
+----
 
-Please traverse into the specific project you want to try and follow the project specific "Getting Started Guide"
 
-
-## Table of Contents
-The table of contents represents the structure of the directory and sub directory of various machine learning projects, as in this repository. 
-
-We have tried to structure the various projects into the proper structure and category, based on their respective machine learning project tasks. Please visit the directory, for details regarding the projects and the "Getting Started Guide"
-
-
-1. Supervised Learning Projects
- - Boston House Prices Predictor
- - Human Activity Predictor - using Smartphone Sensor Data
- - Digit Recogniser
- - Loan Interest Rate Influencer Predictor
- - Student Intervention Need Detector
-
-2. Unsupervised Learning Projects
- - Product Delivery Time Structurer
-
-3. Reinforcement Learning Projects
- - A Smart self driving Car
- 
-4. Deep Neural Network Projects
- - Product Sales Demand Forecaster - LSTM Deep Learning Neural Network
+## Naming Convention
+The naming convention  of the projects  uses the series number. Each series has special significance as in,
+- 1xx - series is reserved for the Supervised Learning
+- 2xx - series is reserved for Computer Vision projects
+- 3xx - series is reserved for time-series projects
+- 4xx - series is reserved for NLP projects
+- 5xx - series is reserved for Reinforcement Learning Projects
+- 6xx - series is reserved for Clustering Projects
+- 8xx - series is reserved for MlOps
+- 9xx - series is reserved for parameter tuning
